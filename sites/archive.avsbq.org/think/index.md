@@ -57,3 +57,5 @@ Thank Jesus for autism. Its the divine disease, an endless paradoxical puzzle
 The answer to 1984 is 1776
 
 Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid
+
+You forget about a thousand things each day, make sure this is one of them
