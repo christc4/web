@@ -1,0 +1,5 @@
+# Replace
+
+    old_string = "Hello, YOUR_NAME!"
+    new_string = old_string.replace("YOUR_NAME", "Kay")
+

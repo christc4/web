@@ -1,0 +1,10 @@
+For information about GNU Emacs and the GNU system, type C-h C-a.
+<f7> <f7> is undefined
+kill-line: End of buffer
+user-error: End of defaults; no next item
+next-line: End of buffer
+command-execute: Buffer is read-only: #<buffer *Messages*>
+C-c C-l is undefined
+C-c C-c is undefined
+funcall-interactively: End of buffer [3 times]
+Quit

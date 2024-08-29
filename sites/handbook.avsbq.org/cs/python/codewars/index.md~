@@ -1,0 +1,6 @@
+# Codewars
+
+## Remove all exclamatory signs
+
+def remove_exclam(s):
+	return s.replace("!", "")
