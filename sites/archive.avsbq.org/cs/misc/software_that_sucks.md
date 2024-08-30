@@ -1,5 +1,7 @@
-<h1>Stuff that sucks</h1>
-<small>Copied from <a href="https://suckless.org/sucks/">https://suckless.org/sucks</a></small>
+FROM [SUCKLESS.ORG](https://suckless.org/sucks/)
+
+# Stuff that sucks
+
 <p>See the <a href="//suckless.org/philosophy">philosophy</a> page about what applies
 to this page.</p>
 <p>Bigger topics that suck: <a href="//suckless.org/sucks/systemd">systemd</a>,

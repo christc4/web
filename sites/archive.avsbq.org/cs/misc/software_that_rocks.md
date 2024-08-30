@@ -1,5 +1,7 @@
-<small>Copied from http://suckless.org/rocks/</small>
-<h1>Stuff that rocks</h1>
+FROM [SUCKLESS.ORG](http://suckless.org/rocks/)
+
+# Stuff that rocks
+
 <p>Software on this page should have ideas similar to the suckless
 <a href="//suckless.org/philosophy/">philosophy</a>. The software must be FOSS licensed.</p>
 <h2>Libraries</h2>

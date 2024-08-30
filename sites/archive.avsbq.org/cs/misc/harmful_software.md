@@ -1,5 +1,6 @@
-<small>Copied from http://harmful.cat-v.org/software/</small>
-<h1>All software sucks</h1>
+FROM [cat-v.org](http://harmful.cat-v.org/software/)
+
+# All software sucks
 
 <p>&ldquo;<em>And folks, let&rsquo;s be honest. Sturgeon was an optimist. Way more than 90% of code is crap.</em>&rdquo; &ndash; Al viro</p>
 
