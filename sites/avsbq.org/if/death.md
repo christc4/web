@@ -11,3 +11,20 @@ I also like to think all of my belongings will be distributed to the right peopl
 <img src=".pix/lenin.gif" style="width:410px; height: auto;">
 
 > _…for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God_ - Ruth 1:16
+
+<details><summary>Unfurl for a poem</summary>
+Do not stand at my grave and weep,
+I am not there, I do not sleep.
+I am a thousand winds that blow;
+I am the diamond glints on the snow.
+I am the sunlight on ripened grain;
+I am the gentle autumn's rain.
+When you awaken in the morning's hush,
+I am the swift uplifting rush
+Of quiet birds in circled flight.
+I am the soft star that shines at night.
+Do not stand at my grave and cry.
+I am not there; I did not die. 
+
+By _Mary Elizabeth Frye_
+</details>

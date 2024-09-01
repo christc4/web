@@ -2,6 +2,8 @@
 
 # Why Linux
 
+> _"linux.org's logo sets unrealistic beauty standards for penguins"_
+
 <img src=.pix/tux1.gif>
 <img src=.pix/tux_monument.gif>
 

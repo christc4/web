@@ -53,6 +53,7 @@ Top, Plan9 Rio. Middle, sowm. Bottom, termux
 
 - Image editing
 	- [ImageMagick](https://imagemagick.org/)
+	- [ditherit](https://ditherit.com/)
 	- [gThumb](https://gitlab.gnome.org/GNOME/gthumb)
 
 - Video editing

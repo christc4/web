@@ -2,6 +2,10 @@
 
 *Last update: 2024/08/27*
 
+<img src=".pix/smoke_alarm_battery1.avif" style="width:550px; height: auto;">
+
+My new bride girdled to the red string of fate
+
 	Woe betide he who points out the chirp,
 	Woe befall on that little twirp,
 	Woe befall on the lie and disguise,
@@ -24,3 +28,9 @@ Crappy poems aside, smoke detector beeping is a real issue.
 https://sahanjournal.com/health/sleep-science-black-insomnia-health-equity-minnesota/
 
 https://www.cpsc.gov/Newsroom/News-Releases/2022/Learn-the-Sounds-of-Fire-Safety-to-Avoid-Danger-African-Americans-Have-the-Highest-Rate-of-Fire-Deaths-and-Injuries
+
+<img src=".pix/smoke_alarm_battery2.avif" style="width:550px; height: auto;">
+
+The cycle of rebirth
+
+

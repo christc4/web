@@ -117,3 +117,4 @@ Datafag is 'computer science' in Norweigan
 
 Ideological axe to grind on the topic of...
 
+I don't want to talk to ceilings

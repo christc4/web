@@ -1,6 +1,6 @@
-<img src="/.pix/thinker.webp">
-
 # Quotes
+
+<img src=".pix/liberty.avif" style="width:300px; height: auto;">
 
 Names intentionally redacted
 
