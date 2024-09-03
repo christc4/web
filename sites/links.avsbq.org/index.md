@@ -43,6 +43,14 @@ Comedy and satire
 
 <img src=.pix/damien_slash.avif>
 
+## Elizabeth Grimm
+
+<hr>
+
+<img src=.pix/elizabeth_grimm.avif>
+
+- [Tux Gallery](http://www.nd.edu/~ljordan/linux/), [Programming Humor](https://www3.nd.edu/~ljordan/butterfly/shoot.html), [St. Agrippina](https://www3.nd.edu/~ljordan/agrippina/)
+
 ## Jay Dyer
 
 <hr>

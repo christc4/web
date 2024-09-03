@@ -13,5 +13,5 @@
 <br>
 <input type="text" id="searchBar" placeholder="Search...">
 <div id="searchResults"></div>
-<script src="http://hbk.avsbq.org/s.js"></script>
+<script src="http://handbook.avsbq.org/s.js"></script>
 </div>

@@ -1,14 +1,19 @@
 # Backwards bike and dvorak
 
+*Last update: 2024/09/02*
+
 <img src=".pix/backwards_bike.gif" style="width: 170px; height: auto;">
-Backwards-bike, "QWERTY"
+Backwards-bike, "DVORAK"
 
 <img src=".pix/normal_bike.gif" style="width: 170px; height: auto;">
-Normal bike, "DVORAK"
+Normal bike, "QWERTY"
 
 > images by Ashley Bartholomew
 
 A chief complaint I hear about people who are staunch on *not* learning an alternative keyboard layout is that they won't be able to use other people's computers. But is this really the case... Let's find out!
+
+<img src=".pix/keyboard_heatmap.avif" style="width: 170px; height: auto;">
+[Image credit](https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentences_heatmap_qwerty/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## Myself
 

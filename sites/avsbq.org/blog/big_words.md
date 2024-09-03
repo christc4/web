@@ -10,6 +10,3 @@ Last update, 2024/08/07
 
 0:09, lethargic, lethargichhck? (He means nostalgic)
 
-Then he lets out a hearty chuckle, a good gafawk
-
-There are lots of young people like this is London, who embarass themselves similarly 

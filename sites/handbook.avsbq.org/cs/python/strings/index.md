@@ -41,3 +41,7 @@ my_list = [44, 35, 21, 63]
 my_list[0]   # Evaluates to 44
 my_list[-1]  # Evaluates to 63
 my_list[1:3] # Evaluates to [35, 21]
+
+## Count uppercase letters
+
+

@@ -12,3 +12,7 @@ Research history of goretex
     - how sustainable
 
 - [sati](https://en.wikipedia.org/wiki/Sati_(practice)#:~:text=Sati%20or%20suttee%20was%20a,deceased%20husband's%20funeral%20pyre.)
+
+https://www.nationaltrust.org.uk/discover/nature/trees-plants/what-is-coppicing
+
+wattle and dawb homes

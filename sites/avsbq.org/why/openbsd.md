@@ -22,3 +22,6 @@ Puffy and lamp, [src](https://www.reddit.com/r/openbsd/comments/dr6ixq/a_puffy_l
 <img src=".pix/puf_irl1.avif" style="width:150px; height: auto;">
 <img src=".pix/puf_irl2.avif" style="width:150px; height: auto;">
 <img src=".pix/puf_irl3.avif" style="width:150px; height: auto;">
+
+<img src=".pix/puf_banner1.gif" style="width:300px; height: auto;">
+[src](https://home.nuug.no/~peter/openbsd_and_you/#1)

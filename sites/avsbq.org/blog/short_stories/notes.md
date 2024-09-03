@@ -91,3 +91,23 @@ scathing
 after a brush with the law chipp on the shoulder
 
 a heaving ocean of people
+
+quite literally as thick as two short planks 
+
+i was appaled at the rudderless nature
+
+dull and dinted metal
+
+politicians parachuted out the country
+
+under britains thralls
+
+operate antanaaes, move heads closer speak in hushed tones
+
+labour the point, draw a viel over these parts of our life
+
+death throes
+
+it bores its way inside
+
+youve never tried hard enough to geet tired
