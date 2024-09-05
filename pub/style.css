@@ -81,7 +81,6 @@ a:hover {
 }
 a.thisPage {
     color: red;
-    text-shadow: 0 0 6px rgba(255, 0, 0, 0.8); /* Red glow effect */
 }
 a {
     text-decoration: none;

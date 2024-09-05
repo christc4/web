@@ -6,6 +6,8 @@ Names intentionally redacted
 
 <!-- If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem -->
 
+If it looks like a duck and quacks like a duck then it's probably a duck
+
 Beauty occupies a narrow band but ugliness has infinite variation
 
 It's trivial for God to reveal secrets such as new technology or other secrets and cause insane price disturbances and throw the whole world into complete chaos

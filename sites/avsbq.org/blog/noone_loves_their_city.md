@@ -1,6 +1,6 @@
 # Noone loves their city
 
-last update 2024/08/15
+*Last update: 2024/08/15*
 
 Before you spend any time hearing what I have to say, read this email I get from [David Redfern](https://substack.com/@dredfern)
 

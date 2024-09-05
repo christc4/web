@@ -1,5 +1,7 @@
 # A lonely business
 
+DRAFT
+
 The happiness in this world has been paid by different prices
 
 Ryu Mikoto, is a 63 year old businessman.
@@ -12,7 +14,7 @@ The slow patter and dragging of their soles were funeral-music and nowhere else 
 
 During his stint at upper-management, Ryu would weed out dozens of what he deemed paper-pushers
 
-For Ryu, there was an art to the perfect firing. Just like how there is beauty in tragedy 
+For Ryu, there was an art to the perfect firing. Just like how there is beauty in tragedy. Yesterday, Ryu toured a run-down motel, doors swung half-open revealing empty cavities where there'd been families.
 
 are you criminal maastermind
 
