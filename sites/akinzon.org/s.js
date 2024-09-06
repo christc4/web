@@ -1,6 +1,6 @@
 // Function to fetch the site index from an external file
 async function fetchSiteIndex() {
-    const response = await fetch('https://akinzon.org/s.json'); // Replace with the correct path to your JSON file
+    const response = await fetch('http://akinzon.org/s.json'); // Replace with the correct path to your JSON file
     const data = await response.json();
     return data;
 }

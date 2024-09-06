@@ -1,12 +1,13 @@
 [
   "art/edward_burne-jones",
-  "art/emil_doepler",
   "art/gustav_klimt",
   "art/ilya_repin",
   "art/jean_bourdichon",
   "art/joseph_noel_paton",
   "art/misc/index",
   "art/misc/notes",
+  "art/misc/edward_okun/index",
+  "art/misc/emil_doepler",
   "art/naohisa_inoue",
   "art/other",
   "art/william_blake",
@@ -20,7 +21,7 @@
   "art/estella_canziani/index",
   "art/kinuko_y_craft/index",
   "art/othera/index",
-  "art/edward_okun/index",
+  "art/edmund_dulac/index",
   "cs/.prg/index",
   "cs/.sh/scsh",
   "cs/dev/foot_pedal/kinesis",
@@ -301,5 +302,6 @@
   "think/skinner_box",
   "think/sword_of_damocles",
   "think/quantifier_shift",
+  "think/pavlovian_response",
   ".fun/index"
 ]
