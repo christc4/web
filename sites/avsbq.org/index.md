@@ -6,8 +6,6 @@
 
 ## <ruby>to the few stargazers out there - welcome<rp>(</rp><rt>don't forget to wipe your feet</rt><rp>)</rp> </ruby>
 
-_Everyone has the face they deserve at 50_
-
 <hr>
 
 My much beloved talk show, [_From the Iron Sights_](http://talk.avsbq.org), zooms in on my interests, aims to spark conversation and kindle the embers of flamewars... 

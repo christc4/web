@@ -1,0 +1,3 @@
+Firstly, line := scanner... 
+Function called handle.command, and it would take line as input, and
+ put handle.command
