@@ -16,3 +16,8 @@ Research history of goretex
 https://www.nationaltrust.org.uk/discover/nature/trees-plants/what-is-coppicing
 
 wattle and dawb homes
+
+great pacific garbage patch	
+
+blog svrige sungazing
+<!-- donate to grymoire.com -->

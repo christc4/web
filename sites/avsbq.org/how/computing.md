@@ -1,18 +1,22 @@
-# Everything you'd want to know about how I do my computing
+# Everything you'd want to know about my computing
 
-# DrAFT
+*Last updated: 2024/09/05*
 
-*Last updated: 2024/07/24*
+## Ergonomics
 
-I am going to make this page as detailed as can be...
-
-## Stretching
+Ergonomics is first and foremost, you only have one body. Take care of it. 
 
 I strictly use a standing desk. 
 
+Standing desks by themselves can become torturous after the 4 hour mark, to mitigate this I'm researching walking treadmills or rollers.
+
 I roll my shoulders and do neck-stretches.
 
-I also never lay my wrists flat when idle, always keep them turned
+When not typing I keep my wrists in a neutral position. I also try to nudge my mouse/trackball while my wrists are neutral
+
+<img src=".pix/wrist.avif" style="width: 450px; height: auto;">
+
+
 
 ## Hardware
 
@@ -37,7 +41,7 @@ Top, Plan9 Rio. Middle, sowm. Bottom, termux
 	- [sowm](https://github.com/dylanaraps/sowm)
     - If I knew more about modifying rio, I'd probably use it, sowm is still uh-may-zin
 
-- *EDITOR*: [acme](http://acme.cat-v.org), [bq](https://todo.avsbq.org/bq), [vim](https://www.vim.org/)
+- *EDITOR*: [acme](http://acme.cat-v.org), [bq](http://to-do.avsbq.org/bq), [vim](https://www.vim.org/), emacs
 	- I use vim for the majority of my on-the-fly text editing, mainly because I haven't been working on my editor bq as much, although if I'm 'locked in' I'll spend several hours in acme
 
 - *OS*:
