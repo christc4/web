@@ -1,6 +1,6 @@
 <title>Christ Amlai</title>
 
-<style>body { background: url(.pix/audrey.webp) no-repeat top left !important; }</style>
+<style>body { background: url(.pix/audrey.avif) no-repeat top left !important; }</style>
 
 # avsbq.org 
 
