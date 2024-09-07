@@ -12,11 +12,11 @@ This will cover the runit init system and focuses on Legacy boot
 
 Login as root.
 
-`
+
 Username: root
 
 Password: artix
-`
+
 
 `fdisk /dev/sda`
 
