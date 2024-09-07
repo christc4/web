@@ -17,7 +17,12 @@ https://www.nationaltrust.org.uk/discover/nature/trees-plants/what-is-coppicing
 
 wattle and dawb homes
 
+research 'darkwood' game
+
 great pacific garbage patch	
 
 blog svrige sungazing
+
 <!-- donate to grymoire.com -->
+
+cortical level, vegetarians have aversion to steak but in deepest they love it

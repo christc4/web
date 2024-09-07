@@ -1,5 +1,7 @@
 # Computer Science
 
+We tricked rocks into thinking
+
 <img src="/.pix/thompson_and_ritchie.webp" style="width:410px; height: auto;">
 
 Learn about...

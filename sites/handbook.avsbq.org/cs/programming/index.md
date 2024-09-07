@@ -7,6 +7,14 @@
 - Boilerplate
 	- code that *has* to be included in many places with little or no variation. when using such languages programmers must write lots of _boilerplate_ to accomplish minor goals
 
+- Buffer
+	- memory used as temporary location for data in programs 
+
+### _h_
+	
+- Hashmap
+	- data structure that pairs key to values
+
 ### _l_
 
 - Linter

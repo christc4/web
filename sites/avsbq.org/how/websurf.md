@@ -1,6 +1,12 @@
-<style>body { background: url(.pix/surf.gif) no-repeat; background-position: bottom left !important; background-attachment: fixed; background-size: 290px auto; /* Adjust the size as needed */ }</style>
+<style>body { background: url(.pix/surf.gif) no-repeat; background-position: top right !important; background-attachment: fixed; background-size: 190px auto; /* Adjust the size as needed */ }</style>
 
 # How I surf the web
+
+*Last update: 2024/09/07*
+
+## Circles
+
+If you are in programming/software circles, you might catch people in passing mention beautiful sites like 'cat-v.org' or xyz minimalist high-quality crafted site. *NOT* ai or corporate or bloated-for-profit page...
 
 ## Use wiby ;)
 

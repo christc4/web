@@ -182,7 +182,7 @@ Survivalism, Lifestyle, History, Anthropology, Paganism
 
 <hr>
 
-<div class="br"><img src=.pix/luk.avif><img src=.pix/luk_varg.avif></div>
+<div class="br"><img src=.pix/luk_boomer.avif><img src=.pix/luk.avif><img src=.pix/luk_varg.avif></div>
 
 > Luke and Varg face mashup
 

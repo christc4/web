@@ -14,7 +14,7 @@ My much beloved talk show, [_From the Iron Sights_](http://talk.avsbq.org), zoom
 
 <hr>
 
-My pages: [homepage](http://avsbq.org) (this page), [archival](http://archive.avsbq.org) (a record of the past, future and present), [iconography](http://icons.avsbq.org) (Sacred Christian art), [mal](http://mal.avsbq.org) (mal means bad), [languages](http://language.avsbq.org) (learning resources and other observations), [links](http://links.avsbq.org) (links to people I find interesting), [to-do](http://to-do.avsbq.org) (a personal to-do list and coding/irl projects), [handbook](http://handbook.avsbq.org) (a trail of rope for myself)
+My pages: [homepage](http://avsbq.org) (avsbq.org), [archival](http://archive.avsbq.org) (record of things), [iconography](http://icons.avsbq.org) (sacred art), [mal](http://mal.avsbq.org) (mal = bad), [languages](http://language.avsbq.org) (learning/interests), [links](http://links.avsbq.org) (links to interesting people), [to-do](http://to-do.avsbq.org) (my to-do / coding/irl stuff), [handbook](http://handbook.avsbq.org) (trail of rope for myself)
 
 <img src=".pix/a.svg" style="width: 80px; height: auto;"> *`Christ Amlai 2023-2024`*
 
@@ -22,4 +22,4 @@ My pages: [homepage](http://avsbq.org) (this page), [archival](http://archive.av
 
 My [GitHub](https://github.com/christc4)
 
-<img src=".pix/octo.avif" style="width: 80px; height: auto;"> *`christc4`*
+<img src=".pix/octo1.avif" style="width: 80px; height: auto;"> *`christc4`*

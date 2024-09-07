@@ -1,6 +1,8 @@
 # Shells
 
-#### She sells seashells by the sea shore
+She sells seashells by the sea shore
+
+It's called a SHELL as it hides the kernel
 
 ## Tutorials
 

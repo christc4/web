@@ -1,6 +1,7 @@
 # Think
 
 ![image](.pix/think_while_its_still_legal.avif)
+![image](.pix/chud_therapy.avif)
 
 <u>Names intentionally omitted</u>
 
@@ -122,3 +123,7 @@ I don't want to talk to ceilings
 Hoard gold, spoils, wares like a dragon...
 
 A shotgun is the best weapon in medieval combat
+
+Linuxfetch is the same thing as dutifully organising your plate of food for a picture
+
+The wheel that squeaks the loudest gets the grease

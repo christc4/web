@@ -9,5 +9,3 @@
     x = ' '.join([line.strip() for line in file_line_list])
     file2.write(x)
     file2.close
-
-[Source code](http://handbook.avsbq.org/cs/python/src/minify.py)
