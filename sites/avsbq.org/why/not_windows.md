@@ -1,11 +1,13 @@
 # Why not Windows?
 
-I was weaned of Windows, as most people in the world were.
+*Last update: 2024/09/07*
 
-From Windows XP, Vista, 7, 8, 10, 11
+Windows perhaps the suckiest and clunkiest operating system
+
+<hr>
+
+At one point in time, I decided I would do a deep-dive in Windows, let me customise it as faras I can.. 
 
 I cannot strip the OS down.
 
 The OS has been slow and laggy for me
-
-I do use Windows to play some retro DOS and games incompatible with Linux
