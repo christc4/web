@@ -1,10 +1,12 @@
 # Bespoke in Bangladesh
 
+*Last update: 2024/09/07*
+
 Suits aren't a thing in Bangladesh.
 
 Bengali's don't know suits. The British know suits. The Italians and Japanese know suits.
 
-That's not to say there aren't talented tailoring houses like "Dapper Bespoke"
+That's not to say there aren't talented tailoring houses dotted around the capital - well... in the well-to-do areas. 
 
 You have to be ultra-specific and you're better talking to an older and more-travelled tailor.
 
