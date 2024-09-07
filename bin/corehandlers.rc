@@ -2,21 +2,21 @@
 
 fn nav_tree {
     if(! ~ $#sideBarNavTitle 0)
-        echo '<p class="sideBarTitle">'$"sideBarNavTitle':</p>'
+        echo -n '<p class="sideBarTitle">'$"sideBarNavTitle':</p>'
     # Ignore stderr, last path element might be a file that doesn't exist (eg., foo for foo.md)
     # /./ to deal with p9p's ls failure to follow dir symlinks otherwise
     ls -F $sitedir/./$req_paths_list >[2]/dev/null \
-        | { 
-            sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean 
-            if(! ~ $#synth_paths 0) echo $synth_paths | tr ' ' $NEW_LINE 
-        } | sort -u | awk -F/ ' 
-    function p(x, y, s) { for(i=0; i < x-y; i+=1) print s }
-    BEGIN { lNF=2; print "<ul>" }
-    { 
+        | {
+            sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
+            if(! ~ $#synth_paths 0) echo $synth_paths | tr ' ' $NEW_LINE
+        } | sort -u | awk -F/ '
+    function p(x, y, s) { for(i=0; i < x-y; i+=1) printf s }
+    BEGIN { lNF=2; printf "<ul>" }
+    {
         d = ""
         if(match($0, "/$"))
             d = "/"
-        sub("/$", "") # Strip trailing / for dirs so NF is consistent 
+        sub("/$", "") # Strip trailing / for dirs so NF is consistent
 
         p(NF, lNF, "<li><ul>")
         p(lNF, NF, "</ul></li>")
@@ -28,24 +28,24 @@ fn nav_tree {
 
         # To avoid false matches add trailing / even for plain files to act as delimiter
         pa = path
-        gsub(/[^\/]$/, "&/", pa) 
+        gsub(/[^\/]$/, "&/", pa)
 
         if(index(ENVIRON["req_path"] "/", pa) == 1)
-            print "<li><a href=\"" path "\" class=\"thisPage\"><b> " bname "</b></a></li>"
-        else 
-            print "<li><a href=\"" path "\"> " bname "</a></li>"
+            printf "<li><a href=\"" path "\" class=\"thisPage\"><b> " bname "</b></a></li>"
+        else
+            printf "<li><a href=\"" path "\"> " bname "</a></li>"
     }
-    END { p(lNF, 2, "</ul></li>"); print "</ul>" }'
+    END { p(lNF, 2, "</ul></li>"); printf "</ul>" }'
 }
 
 fn link_bar {
     if(~ $1 -t) {
-        echo '<p class="sideBarTitle">'$2'</p>'
+        echo -n '<p class="sideBarTitle">'$2'</p>'
         shift; shift
     }
-    echo '<ul>'
+    echo -n '<ul>'
     while(! ~ $#* 0) {
-        echo '<li><a href="'$2'">- '$1'</a></li>'
+        echo -n '<li><a href="'$2'">- '$1'</a></li>'
         shift; shift
     }
     echo '</ul>'

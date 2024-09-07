@@ -1,0 +1,17 @@
+from cglib.rc i deleted
+
+	fn http_redirect {
+	    if(~ $1 http://* https://*)
+		t=$1
+	    if not if(~ $1 /*)
+		t=$"base_url^$1
+	    if not
+		t=$"base_url^$"req_path^$1
+	    exec /bin/echo 'Status: '^$2^'
+	Location: '^$t^'
+
+	'
+	    exit
+	}
+	fn perm_redirect { http_redirect $1 '301 Moved Permanantly' }
+	fn post_redirect { http_redirect $1 '303 See Other' }
