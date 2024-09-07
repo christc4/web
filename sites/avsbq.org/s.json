@@ -101,10 +101,10 @@
   "why/openbsd",
   "why/websites",
   "why/vim",
-  "why/no_https",
-  "why/no_windows",
-  "why/no_apple",
+  "why/not_apple",
+  "why/not_https",
   "why/larbs",
   "why/dvorak",
-  "why/online"
+  "why/online",
+  "why/not_windows"
 ]
