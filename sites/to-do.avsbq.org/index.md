@@ -26,3 +26,5 @@ blog svrige sungazing
 <!-- donate to grymoire.com -->
 
 cortical level, vegetarians have aversion to steak but in deepest they love it
+
+steak tartar make it
