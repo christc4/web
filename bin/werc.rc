@@ -17,7 +17,6 @@ dirclean=' s/\.(md|html|txt)$//; '
 # Careful, the proper p9p path might not be set until initrc.local is sourced
 path=(. /bin ./bin)
 
-res_tail='</body></html>'
 http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
 werc_apps=( apps/* )
@@ -132,7 +131,6 @@ fn werc_exec_request {
         exit
 
     template $headers $master_template # | awk_buffer
-    echo $res_tail
 }
 
 werc_exec_request

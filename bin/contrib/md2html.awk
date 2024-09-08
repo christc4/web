@@ -210,7 +210,7 @@ BEGIN {
     html = 0;
     nl = 0;
     nr = 0;
-    otext = "";
+    otext = "<article>";
     text = "";
     par = "p";
 }
@@ -386,16 +386,17 @@ text && /^-+$/ {printp("h2"); next;}
 # Add text
 { text = (text ? text " " : "") $0; }
 END {
-    if(code){
-	oprint("</pre></code>");
-	code = 0;
+    if (code) {
+        oprint("</pre></code>");
+        code = 0;
     }
     printp(par);
-    for(; nl > 0; nl--){
-	if(match(block[nl], /[ou]l/))
-	    oprint("</li>");
-	oprint("</" block[nl] ">");
+    for (; nl > 0; nl--) {
+        if (match(block[nl], /[ou]l/))
+            oprint("</li>");
+        oprint("</" block[nl] ">");
     }
     gsub(/\n/, "", otext);  # Remove all newlines
+    oprint("</article></body></html>");  # Add closing tags
     print(otext);
 }
