@@ -2,7 +2,6 @@
 
 Go run this,
 
-
 	package main
 	import "fmt"
 
