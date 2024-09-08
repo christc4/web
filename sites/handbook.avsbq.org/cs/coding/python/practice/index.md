@@ -1,4 +1,6 @@
-# Python Practice
+# Python Practice for Coding Assessment
+
+*Last update: 2024/09/08*
 
 <details><summary>Sources used:</summary>
 [zemadi (coderbyte)](https://gist.github.com/zemadi/11071837)
@@ -179,16 +181,11 @@ to-do
 
 #### Add one and divide by two
 
-<object data=".txt/add_1_divide_by_2_v1.txt" width="255" height="72"></object>
+<object data=".txt/add_1_divide_by_2_v1.txt" width="240" height="110"></object>
 
 You can do this with a single expression like...
 
 <object data=".txt/add_1_divide_by_2_v2.txt" width="255" height="72"></object>
-
-    def two_step(num):
-        return(num + 1)/2
-    print(two_step(5))
-
 
 #### Typecasting
 
@@ -197,15 +194,10 @@ You can do this with a single expression like...
 
 #### Tell length
 
-print(f"Your name is {len(my_name)} characters long")
+	print(f"Your name is {len(my_name)} characters long")
 
 # Exercises
 
 #### Display even numbers from 1 to 10 and count how many even numbers
 
-    count = 0
-    for number in range(1, 10):
-        if number % 2 == 0:
-            count += 1
-            print(number)
-    print(f"We have {count} numbers")
+<object data=".txt/even_number_1_to_10.txt" width="255" height="120"></object>
