@@ -127,3 +127,7 @@ A shotgun is the best weapon in medieval combat
 Linuxfetch is the same thing as dutifully organising your plate of food for a picture
 
 The wheel that squeaks the loudest gets the grease
+
+Jared is woven into the fabric of the brand and is an essential part  of the family jeff moody ceo of subway
+
+Idle hands are the devils plaything

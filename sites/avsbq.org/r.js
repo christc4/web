@@ -1,18 +1,1 @@
-async function fetchPaths() {
-    const response = await fetch('http://avsbq.org/s.json');
-    const paths = await response.json();
-    return paths;
-}
-
-async function goToRandomPage() {
-    const paths = await fetchPaths();
-    
-    // Filter out paths containing a dot
-    const filteredPaths = paths.filter(path => !path.includes('.'));
-    
-    // Select a random path from the filtered paths
-    const randomPath = filteredPaths[Math.floor(Math.random() * filteredPaths.length)];
-    
-    // Redirect to the new URL
-    window.location.assign(`http://avsbq.org/${randomPath}`);
-}
+async function fetchPaths(){const t=await fetch("http://avsbq.org/s.json");return await t.json()}async function goToRandomPage(){const t=(await fetchPaths()).filter((t=>!t.includes("."))),a=t[Math.floor(Math.random()*t.length)];window.location.assign(`http://avsbq.org/${a}`)}
