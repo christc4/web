@@ -1,3 +1,8 @@
-<h1>The requested document at '<i>%($base_url$"req_path%)</i>' doesn't exist</h1>
-<h4>Or take a look at the <a href="/sitemap">sitemap</a>.</h4>
+<h1>Hello Kofo</h1>
+<h4>I have been expecting you</h4>
+<h4>Take a seat</h4>
+<h4>Or a stand</h4>
+<h4>Your time is coming</h4>
+<h4>Will you neglect your child</h4>
+<h4>And let it grow wild?</h4>
 <hr>

@@ -1,5 +1,3 @@
-<h1>Site map</h1>
-
 %{
 tmpfile=/tmp/werc_sitemap_$pid.txt
 tmpfilex=/tmp/werc_sitemapx_$pid.txt
