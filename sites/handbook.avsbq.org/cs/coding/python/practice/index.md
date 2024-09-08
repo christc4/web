@@ -10,7 +10,7 @@
 
 #### Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-<object data=.txt/check_if_odd_or_even.txt></object>
+<object data=".txt/check_if_odd_or_even.txt" width="190" height="140"></object>
 
 #### DNA 
 
@@ -117,16 +117,11 @@ The loop will calculate
 If you want the function to return the factorial instead of printing it, replace `print(sum)` with `return sum`
 </details>
 
-#### Have a function take the sen paramater and return the longest word in the string. If there are two or more words the same length, return the first word from the string with that length. Ignore punctuation and assume sen will not be empty
+#### Return longest word
 
-    def LongestWord(sen):
-        test = sen.split(" ")
-        greatest = test[0]
+Have a function take the sen paramater and return the longest word in the string. If there are two or more words the same length, return the first word from the string with that length. Ignore punctuation and assume sen will not be empty
 
-    for word in test:
-        if len(word) > len(greatest):
-        greatest = word
-        print(greatest)
+<object data=".txt/return_longest_word.txt" width="295" height="195"></object>
 
 <details><summary>Explanation:</summary>
 
@@ -161,34 +156,11 @@ Looping through the words
     - `greatest = word`: if the current word is longer than the word in `greatest`, the variable `greatest` is updated to the current word
 </details>
 
-#### Have a function take the str parameter being passed and modify it using the following algorithm. Replace every letter in the string with the letter following it in the alphabet (ie. c becomes d, z becomes a). Then capitalize every vowel in this new string and finally return this modified string
+#### Replace letter with next alphabetical letter
 
-    def LetterChanges(s):
-        lower = s.lower()
-        
-        newstring = ""
-        lookup = "abcdefghijklmnopqrstuvwxyz"
-        vowels = "aeiou"
-        
-        for letter in lower:
-            if letter.isalpha():  # Only process alphabetic characters
-                if letter == "z":
-                    newstring += "A"
-                else:
-                    letter_index = lookup.index(letter)
-                    next_letter = lookup[(letter_index + 1)]
-                    if next_letter in vowels:
-                        newstring += next_letter.upper()
-                    else:
-                        newstring += next_letter
-            else:
-                # Keep non-alphabet characters unchanged
-                newstring += letter
-        
-        print(newstring)
+Have a function take the str parameter being passed and modify it using the following algorithm. Replace every letter in the string with the letter following it in the alphabet (ie. c becomes d, z becomes a). Then capitalize every vowel in this new string and finally return this modified string
 
-    LetterChanges("Hello, World!") 
-
+<object data=".txt/replace_letter_with_next_letter.txt" width="500" height="420"></object>
 
 <details><summary>Explanation:</summary>
 to-do
@@ -207,19 +179,11 @@ to-do
 
 #### Add one and divide by two
 
-From [021_two_step.py](https://github.com/makersacademy/intro-to-python/blob/main/021_two_step.py),
-
-You can do...
-
-    def two_step(num):
-        added = num + 1
-        halved = added / 2
-        return halved
-
-    print("two_step(5) is:")
-    print(two_step(5))
+<object data=".txt/add_1_divide_by_2_v1.txt" width="255" height="72"></object>
 
 You can do this with a single expression like...
+
+<object data=".txt/add_1_divide_by_2_v2.txt" width="255" height="72"></object>
 
     def two_step(num):
         return(num + 1)/2
