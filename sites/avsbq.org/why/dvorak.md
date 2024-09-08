@@ -2,7 +2,6 @@
 
 I use dvorak, specifically 'programer-dvorak'
 
-<br>
 
     ~ % 7 5 3 1 9 0 2 4 6 8 `
     $ & [ { } ( = * ) + ] ! #

@@ -2,18 +2,11 @@
 
 #### Remove all exclamatory signs
 
-	def remove_exclam(s):
-		return s.replace("!", "")
+<object data=".txt/remove_exclam.txt" width="auto" style="height: 40px"></object>
 
 #### Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-	def even_or_odd(number):
-	    if number % 2 == 0:
-		return "Even"
-	    else:
-		return "Odd"
-
-	even_or_odd(5)
+<object data=".txt/check_if_odd_or_even.txt" width="auto" style="height: 120px"></object>
 
 #### DNA "ATTGC" --> "TAACG" "GTAT" --> "CATA"
 
