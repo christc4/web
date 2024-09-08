@@ -1,73 +1,38 @@
-# Codewars
+# Python Practice
+
+<details><summary>Sources used:</summary>
+[zemadi (coderbyte)](https://gist.github.com/zemadi/11071837)
+</details>
 
 #### Remove all exclamatory signs
 
-<object data=".txt/remove_exclam.txt" width="auto" style="height: 40px"></object>
+<object data=.txt/remove_exclam.txt></object>
 
 #### Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-<object data=".txt/check_if_odd_or_even.txt" width="auto" style="height: 120px"></object>
+<object data=.txt/check_if_odd_or_even.txt></object>
 
-#### DNA "ATTGC" --> "TAACG" "GTAT" --> "CATA"
+#### DNA 
 
-	def DNA_strand(dna):
-	    # code here
-	    complement = {'A': 'T', 'T': 'A', 'C': 'G', 'G': 'C'}
-	    return ''.join([complement[base] for base in dna])
-
-	DNA_strand("ATTGC")
+<object data=.txt/dna1.txt></object>
 
 You can also do...
 
-	def DNA_strand(dna):
-	    translation_table = str.maketrans("ATCG", "TAGC")
-	    return dna.translate(translation_table)
-
-	print(DNA_strand("ATTGC"))
+<object data=.txt/dna2.txt></object>
 
 
-#### Count the number of Duplicates that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
 
-*Example:*
+#### Count duplicate no.
 
-	"abcde" -> 0 # no characters repeats more than once
-	"aabbcde" -> 2 # 'a' and 'b'
-	"aabBcde" -> 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
-	"indivisibility" -> 1 # 'i' occurs six times
-	"Indivisibilities" -> 2 # 'i' occurs seven times and 's' occurs twice
-	"aA11" -> 2 # 'a' and '1'
-	"ABBA" -> 2 # 'A' and 'B' each occur twice
+that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+
+Example:
+
+<object data=.txt/count_duplicate_example.txt></object>
 
 Program:
 
-	def dup_count(s):
-		
-		# Converting string to lowercase, ensuring case-insensitivity
-		s = s.lower()
-
-		# Dictionary to count occurences of each character
-		char_count = {}
-
-		# Counting each character in string
-		for char in s:
-			if char in char_count:
-				char_count[char] += 1
-			else:
-				char_count[char] = 1
-
-		# Count how many characters have more than 1 occurence
-		duplicates = 0
-		for count in char_count.values():
-			if count > 1:
-				duplicates += 1
-		
-		return duplicates
-	
-	
-
-# Coderbyte Practice
-
-Answers from [zemadi](https://gist.github.com/zemadi/11071837), where answers were incorrect or inefficient I corrected and supplied my own
+<object data=".txt/count_duplicate1.txt" width="500" height="320"></object>
 
 #### Have a function take the `str` parameter being passed and return the string in reverse order
 

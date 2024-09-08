@@ -1,2 +1,3 @@
 def remove_exclam(s):
 	return s.replace("!", "")
+print(remove_exclam("HEY!!!"))
