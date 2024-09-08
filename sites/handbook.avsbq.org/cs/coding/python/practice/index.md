@@ -6,7 +6,7 @@
 
 #### Remove all exclamatory signs
 
-<object data=.txt/remove_exclam.txt></object>
+<object data=".txt/remove_exclam.txt" width="255" height="72"></object>
 
 #### Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
@@ -38,7 +38,7 @@ Program:
 
 <details><summary>Explanation:</summary>
 
-- `str[::-1]`:  is the slicing operation
+`str[::-1]`:  is the slicing operation
 
 Slicing is a way to extract parts of sequences like strings, lists and tuples.
 
@@ -62,14 +62,8 @@ Calling the function such that `FirstReverse("Hello")`, `str[::-1]` reverses the
 
 #### Have a function take the num parameter being passed and return the factorial of it (ie. if num = 4, return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18
 
-    def FirstFactorial(num): 
+<object data=.txt/factorial.txt></object>
 
-      sum = 1
-      count = 1
-      while count <= num:
-        sum = sum * count
-        count += 1
-      print sum
 
 <details><summary>Explanation:</summary>
 

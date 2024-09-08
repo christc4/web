@@ -1,8 +1,4 @@
-# Minify css
-
-*Last update: 2024/08/19*
-
-    file1 = open("normal.css", "r")
+file1 = open("normal.css", "r")
     file_line_list = file1.readlines()
     file1.close
     file2 = open("minified.css", "a")
