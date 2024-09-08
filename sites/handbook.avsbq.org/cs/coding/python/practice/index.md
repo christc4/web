@@ -20,8 +20,6 @@ You can also do...
 
 <object data=.txt/dna2.txt></object>
 
-
-
 #### Count duplicate no.
 
 that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
@@ -36,8 +34,7 @@ Program:
 
 #### Have a function take the `str` parameter being passed and return the string in reverse order
 
-    def FirstReverse(str):
-        print str[::-1]
+<object data=.txt/reverse_string.txt></object>
 
 <details><summary>Explanation:</summary>
 
