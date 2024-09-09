@@ -38,23 +38,7 @@ function nextil(t) {
 	    tag = "&#8212;";
 	return t1 tag nextil(t2);
     }
-    # Inline Code
-    if(tag == ""){
-	if(sub(/^/, "", t2)){
-	    if(!match(t2, /`/))
-		return t1 "&#8221;" nextil(t2);
-	    ilcode2 = !ilcode2;
-	}
-	else if(ilcode2)
-	    return t1 tag nextil(t2);
-	tag = "<code>";
-	if(ilcode){
-	    t1 = eschtml(t1);
-	    tag = "</code>";
-	}
-	ilcode = !ilcode;
-	return t1 tag nextil(t2);
-    }
+
     if(tag == "<"){
     # Autolinks
 	if(match(t2, /^[^ 	]+[\.@][^ 	]+>/)){

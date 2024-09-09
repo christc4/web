@@ -133,3 +133,5 @@ Jared is woven into the fabric of the brand and is an essential part  of the fam
 Idle hands are the devils plaything
 
 I wouldn't touch you with a bargepole
+
+Ducks are not just food! They are faster level flyers than falcons! A frozen chicken will approach 200mph if you drop it from a plane.
