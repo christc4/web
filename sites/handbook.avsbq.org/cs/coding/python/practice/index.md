@@ -170,11 +170,11 @@ to-do
 
 #### Have a function add up all the numbers from 1 to num. 
 
-    def SimpleAdding(num):
-        total = 0
-        for number in range(1, int(num) + 1):  # Modified to include 'num'
-            total += number
-        print(total)  # Parentheses required
+def SimpleAdding(num):
+total = 0
+for number in range(1, int(num) + 1):  # Modified to include 'num'
+total += number
+print(total)  # Parentheses required
 
 <details><summary>Explanation:</summary>
 </details>
@@ -189,12 +189,12 @@ You can do this with a single expression like...
 
 #### Typecasting
 
-    my_string = "five" + str(2)
-    print(my_string)
+my_string = "five" + str(2)
+print(my_string)
 
 #### Tell length
 
-	print(f"Your name is {len(my_name)} characters long")
+print(f"Your name is {len(my_name)} characters long")
 
 # Exercises
 

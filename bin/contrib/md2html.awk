@@ -396,7 +396,7 @@ END {
             oprint("</li>");
         oprint("</" block[nl] ">");
     }
-    gsub(/\n/, "", otext);  # Remove all newlines
-    oprint("</article></body></html>");  # Add closing tags
+    gsub(/\n/, "", otext); 
+    oprint("</article></body></html>"); 
     print(otext);
 }
