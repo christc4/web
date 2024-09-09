@@ -1,5 +1,7 @@
 # Todo
 
+Study simon webb homeschooling method
+
 Research electrolytes,
  - Do we lose a ratio of 3.5mg (sodium) and 1.5mg (potassium) when we sweat?
 
