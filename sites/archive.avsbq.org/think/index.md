@@ -63,3 +63,5 @@ Everyone is a genius. But if you judge a fish by its ability to climb a tree, it
 You forget about a thousand things each day, make sure this is one of them
 
 Genetics load the gun but lifestyle pulls the trigger
+
+Turn knowledge into wisdowm, the unknown into the known
