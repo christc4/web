@@ -1,5 +1,9 @@
 # Sentence Mining 2
 
+*Last update: 2024/09/09*
+
+> *NOTE:* My [old page](sentence_mining.html)
+
 ## d
 
 ### 懂

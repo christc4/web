@@ -1,8 +1,12 @@
 # Werc builtin handlers
 
 fn nav_tree {
+    # Output the doctype and header content on the same line as <nav id="side-bar">
+    echo -n '<!DOCTYPE HTML><html><head><title> </title><meta charset="utf-8"><link rel="stylesheet" href="/pub/style.css"></head><body><header><nav><div><a href="http://avsbq.org">HOME</a> | <a href="http://archive.avsbq.org">ARCHIVE</a> | <a href="http://icons.avsbq.org">ICONs</a> | <a href="http://mal.avsbq.org">MAL !</a> | <a href="http://language.avsbq.org">LANG.</a> | <a href="http://links.avsbq.org">LINKs</a> | <a href="http://to-do.avsbq.org">TO-DO</a> | <a href="http://handbook.avsbq.org">HANDBOOK</a></div><div><a href="http://avsbq.org/.reach">REACH</a> - <a href="http://avsbq.org/.give">GIVE</a> - <a href="/sitemap">SITEMAP</a><br><input type="text" id="searchBar" placeholder="Search currently down"><div id="searchResults"></div><script src="http://archive.avsbq.org/s.js"></script></div></nav></header><nav id="side-bar"><div><ul>'
+
     if(! ~ $#sideBarNavTitle 0)
         echo -n '<p class="sideBarTitle">'$"sideBarNavTitle':</p>'
+    
     # Ignore stderr, last path element might be a file that doesn't exist (eg., foo for foo.md)
     # /./ to deal with p9p's ls failure to follow dir symlinks otherwise
     ls -F $sitedir/./$req_paths_list >[2]/dev/null \
@@ -11,7 +15,7 @@ fn nav_tree {
             if(! ~ $#synth_paths 0) echo $synth_paths | tr ' ' $NEW_LINE
         } | sort -u | awk -F/ '
     function p(x, y, s) { for(i=0; i < x-y; i+=1) printf s }
-    BEGIN { lNF=2; printf "<nav id="side-bar"><div><ul>" }
+    BEGIN { lNF=2; }
     {
         d = ""
         if(match($0, "/$"))
