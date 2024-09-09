@@ -2,7 +2,7 @@
 
 *Last update: 2024/09/09*
 
-I use a heavily modified and stripped-down version of [werc](https://werc.cat-v.org), _a minimalist web anti-framework_.
+I use a heavily modified and stripped-down version of [werc](https://werc.cat-v.org), _a minimalist web anti-framework_. In fact it's so modified I'm surprised it even _works_
 
 I never did manage to set werc up manually with nginx or httpd, until I discovered this amazing script which automates the process on OpenBSD, which conveniently is the server OS I run. The script, [werc-on-openbsd](https://github.com/EdoardoLaGreca/werc-on-openbsd).
 

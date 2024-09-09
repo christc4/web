@@ -23,7 +23,7 @@ Beginner experience, like bike without stabilisers, eventually you end up riding
 
 ### Cheap keyboards 
 
-This will link to my [rsi](rsi) post
+*Note to reader:* If you think the below is 'too' expensive just know, 'scrimping on pennies will cost you pounds' in other words your wrist health is worth it and so are you
 
 Get something like the below...
 

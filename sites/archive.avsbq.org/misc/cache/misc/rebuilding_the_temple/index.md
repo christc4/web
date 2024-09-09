@@ -2,7 +2,7 @@
 
 > They dream of rebuilding the Temple, re-instituting animal sacrifices, and a Jewish religious monopoly over one of the world's most contentious, incendiary sites, the Temple Mount/Al-Aqsa Mosque. Once a fringe movement, its activists are now backed by Itamar Ben-Gvir and other far-right extremists in Netanyahu's government. This is the story of the Temple Movement
 
-<img src="1.webp" style="width: 300px; height: auto;">
+<img src="1.avif" style="width: 300px; height: auto;">
 > Temple Mount Movement activists over the years.Credit: Photos: Mark Neyman/ GPO; Olivier Fitoussi. Artwork: Anastasia Shub
 
 > Author: Rachel Fink
@@ -20,7 +20,7 @@ Why Jews Stopped Sacrificing Lambs for Passover
 Israeli Court Is Rubber Stamping Temple Mount Zealots
 The event advertised in the flier promised to take place outside of Jerusalem, in Mitzpeh Yericho, an ultra-religious settlement in the West Bank, and not on Temple Mount. But another group of Temple activists stuck to a more ambitious plan, and were arrested on Monday for trying to sacrifice a goat on the Temple Mount in Jerusalem. When they were released shortly after the arrest, they gloated about Israel's National Security Minister Itamar Ben-Gvir intervening on their behalf.
 
-<img src="2.webp" style="width: 300px; height: auto;">
+<img src="2.avif" style="width: 300px; height: auto;">
 > Temple Movement activists at a Passover ceremony at the Temple Mount last year.Credit: Olivier Fitoussi
 
 Is the Mitzpe Jerico event a sign that more moderate voices from the movement have finally prevailed? Or has Israel's hard-right government only emboldened activists to try to upend the tacit understanding that is keeping Jews' and Muslims' reluctant tolerance of each other's presence on the Temple Mount from devolving into an all-out war?
@@ -35,7 +35,7 @@ He also gave an order to evict any Jewish worshippers trying to pray on the Moun
 
 Standing at the Western Wall, Dayan proclaimed, "To our Arab neighbors we extend, especially at this hour, the hand of peace. To members of the other religions, Christians and Muslims, I hereby promise faithfully that their full freedom and all their religious rights will be preserved. We did not come to Jerusalem to conquer the holy places of others."
 
-<img src="3.webp" style="width: 300px; height: auto;">
+<img src="3.avif" style="width: 300px; height: auto;">
 > Far-right lawmaker Itamar Ben-Gvir, now national security minister, visiting the Temple Mount in 2022.Credit: Sinan Abu Mayzer/Reuters
 
 According to Tomer Persico, a research fellow at the Shalom Hartman Institute and a Rubinstein fellow at Reichman University, Dayan was able to avoid serious Jewish pushback because even after the recapture of the Mount, there was very little demand to put the site back into use. "The religious Zionists were interested in the Temple as a future utopian ideal," Persico says. "They didn't even believe that Jews were allowed on the Temple Mount at this point."
@@ -57,7 +57,7 @@ Eran Tzidkiyahu, a lecturer at the Hebrew University of Jerusalem and a research
 "The first 30 years were static, not a lot was accomplished, and their motivations were much more nationalistic in nature," Tzidkiyahu says. "Whereas in the last 30 years, as over 25 distinct organizations have formed, there has been a slow but constant march toward changing the status quo."
 
 
-<img src="4.webp" style="width: 300px; height: auto;">
+<img src="4.avif" style="width: 300px; height: auto;">
 > Whether trumpets or the method for ritual slaughter, Temple Mount activists are sticklers for detail.Credit: Olivier Fitoussi
 
 
@@ -82,7 +82,7 @@ The next big jump in what Tzidkiyahu calls "the mainstream-ization" of the Templ
 
 
 
-<img src="5.webp" style="width: 300px; height: auto;">
+<img src="5.avif" style="width: 300px; height: auto;">
 >Yehudah Glick campaigning in the run-up to the Likud primary in 2019. He was a lawmaker for the party from 2016 to 2019.Credit: Olivier Fitoussi
 
 Yehudah Glick, the man who changed a movement
@@ -111,7 +111,7 @@ He adds: "At that time, you also have [then-Public Security Minister] Gilad Erda
 Miri Regev and Glick at a conference devoted to the Temple Mount in 2014.Credit: Emil Salman
 
 
-<img src="6.webp" style="width: 300px; height: auto;">
+<img src="6.avif" style="width: 300px; height: auto;">
 > Miri Regev and Glick at a conference devoted to the Temple Mount in 2014.Credit: Emil Salman
 
 2015: The fruits of their labors
@@ -134,7 +134,7 @@ It was merely an unspoken understanding; there was no change in the law. "The po
 
 
 
-<img src="7.webp" style="width: 300px; height: auto;">
+<img src="7.avif" style="width: 300px; height: auto;">
 > Red Heifers imported to Israel, last month. For a sacrifice, the activists need a completely blemish-free red heifer with no more than two non-red hairs on its body.Credit: Olivier Fitoussi
 
 The extremists of the extremists
@@ -157,7 +157,7 @@ The search for such a red heifer has included a failed attempt at in vitro ferti
 
 The COVID-19 pandemic, which reduced the number of farmhands working, inadvertently allowed these heifers to remain unnoticed. The five cows made it to Israel but did not meet the standards of the rabbinical authorities from the Temple Institute, and the search for the Holy Cow continues.
 
-<img src="8.webp" style="width: 300px; height: auto;">
+<img src="8.avif" style="width: 300px; height: auto;">
 > Palestinian women reading the Quran at the Dome of the Rock during Ramadan earlier this month.Credit: Ahmad Gharabli/AFP
 
 Open gallery view
@@ -173,7 +173,7 @@ Persico argues that the Palestinians' relationship to the status quo is in some 
 Back in 2017, Tzidkiyahu told Haaretz about another critical aspect of the Palestinian connection to Haram al-Sharif. "It's the only place where there is a certain degree of freedom and independence for Palestinians," he said, "because it's the place where Israeli sovereignty is at its most imperfect and the Israeli occupation is less present. … This is precisely what the Palestinians feel that they are losing – not only their national symbol, but also their personal expanse of freedom, to which they are connected not only at the religious level, but also at the individual level."
 
 
-<img src="9.webp" style="width: 300px; height: auto;">
+<img src="9.avif" style="width: 300px; height: auto;">
 > Itamar Ben-Gvir heading for the Temple Mount in 2022.Credit: Ohad Zwigenberg
 
 Open gallery view

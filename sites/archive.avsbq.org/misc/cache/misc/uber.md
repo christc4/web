@@ -1,6 +1,6 @@
-> Original Source:
+# Scummy uber driver
 
-https://www.reddit.com/r/london/comments/1cvnm1l/uber_driver_took_advantage_of_my_friend_when_she/
+[*Original Source*](https://www.reddit.com/r/london/comments/1cvnm1l/uber_driver_took_advantage_of_my_friend_when_she/)
 
 # Uber driver took advantage of my friend when she was drunk
 
@@ -12,4 +12,4 @@ I’m worried there are drivers out there willing to take advantage of vulnerabl
 
 How can I get them to take this more seriously?
 
-![image](.pix/uberx-ride-with-amir.webp)
+![image](.pix/uberx_ride_with_amir.avif)

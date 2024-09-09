@@ -8,7 +8,7 @@
 
 > From [Spectator Life](https://www.spectator.co.uk/article/the-rise-of-the-village-vigilante/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=BLND%20%2020240612%20%20HOUSE%20ADS%20%20IH+CID_8fdd6918eb88a5a8d78bf06cd658bf66)
 
-<img src=".pix/land-rover.webp" style="width: 300px; height: auto;">
+<img src=".pix/land_rover.avif" style="width: 300px; height: auto;">
 
 Living off the beaten track was idyllic until one night last November. At 1 a.m. during a particularly heavy downpour, a group of hooded men came onto our property and tried to burgle us. Lulled into a false sense of security after three months in our rural home, we’d casually left our 25-year-old Land Rover Defender next to our barn, rather than locked away inside as it would normally have been. 
 
