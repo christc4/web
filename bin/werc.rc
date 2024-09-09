@@ -104,20 +104,6 @@ fn werc_exec_request {
 
     setup_handlers
 
-
-    # Set Page title
-    if(! ~ $local_file '') {
-        t=`{get_file_title $local_file}
-        if(! ~ $"t '')
-            pageTitle=$t
-    }
-
-    # XXX Is this never true? because we set pageTitle earlier based on url.
-    if(~ $"pageTitle '') 
-        pageTitle=$"siteTitle' '$"siteSubTitle
-#    if not
-#        pageTitle=$"pageTitle' | '$"siteTitle' '$"siteSubTitle
-
     for(h in $extraHttpHeaders)
         echo $h
     echo Content-Type: $http_content_type      
@@ -129,7 +115,7 @@ fn werc_exec_request {
     if(~ $REQUEST_METHOD HEAD)
         exit
 
-    template $headers $master_template # | awk_buffer
+    template $master_template # | awk_buffer
 }
 
 werc_exec_request
