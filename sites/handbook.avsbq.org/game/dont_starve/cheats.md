@@ -4,15 +4,21 @@ I found out how from a 11 year old reddit [post](https://www.reddit.com/r/dontst
 
 How to enable console commands:
 
-1. On Windows & Mac go to <Documents>\Klei\DoNotStarve\settings.ini On Linux go to ~/.klei/DoNotStarve/settings.ini
+On Windows & Mac go to 
 
-2. In settings.ini change
+	<Documents>\Klei\DoNotStarve\settings.ini
 
-`ENABLECONSOLE = false`
+On Linux go to
+
+	~/.klei/DoNotStarve/settings.ini
+
+In settings.ini change
+
+	ENABLECONSOLE = false
 
 to
 
-`ENABLECONSOLE = true`
+	ENABLECONSOLE = true
 
 ## Console Commands:
 
@@ -26,43 +32,43 @@ Creative Mode:
 
 This will give you the ability to craft every recipe wether you have the resources or not.
 
-`GetPlayer().components.builder:GiveAllRecipes()`
+	GetPlayer().components.builder:GiveAllRecipes()
 
 Invincibility:
 
-`GetPlayer().components.health:SetInvincible(true)`
+	GetPlayer().components.health:SetInvincible(true)
 
 Pause Hunger:
 
-`GetPlayer().components.hunger:Pause(true)`
+	GetPlayer().components.hunger:Pause(true)
 
 Set Max Sanity:
 
-`GetPlayer().components.sanity:SetMax(insert number)`
+	GetPlayer().components.sanity:SetMax(insert number)
 
 Set Max Health:
 
-`GetPlayer().components.health:SetMaxHealth(insert number)`
+	GetPlayer().components.health:SetMaxHealth(insert number)
 
 Skip days:
 
-`for x = 1, 15 do GetClock():MakeNextDay() end`
+	for x = 1, 15 do GetClock():MakeNextDay() end
 
 Replace the 15 with the number corresponding to the number of days you want to skip. Be aware this is very slow because the game saves once everyday
 
 Reveal Full Map: First execute
 
-`minimap = TheSim:FindFirstEntityWithTag("minimap")`
+	minimap = TheSim:FindFirstEntityWithTag("minimap")
 
 Next execute
 
-`minimap.MiniMap:ShowArea(0,0,0, 10000)`
+	minimap.MiniMap:ShowArea(0,0,0, 10000)
 
 Useful functions
 
 Enabling useful functions
 
-`RunScript("consolecommands")`
+	RunScript("consolecommands")
 
 You must execute this command before entering any command starting with
 
@@ -98,11 +104,11 @@ Pre-fabricated (aka prefab) names are used to identify objects in the game. A li
 
 Spawning 1 item
 
-`DebugSpawn("prefabname")`
+	DebugSpawn("prefabname")
 
 Spawning more than 1 item
 
-`for x = 1, 40 do DebugSpawn("prefabname") end`
+	for x = 1, 40 do DebugSpawn("prefabname") end
 
 Spawning items (UF)
 

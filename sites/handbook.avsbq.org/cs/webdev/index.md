@@ -1,3 +1,16 @@
 # Web
 
-As of 2024, I use OpenBSD's httpd. Previously, I used nginx - I have no issue with nginx. Hence, my httpd tutorial will be more relevant and up-to-date.
+## Terms
+
+### _c_
+
+- Cache
+	- Small database of files containing downloaded webpage resources (foto, vid, css, js etc.),
+
+- Cookies
+	- small text files containing unique data to identify your computer to the network
+
+### _h_
+
+- Hot reloading
+	- Allows one to inject newly edited files at runtime *without* stopping the app 

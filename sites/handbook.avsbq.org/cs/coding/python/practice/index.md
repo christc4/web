@@ -189,12 +189,11 @@ You can do this with a single expression like...
 
 #### Typecasting
 
-my_string = "five" + str(2)
-print(my_string)
+	my_string = "five" + str(2)
 
 #### Tell length
 
-print(f"Your name is {len(my_name)} characters long")
+	print(f"Your name is {len(my_name)} characters long")
 
 # Exercises
 

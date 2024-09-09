@@ -1,8 +1,8 @@
 [
   "de/index",
   "de/alphabet",
-  "cn/cn_sent2",
   "cn/index",
+  "cn/sentence_mining",
   "en/affix",
   "en/anglish/index",
   "en/anglish/uncleftish-beholding",
