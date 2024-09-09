@@ -1,6 +1,8 @@
 Homes werent as is the case today with enough food to withstand a medieval seige, a chance visitor could near on bankruptmourmpontry 
 picture a perched precariously Esc
 
+work cradle to the grave
+
 wearisome tirade
 
 

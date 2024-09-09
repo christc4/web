@@ -74,16 +74,6 @@ fn txt_handler {
     echo - '</pre>'
 }
 
-fn dir_listing_handler {
-    d=`{basename -d $1}
-    if(~ $#d 0)
-        d='/'
-    echo -n $d|sed 's,.*//,,g; s,/$,,; s,/, / ,g; s,.*,<h1 class="dir-list-head">&</h1> <ul class="dir-list">,'
-    # Symlinks suck: '/.' forces ls to list the linked dir if $d is a symlink.
-    ls -F $dir_listing_ls_opts $sitedir$d/. | sed $dirfilter$dirclean' s,.*/([^/]+/?)$,<li><a href="\1">\1</a></li>,'
-    echo -n '</ul>'
-}
-
 fn notices_handler {
     for(type in notify_errors notify_notes notify_success)
         for(n in $$type)
@@ -121,14 +111,6 @@ fn setup_handlers {
 
     if(! ~ $#handler_body_main 0)
         { } # We are done
-    # Dir listing
-    if not if(~ $local_path */index) {
-        handler_body_main=(dir_listing_handler $req_path)
-        if(test -f $sitedir$req_path'_header.md')
-            ll_add handlers_body_head md_handler $sitedir$req_path'_header.md'            
-        if(test -f $sitedir$req_path'_footer.md')
-            ll_add handlers_body_foot md_handler $sitedir$req_path'_footer.md'            
-    }
     # Canonize explicit .html urls, the web server might handle this first!
     if not if(~ $local_path *.html && test -f $local_path)
         perm_redirect `{ echo -n $req_path|sed 's/.html$//' }

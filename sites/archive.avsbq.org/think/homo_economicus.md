@@ -25,4 +25,4 @@ in the consideration of it.
 
 Source:
 
-[The Ethology of Homo Economicus](https://archive.avsbq.org/think/economics/doc/persky-2011-retrospectives-the-ethology-of-homo-economicus.pdf) 
+[The Ethology of Homo Economicus](.dox/persky_2011_retrospectives_the_ethology_of_homo_economicus.pdf) 

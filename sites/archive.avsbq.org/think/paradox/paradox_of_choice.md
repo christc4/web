@@ -1,1 +1,0 @@
-"Autonomy and freedom of choice are critical to our well being, and choice is critical to freedom and autonomy. Nonetheless, though modern Americans have more choice than any group of people ever has had before, and thus, presumably, more freedom and autonomy, we don't seem to be benefiting from it psychologically"

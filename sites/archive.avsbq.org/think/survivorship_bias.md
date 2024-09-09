@@ -5,7 +5,7 @@
 [researchcapital](https://www.researchprospect.com/what-is-survivorship-bias/)
 </details>
 
-<img src="../.pix/survivorship_bias.avif" style="width: 450px; height: auto;">
+<img src=".pix/survivorship_bias.avif" style="width: 450px; height: auto;">
 
 Image source, [sketchplanations](https://sketchplanations.com/survivorship-bias-silent-evidence)
 
