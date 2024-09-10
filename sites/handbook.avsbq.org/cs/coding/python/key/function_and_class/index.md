@@ -1,5 +1,8 @@
 # Functions
 
+<details><summary>Sources used:</summary>
+[Bro Code](https://youtu.be/89cGQjB5R4M?si=EIjztJPrvIBNdDoB), [Xah Lee](http://xahlee.info/python/function_def.html)
+
 Independent functions
 
     len(my_string)

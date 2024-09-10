@@ -135,3 +135,5 @@ Idle hands are the devils plaything
 I wouldn't touch you with a bargepole
 
 Ducks are not just food! They are faster level flyers than falcons! A frozen chicken will approach 200mph if you drop it from a plane.
+
+Wow, if I had a nickel for every time I was doomed by a puppet, I'd have two nickels - which isn't a lot, but it's weird that it happened twice.

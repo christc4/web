@@ -17,6 +17,9 @@
 
 ### _l_
 
+- Lambda
+	- anonymous functions
+
 - Linter
 	- dev tool that checks code for styling issues, error 
 

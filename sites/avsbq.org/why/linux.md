@@ -49,7 +49,4 @@ It took a lot of convincing for me to switch to Linux, and a lot of kicking and 
 
 <img src=".pix/tux_trustix.avif" style="width:150px; height: auto;">
 
-	Re: Let's name the penguin! (was: Re: Linux 2.0 really _is_ released..)
-	James Hughes (jamesh@interpath.com)
-	Mon, 10 Jun 1996 20:25:52 -0400
-	(T)orvolds (U)ni(X) --> TUX!
+(T)orvolds (U)ni(X) --> TUX!
