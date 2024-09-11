@@ -9,10 +9,7 @@
 I have long since been fascinated with elderly englishmen and women giving an account of their childhood and such.. It never occured to me in my naive adolesence that perhaps they were viewing the past with rose-tinted spectacles
 
 
-	Do not say,
-	"Why were the former days better than these?"
-	For you do not inquire wisely concerning this
-	Ecclesiastes 7:10
+> _Do not say, "Why were the former days better than these?" For you do not inquire wisely concerning this_ Ecclesiastes 7:10
 
 One should pay particular attention if a doddering oldie might airbrush over a segment of their lives
 

@@ -4,20 +4,7 @@
 
 This is my .vimrc
 
-	let mapleader=" " " 
-	set clipboard=unnamedplus
-	set ttyfast 
-
-	autocmd BufWinLeave *.* mkview " Save Folds
-	autocmd BufWinEnter *.* silent loadview " View Folds
-
-	map <leader>c :w! \| !compiler "%:p"<CR>
-	map <leader>p :!opout "%:p"<CR>
-
-	map <leader>p :!opout "%:p"<CR>
-	map <leader>d :w<CR>
-	map <leader>h :wq<CR>
-	map <leader>t :q!<CR>
+<object data=".txt/vimrc.txt" width="255" height="72"></object>
 
 ## What you MUST do
 

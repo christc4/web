@@ -2,18 +2,8 @@
 
 I use dvorak, specifically 'programer-dvorak'
 
+<object data=".txt/programmer_dvorak.txt" width="500" height="320"></object>
 
-    ~ % 7 5 3 1 9 0 2 4 6 8 `
-    $ & [ { } ( = * ) + ] ! #
-    
-    --------------------------
+<hr>
 
-    ; , . p y f g c r l / @ \\
-    a o e u i d h t n s -
-    ' q j k x b m w v z
-    
-    --------------------------
-
-    : < > P Y F G C R L ? ^ |
-    A O E U I D H T N S _
-    \" Q J K X B M W V Z
+I am now using programmers dvorak on my laptop which I never built muscle memory on, after one or two annoying attempts I think It's set in succesfully

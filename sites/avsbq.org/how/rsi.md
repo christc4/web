@@ -20,4 +20,6 @@ As I said in the beginning, scrimping on pennies isn't good, get a macro pad and
 
 Total abstinence from the mouse won't solve or prevent RSI,
 
+## Avoid wrist contortions
 
+If you are for reasons unkown to use a laptop.. don't twist your wrist at the touchpad, move your entire forearm to control the cursor or gesture

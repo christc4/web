@@ -1,6 +1,7 @@
 # Server
 
 I want my server to sunbathe in the desert,
-But have cool winds cool it down,
+But be cool as a cucumber,
 
-Solar charged
+todo 
+lowpowermagazine
