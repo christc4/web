@@ -37,3 +37,5 @@ https://mitchellkrog.com/biggest-lightning-strikes-ever-caught-on-camera/
 research george boole math
 
 research is using dna as copmuter storage 
+
+is bhutan a good example of why high gdp is bad
