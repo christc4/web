@@ -10,6 +10,7 @@ RSI for me feels like if someone cleanly sliced of my wrist but the only thing h
 
 ## Avoid repetitive movements
 
+Default backspace is in a position to twist your wrist, insteah remap whatever key is next to enter 
 If you're trade is photo/video editing/programming look into how the pro's minimise repetitive keystrokes.
 
 Having said that, you'll probably be herded into using a sequence of key-presses i.e. "Ctrl + ..." or even "C-Shift + ...".
