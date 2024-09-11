@@ -117,3 +117,5 @@ youve never tried hard enough to geet tired
 her legs straddled the windowsill
 
 the darling of the liberal left
+
+man the fort when im gone
