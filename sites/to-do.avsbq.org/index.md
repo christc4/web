@@ -33,3 +33,7 @@ steak tartar make it
 <!-- [source1](https://lukemckernan.com/2014/04/05/the-malcontent/), [source2](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:317134&datastreamId=FULL-TEXT.PDF)-->
 pinkie twisting
 https://mitchellkrog.com/biggest-lightning-strikes-ever-caught-on-camera/
+
+research george boole math
+
+research is using dna as copmuter storage 

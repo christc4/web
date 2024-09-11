@@ -7,5 +7,4 @@ def LongestWord(sen):
             greatest = word
     return greatest
 
-print(LongestWord("Quickest Cats Cry"))
-
+print(LongestWord("Higgledy Piggledy Spontaneously We cry"))

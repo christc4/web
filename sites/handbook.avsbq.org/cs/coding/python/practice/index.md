@@ -170,14 +170,7 @@ to-do
 
 #### Have a function add up all the numbers from 1 to num. 
 
-def SimpleAdding(num):
-total = 0
-for number in range(1, int(num) + 1):  # Modified to include 'num'
-total += number
-print(total)  # Parentheses required
-
-<details><summary>Explanation:</summary>
-</details>
+<object data=".txt/add_up_all_from_one_to_num.txt" width="400" height="110"></object>
 
 #### Add one and divide by two
 

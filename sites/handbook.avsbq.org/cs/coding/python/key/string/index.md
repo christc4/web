@@ -1,5 +1,21 @@
 # Strings
 
+<details><summary>Sources used:</summary>
+[Xah Lee, python tutorial](http://xahlee.info/python/quoting_strings.html)
+</details>
+
+<hr>
+
+Strings are sequence of characters
+
+In Python 3, they're a sequence of [Unicode](http://xahlee.info/comp/unicode_intro.html) characters
+
+In Python 2 they're a sequence of bytes (representing [ASCII Characters](http://xahlee.info/comp/ascii_chars.html). But if prefixed with 'u', then it's a sequence of Unicode characters.
+
+Python strings are immutable. Any function that works on a string returns a new string
+
+<hr>
+
 note = "The Most Perfect Crab"
 print(note)
 

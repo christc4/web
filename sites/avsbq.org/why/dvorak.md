@@ -7,3 +7,4 @@ I use dvorak, specifically 'programer-dvorak'
 <hr>
 
 I am now using programmers dvorak on my laptop which I never built muscle memory on, after one or two annoying attempts I think It's set in succesfully
+
