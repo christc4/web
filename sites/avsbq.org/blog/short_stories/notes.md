@@ -119,3 +119,5 @@ her legs straddled the windowsill
 the darling of the liberal left
 
 man the fort when im gone
+
+its like talking to the rotting husk of a human
