@@ -139,3 +139,5 @@ Ducks are not just food! They are faster level flyers than falcons! A frozen chi
 Wow, if I had a nickel for every time I was doomed by a puppet, I'd have two nickels - which isn't a lot, but it's weird that it happened twice.
 
 What a tool! Tools are always handy...
+
+In India, there are no roads - only directions
