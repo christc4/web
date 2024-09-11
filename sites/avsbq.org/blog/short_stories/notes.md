@@ -121,3 +121,6 @@ the darling of the liberal left
 man the fort when im gone
 
 its like talking to the rotting husk of a human
+
+at that granulated level of detail i cant give you advice
+go hand in hand

@@ -141,3 +141,9 @@ Wow, if I had a nickel for every time I was doomed by a puppet, I'd have two nic
 What a tool! Tools are always handy...
 
 In India, there are no roads - only directions
+
+We say 'based' like how boomers say groovy
+
+Dont't do math guys, drugs are bad
+
+Hyperspecialization is bad. Get a BA on life instead
