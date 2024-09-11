@@ -17,7 +17,7 @@ A much faster way to edit files
 
 <hr>
 
-<object data=".txt/fuzzy_edit1.txt" width="600" height="272"></object>
+<object data=".txt/fuzzy_edit1.txt" width="600" height="210"></object>
 
 ## Alternatives
 
