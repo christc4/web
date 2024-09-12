@@ -20,7 +20,9 @@ My pages: [homepage](http://avsbq.org), [archival](http://archive.avsbq.org) (re
 
 My [RSS] feed to-be... not up yet. merily you await
 
-<img src=".pix/rss.avif" style="width: 80px; height: auto;"> Christ Amlai 2023-2024
+<img src=".pix/rss.avif" style="width: 80px; height: auto;"> 
+
+<hr>
 
 My [GitHub](https://github.com/christc4) has the odd coding project or two
 
