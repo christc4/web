@@ -24,6 +24,17 @@ Untold Culture, Architecture, Art and Heritage of Medieval British History
 
 - [The Antiquary](https://theantiquary.online/); [YouTube](https://www.youtube.com/@allanbarton/videos)
 
+## Brodie Robertson
+
+<hr>
+
+<img src=.pix/brodie_robertson.avif>
+
+Linux, Linux, Linux and very useful Linux tutorials
+
+- [GitHub](https://github.com/BrodieRobertson)
+- [YouTube](https://www.youtube.com/@BrodieRobertson)
+
 ## Coffeezilla
 
 <hr>
@@ -36,35 +47,144 @@ Exposing scams, sh&ast;tcoins and bad people
 
 ## Damien Slash
 
-Comedy and satire
-
-- 
 <hr>
 
 <img src=.pix/damien_slash.avif>
 
-## Elizabeth Grimm
+Comedy and satire
 
-<hr>
+- [YouTube](https://www.youtube.com/user/damienslash)
 
-<img src=.pix/elizabeth_grimm.avif>
-
-- [Tux Gallery](http://www.nd.edu/~ljordan/linux/), [Programming Humor](https://www3.nd.edu/~ljordan/butterfly/shoot.html), [St. Agrippina](https://www3.nd.edu/~ljordan/agrippina/)
-
-## Jay Dyer
+### Jay Dyer
 
 <hr>
 
 <img src=.pix/jay.avif>
 
-> _"Your neurolinguistic programming isn't going to work on me"_
+"Your neurolinguistic programming isn't going to work on me" PhD from CIA (Culinary Institute of America) ;)
 
-> Graduated with a PhD from the CIA (Culinary Institute of America) ;)
+- [Personal site](https://jaysanalysis.com)
 
-- [BitChute](https://www.bitchute.com/channel/MjVqw8w3SDIq/), [Odysee](https://odysee.com/@JayDyer:8), [Rumble](https://rumble.com/c/JayDyer), [Rofkin](https://rokfin.com/jaydyer), [Personal site](https://jaysanalysis.com)
+### Eoin Reardon
 
+A hardworking Irishman.
+
+- [YouTube](https://www.youtube.com/@EoinReardon/videos)
+
+### Mental Outlaw
 
 <hr>
+
+<img src=.pix/mental_outlaw1.avif>
+
+Linux, Privacy, Homesteading
+
+"Mental Outlaw is the only black guy that can sound like a white guy impersonating a black guy"
+
+- [Odysee](https://odysee.com/@AlphaNerd:8)
+
+### Br. Nathanael
+
+<hr>
+
+<img src=.pix/nat3.avif>
+
+Advice, Christianity
+
+- [BibleWithBrother](https://www.biblewithbrother.com/)
+
+### Fr. Spyridon Bailey
+
+<hr>
+
+<div class="br"><img src=".pix/fr_spyridon.avif" style="width:200px; height: auto;"><img src=".pix/fr_spyridon2.avif" style="width:200px; height: auto;"></div>
+
+- [YouTube](https://www.youtube.com/@FatherSpyridonROCOR)
+- [Amazon Author](https://www.amazon.co.uk/stores/author/B004K2VROW)
+
+### Varg Vikernes
+
+<hr>
+
+<img src=".pix/varg1.avif" style="width:200px; height: auto;">
+<img src=".pix/varg_recruiter.avif" style="width:200px; height: auto;">
+<img src=".pix/varg3.avif" style="width:200px; height: auto;">
+
+Survivalism, Lifestyle, History, Anthropology, Paganism
+
+"You can curse the darkness or you can just light a candle"
+
+- [Amazon author profile](https://www.amazon.co.uk/stores/author/B00IVZ2KPO)
+- [burzum.org](https://burzum.org)
+- [thuleanperspective.com](https://thuleanperspective.com/)
+- [Archived Thulean Perspective 2017](https://archive.org/details/thuleanperspective2017)
+
+### Lindybeige
+
+<hr>
+
+<div class="br"><img src=.pix/lindybeige.avif></div>
+
+- [YouTube](https://www.youtube.com/user/lindybeige)
+- [lloydianaspects.co.uk](https://www.lloydianaspects.co.uk/)
+- [lindybeige.co.uk](https://www.lindybeige.uk/)
+
+
+### Luke Smith 
+
+<hr>
+
+<div class="br"><img src=.pix/luk_boomer.avif><img src=.pix/luk.avif><img src=.pix/luk_varg.avif></div>
+
+> Luke and Varg face mashup
+
+Linux, Linguistics, Lifestyle, Philosophy, Economics etc
+
+"We're in the closet today. No homo"
+
+- [Peertube](https://videos.lukesmith.xyz)
+- [GitHub](https://github.com/Lukesmithxyz)
+- [Personal site](https://lukesmith.xyz) 
+- [LARBS](https://larbs.xyz) - Arch/Artix bootstrapping script
+- [based.cooking](https://based.cooking) - Recipe site without the ads/trackers
+- [landchad.net](https://landchad.net) - Guide to setting up websites/self-hosting.
+
+### Xah Lee
+
+<hr>
+
+<div class="br"><img src=.pix/xah.avif><img src=.pix/xah_pear.avif></div>
+
+Ergonomics, Emacs, Programming, 
+
+"Dark theme is no good. You don't live in the darkness and see glowies"
+"Debloat yourself before you call my init.el bloated"
+"Google Chrome, which of course, looks into your pants all the time!"
+"What's your native tongue? Body language!"
+
+- [xahlee.org](http://xahlee.org/index.html)
+- [xahlee.info](http://xahlee.info), keyboard, math, programming, nerd stuff
+
+ Organisations
+
+> *NOTE*: I'm a baptised Orthodox Christian. This isn't a full-throated endorsement to any person below, if a site is down use the [wayback machine](https://wayback-api.archive.org/).
+
+- [Acorn Land Labs](https://acornlandlabs.com/pages/about)
+    - Bottom-up, sustainability, off-grid living
+
+- [Libreboot](https://libreboot.org)
+    - Free BIOS
+
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/about/)
+    - Low tech
+
+- [Suckless](https://suckless.org)
+    - Minimal software, that sucks less
+
+- [FSF](https://fsf.org)
+    - Free software foundation
+
+### All other links (I haven't done deeppdive on)
 
 - https://butler-harris.org/
 
@@ -110,130 +230,3 @@ http://plan9.stanleylieber.com/
 
 - https://ari.lt/	
 	- https://blog.ari.lt/
-
-
-### Eoin Reardon
-
-A hardworking Irishman.
-
-- [YouTube](https://www.youtube.com/@EoinReardon/videos)
-
-### Mental Outlaw
-
-<hr>
-
-"Mental Outlaw is the only black guy that can sound like a white guy impersonating a black guy"
-
-Linux, Privacy, Homesteading
-
-- [Odysee](https://odysee.com/@AlphaNerd:8)
-
-<img src=.pix/mental_outlaw1.avif>
-
-
-### Br. Nathanael
-
-<hr>
-
-<img src=.pix/nat3.avif>
-
-Advice, Christianity
-
-- [BibleWithBrother](https://www.biblewithbrother.com/)
-
-## _F_
-
-### Fr. Spyridon Bailey
-
-<hr>
-
-<div class="br"><img src=".pix/fr_spyridon.avif" style="width:200px; height: auto;"><img src=".pix/fr_spyridon2.avif" style="width:200px; height: auto;"></div>
-
-- [YouTube](https://www.youtube.com/@FatherSpyridonROCOR)
-- [Amazon Author](https://www.amazon.co.uk/stores/author/B004K2VROW)
-
-### Varg Vikernes
-
-<hr>
-
-<div class="br"><img src=".pix/varg1.avif" style="width:200px; height: auto;">
-<img src=".pix/varg_recruiter.avif" style="width:200px; height: auto;">
-<img src=".pix/varg3.avif" style="width:200px; height: auto;">
-</div>
-
-Survivalism, Lifestyle, History, Anthropology, Paganism
-
-"You can curse the darkness or you can just light a candle"
-
-- [Amazon author profile](https://www.amazon.co.uk/stores/author/B00IVZ2KPO)
-- [burzum.org](https://burzum.org)
-- [thuleanperspective.com](https://thuleanperspective.com/)
-- [Archived Thulean Perspective 2017](https://archive.org/details/thuleanperspective2017)
-
-### Lindybeige
-
-<hr>
-
-<div class="br"><img src=.pix/lindybeige.avif></div>
-
-- [YouTube](https://www.youtube.com/user/lindybeige)
-- [lloydianaspects.co.uk](https://www.lloydianaspects.co.uk/)
-- [lindybeige.co.uk](https://www.lindybeige.uk/)
-
-
-### Luke Smith 
-
-<hr>
-
-<div class="br"><img src=.pix/luk_boomer.avif><img src=.pix/luk.avif><img src=.pix/luk_varg.avif></div>
-
-> Luke and Varg face mashup
-
-Linux, Linguistics, Lifestyle, Philosophy, Economics etc
-
-"We're in the closet today. No homo"
-
-
-- [BitChute](https://www.bitchute.com/channel/KxfE8MXNPekx/)
-- [Odysee](https://odysee.com/@Luke:7)
-- [Peertube](https://videos.lukesmith.xyz)
-- [GitHub](https://github.com/Lukesmithxyz)
-- [Personal site](https://lukesmith.xyz) 
-- [LARBS](https://larbs.xyz) - Arch/Artix bootstrapping script
-- [based.cooking](https://based.cooking) - Recipe site without the ads/trackers
-- [landchad.net](https://landchad.net) - Guide to setting up websites/self-hosting.
-
-### Xah Lee
-
-<hr>
-
-<div class="br"><img src=.pix/xah.avif><img src=.pix/xah_pear.avif></div>
-
-Ergonomics, Emacs, Programming, 
-
-"Dark theme is no good. You don't live in the darkness and see glowies"
-"Debloat yourself before you call my init.el bloated"
-"Google Chrome, which of course, looks into your pants all the time!"
-"What's your native tongue? Body language!"
-
-- [Personal site](http://xahlee.org/index.html)
-- [xahlee.info](http://xahlee.info), keyboard, math, programming, nerd stuff
-
- Organisations
-
-> *NOTE*: I'm a baptised Orthodox Christian. This isn't a full-throated endorsement to any person below, if a site is down use the [wayback machine](https://wayback-api.archive.org/).
-
-- [Acorn Land Labs](https://acornlandlabs.com/pages/about)
-    - Bottom-up, sustainability, off-grid living
-
-- [Libreboot](https://libreboot.org)
-    - Free BIOS
-
-- [Low Tech Magazine](https://solar.lowtechmagazine.com/about/)
-    - Low tech
-
-- [Suckless](https://suckless.org)
-    - Minimal software, that sucks less
-
-- [FSF](https://fsf.org)
-    - Free software foundation
