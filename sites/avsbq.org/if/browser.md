@@ -1,6 +1,6 @@
 # If ... &dollar;BROWSER
 
-*Last update: 2024/07/24*
+<u>*Last update: 2024/07/24*</u>
 
 Number 1:
 
