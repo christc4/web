@@ -55,7 +55,19 @@ You can  get the length of a string using a function pre-loaded into Python call
 
 <object data=".txt/basic_string_replace.txt" width="408px" height="80px"></object>
 
-## Uppercase
+<hr>
+
+#### Upper/lowercase
+
+	txt = "HELLO"
+
+We can lowercase it simply by
+
+	print(txt.lower())
+
+Uppercase would simply replace 'lower' with 'upper'
+
+
 
 ## Convert
 
