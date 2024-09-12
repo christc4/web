@@ -28,7 +28,7 @@ fn nav_tree {
         gsub(/[^\/]$/, "&/", pa)
 
         if(index(ENVIRON["req_path"] "/", pa) == 1)
-            printf "<li><a href=\"" path "\" class=\"thisPage\"><b>↪ "bname"</b></a></li>"
+            printf "<li><a href=\"" path "\" class=\"thisPage\">&raquo; "bname"</a></li>"
         else
             printf "<li><a href=\"" path "\">"bname"</a></li>"
     }

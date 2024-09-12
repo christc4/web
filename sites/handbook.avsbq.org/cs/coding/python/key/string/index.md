@@ -1,7 +1,9 @@
 # Strings
 
+*Last update: 2024/09/12*
+
 <details><summary>Sources used:</summary>
-[Xah Lee, python tutorial](http://xahlee.info/python/quoting_strings.html)
+[Xah Lee, python tutorial](http://xahlee.info/python/quoting_strings.html), [Makers Academy](https://github.com/makersacademy/intro-to-python/blob/main/023_string_indexing.py)
 </details>
 
 <hr>
@@ -16,16 +18,17 @@ Python strings are immutable. Any function that works on a string returns a new 
 
 <hr>
 
-note = "The Most Perfect Crab"
-print(note)
+## String Indexing
+
+<hr>
 
 Access 1st character
     
-`print(note[0])`
+	print(note[0])
 
 Access the last character
 
-`print(note[-1])`
+	print(note[-1])
 
 If you have four characters, it goes from 0, 1, 2, 3
 

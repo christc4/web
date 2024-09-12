@@ -1,5 +1,3 @@
-<style>body { background: url(.pix/mat.webp) no-repeat bottom left !important; }</style>
-
 # If ... home 
 
 > Go to [black dolphin](https://todo.avsbq.org/black_dolphin) to see if I live out my dream
@@ -25,3 +23,5 @@ Somewhere far-far-far away.
 Preferably in a wooded/forested area and ideally located near springs/river/running water.
 
 
+<img src=".pix/dark_forest.avif" style="width:150px; height: auto;">
+[image src](https://www.metalcrypt.com/pages/interviews.php?intid=170)
