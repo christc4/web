@@ -1,8 +1,6 @@
-# Other people's links
+# Other people/organisations links
 
-<details><summary>Unfurl</summary>
-I am a baptised Orthodox Christian, those linked with opposing views are there not to scandalise anyone. This is not a full-throated endorsement to anyone, take them with a grain of salt.
-</details>
+I am a baptised Orthodox Christian, links to opposing views aren't there to scandalise nor are they full-throated endorsements take them with a grain of salt. They all have something useful to say and any controversy they've been embroiled in - doesn't take away from that
 
 ## Aarvoll
 
@@ -123,22 +121,15 @@ A hardworking Irishman.
 ### Mental Outlaw
 
 
-### Brother Nathanael
+### Br. Nathanael
 
 <hr>
 
-<div class="br"><img src=.pix/nat.avif><img src=.pix/nat2.avif><img src=.pix/nat3.avif><img src=.pix/nat4.avif><</div>
+<img src=.pix/nat3.avif>
 
-Advice, Christianity, GeoPolitics
-
-"I don't know if the robot's wearing a yarmulke or not" 
-"No.1 Noticer!"
-
-"What does scrambled eggs have to do with Orthodoxy? Nothing!"
+Advice, Christianity
 
 - [BibleWithBrother](https://www.biblewithbrother.com/)
-- [Personal Site](https://www.realjewnews.com/)
-- [Brother Nathanael Show, rumble](https://rumble.com/c/BrotherNathanael)
 
 ## _F_
 
