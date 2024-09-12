@@ -120,6 +120,16 @@ A hardworking Irishman.
 
 ### Mental Outlaw
 
+<hr>
+
+"Mental Outlaw is the only black guy that can sound like a white guy impersonating a black guy"
+
+Linux, Privacy, Homesteading
+
+- [Odysee](https://odysee.com/@AlphaNerd:8)
+
+<img src=.pix/mental_outlaw1.avif>
+
 
 ### Br. Nathanael
 
