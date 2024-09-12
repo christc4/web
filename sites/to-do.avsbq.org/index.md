@@ -45,3 +45,7 @@ research is using dna as copmuter storage
 is bhutan a good example of why high gdp is bad
 
 research hierarchy of needs
+
+blog ass rot, sciatic nerve compression
+
+herniated discs

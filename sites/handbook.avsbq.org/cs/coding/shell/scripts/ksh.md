@@ -11,3 +11,5 @@ Add this line to your `/.profile`
 `export ENV=~/.kshrc`
 
 This will source your `.kshrc`
+
+. ~/.kshrc
