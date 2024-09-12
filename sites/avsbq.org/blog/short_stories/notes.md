@@ -124,3 +124,5 @@ its like talking to the rotting husk of a human
 
 at that granulated level of detail i cant give you advice
 go hand in hand
+
+in the past wed use hook spear club, or fish, but today we use the "green lure" and catch our meals though open car windows at fastfood

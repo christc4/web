@@ -8,7 +8,7 @@
 
 My much beloved talk show, [_From the Iron Sights_](http://talk.avsbq.org), zooms in on my interests, aims to spark conversation and kindle the embers of flamewars... 
 
-<img src=".pix/ftis.avif" style="width: 80px; height: auto;"> *From the Iron Sights 2024*
+<img src=".pix/ftis.avif" style="width: 80px; height: auto;"> From the Iron Sights 2024
 
 <hr>
 
