@@ -10,6 +10,8 @@ RSI for me feels like if someone cleanly sliced of my wrist but the only thing h
 
 ## Avoid repetitive movements
 
+With rsi, every keystroke is like a drop of gold, you cannot waste it on unnecessary movement... so choose your keystrokes wisely, what if your rsi flares up when you are messaging a loved one
+
 Default backspace is in a position to twist your wrist, insteah remap whatever key is next to enter 
 If you're trade is photo/video editing/programming look into how the pro's minimise repetitive keystrokes.
 
