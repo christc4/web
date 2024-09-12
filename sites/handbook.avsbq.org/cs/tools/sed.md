@@ -4,7 +4,7 @@ Tested on OpenBSD 7.5
 
 ## Removing all instances of the "<" sign
 
-`sed -i 's/>//g' yourfile.md`
+	sed -i 's/>//g' yourfile.md
 
 - `-i` tells sed to edit the file, rather than output modified text to standard outputA
 - `s` stands for substitution
@@ -13,18 +13,18 @@ Tested on OpenBSD 7.5
 
 ## Change all instances of a string
 
-`sed -i 's/webp/avif/g' filename`
+	sed -i 's/webp/avif/g' filename
 
 Creates backup
 
-`sed -i.bak 's/webp/avif/g' filename`
+	sed -i.bak 's/webp/avif/g' filename
 
 ## Remove the pattern "../"
 
-`sed -i 's/\.\.\///g' filename.html`
+	sed -i 's/\.\.\///g' filename.html
 
 ## Misc
 
-`sed -i 's/\<str\>/gif/g' filename.html`
+	sed -i 's/\<str\>/gif/g' filename.html
 
 s/\<str\>/gif/g: Substitute (s) str with gif, where \< and \> ensure that only the exact word str is replaced, not occurrences where str is a part of another word.

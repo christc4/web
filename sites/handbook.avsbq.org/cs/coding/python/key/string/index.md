@@ -18,29 +18,42 @@ Python strings are immutable. Any function that works on a string returns a new 
 
 <hr>
 
-## String Indexing
+#### String Indexing
 
 <hr>
-
-Access 1st character
-    
 	print(note[0])
 
-Access the last character
+Access 1st character
 
 	print(note[-1])
+
+Access the last character
 
 If you have four characters, it goes from 0, 1, 2, 3
 
 negativeIndex = originalIndex - len(string)
 
+	print(note[6])
+
 Middle, not the first or last
 
-`print(note[6])`
-
-`print(note[0:3])`
+	print(note[0:3])
 
 This gets the portion of the string between index 0 and 3:
+
+<hr>
+
+#### Get length of string
+
+You can  get the length of a string using a function pre-loaded into Python called 'len'
+
+<object data=".txt/basic_string_length.txt" width="384px" height="50px"></object>
+
+<hr>
+
+#### String replace
+
+<object data=".txt/basic_string_replace.txt" width="408px" height="80px"></object>
 
 ## Uppercase
 
