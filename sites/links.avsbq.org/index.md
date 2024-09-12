@@ -12,6 +12,8 @@ I am a baptised Orthodox Christian, those linked with opposing views are there n
 
 Christianity, Platonism, Philosophy
 
+"Being mired in falsehood generally has its consequences"
+
 - [YouTube](https://youtube.com/@ericorwoll)
 
 ## Aalan Barton
