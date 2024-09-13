@@ -1,21 +1,16 @@
-	#!/bin/bash
+# Batch gif background color removal
 
-	input_folder=$(pwd)
-	output_folder=$(pwd)
-	background_color="#0c1214"
+*Last update: 2024/09/13*
 
-	# Ensure the output folder exists
-	mkdir -p "$output_folder"
+*Note to reader:* this will have a highly rarified use case. I used this for .gifs I originally downloaded from [chineseconverter.com](https://www.chineseconverter.com/en/convert/chinese-stroke-order-tool) as they didn't offer a transparent .gif option. You can find the gifs I used this script to batch convert [here](http://language.avsbq.org/cn/sentence_mining.html)
 
-	# Iterate through all GIF files in the input folder
-	for input_file in "$input_folder"/*.gif; do
-	    # Extract the filename without the extension
-	    filename=$(basename -- "$input_file")
-	    filename_no_extension="${filename%.*}"
+*Dependencies:*
 
-	    # Set the output file path
-	    output_file="$output_folder/${filename_no_extension}.gif"
+- bash
+- [ImageMagick](https://imagemagick.org/index.php)
 
-	    # Apply background removal
-	    convert "$input_file" -transparent "$background_color" "$output_file"
-	done
+There are probably sites that can do the same thing, but probably cannot automate it, say you have a hundred gifs..
+
+<hr>
+
+<object data=".txt/batch_gif_background_color_removal.txt" width="584px" height="360px"></object>

@@ -39,3 +39,14 @@ Tutorial from [Bro Code](https://youtu.be/89cGQjB5R4M?si=EIjztJPrvIBNdDoB)
 	invoice("Tom", 50.459, "05/02")
 
 `.2f` means round up to 2 decimal places
+
+The `return` keyword is to exit a function and return a value
+
+    def myfunction():
+        return 3+3
+    print(myfunction())
+
+Statement's after the return line won't be executed
+
+When you call a function some space gets allocated to it in RAM, when you compute the value of numbers that value will only exist while the function is still running, when the function gets deleted, most things in RAM such as integers get deleted
+

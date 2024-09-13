@@ -149,3 +149,5 @@ Dont't do math guys, drugs are bad
 Hyperspecialization is bad. Get a BA on life instead
 
 First they were doing cold pllunges next they'll be doing 'house on fire first thing in the morning'
+
+I have never heard someone say they're craving brocoli
