@@ -4,6 +4,8 @@
 
 _"Scrimping on pennies will cost you pounds in the long run"_
 
+<hr>
+ thth
 ## The feeling itself
 
 RSI for me feels like if someone cleanly sliced of my wrist but the only thing holding it together is the blood coagulating, henceforth any typing movements or God-forbid calisthenics during a rsi flare can be extraordinarily painful

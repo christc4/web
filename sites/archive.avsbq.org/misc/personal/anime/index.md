@@ -273,3 +273,6 @@ undead unluck
 Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells watched episode 1
 
 finished jobless reincarnation spring 2024
+
+watch k-on
+

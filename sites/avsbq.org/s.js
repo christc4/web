@@ -1,40 +1,41 @@
+// Function to fetch the site index from an external file
 async function fetchSiteIndex() {
-  const response = await fetch("/s.json");
-  return await response.json();
+    const response = await fetch('http://avsbq.org/s.json'); // Replace with the correct path to your JSON file
+    const data = await response.json();
+    return data;
 }
 
-function filterResults(query, results) {
-  return results.filter(result => result.toLowerCase().includes(query.toLowerCase()));
+// Function to filter search results
+function filterResults(query, siteIndex) {
+    return siteIndex.filter(item => item.toLowerCase().includes(query.toLowerCase()));
 }
 
+// Function to display search results
 function displayResults(results) {
-  const searchResultsContainer = document.getElementById("searchResults");
-  searchResultsContainer.innerHTML = "";
+    const searchResults = document.getElementById('searchResults');
+    searchResults.innerHTML = '';
 
-  results.slice(0, 4).forEach(result => {
-    const item = document.createElement("div");
-    item.className = "resultItem";
-    
-    // Extracting the path after the first slash
-    const parts = result.split('/');
-    const displayPath = parts.slice(1).join('/'); // Removes the subdomain and domain part
-
-    item.innerHTML = `<a href="/${result}">${displayPath}</a>`;
-    searchResultsContainer.appendChild(item);
-  });
+    // Slice the results to show a maximum of 5 items
+    results.slice(0, 4).forEach(result => {
+        const resultItem = document.createElement('div');
+        resultItem.className = 'resultItem';
+        resultItem.innerHTML = `<a href="/${result}">${result}</a>`;
+        searchResults.appendChild(resultItem);
+    });
 }
 
-document.getElementById("searchBar").addEventListener("input", async function() {
-  const query = this.value;
-  const searchResultsContainer = document.getElementById("searchResults");
-  
-  if (query === "") {
-    searchResultsContainer.innerHTML = "";
-    return;
-  }
-  
-  const siteIndex = await fetchSiteIndex();
-  const filteredResults = filterResults(query, siteIndex);
-  displayResults(filteredResults);
-});
+// Event listener for search input
+document.getElementById('searchBar').addEventListener('input', async function() {
+    const query = this.value;
+    const searchResults = document.getElementById('searchResults');
+    
+    // Clear search results if input is empty
+    if (query === '') {
+        searchResults.innerHTML = '';
+        return;
+    }
 
+    const siteIndex = await fetchSiteIndex();
+    const results = filterResults(query, siteIndex);
+    displayResults(results);
+});

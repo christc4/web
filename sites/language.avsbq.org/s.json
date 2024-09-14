@@ -25,5 +25,6 @@
   "misc/bn/sentence_mining",
   "misc/jp/index",
   "misc/jp/sentence_mine",
-  "misc/oe/index"
+  "misc/oe/index",
+  "misc/index"
 ]

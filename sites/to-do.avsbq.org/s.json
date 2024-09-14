@@ -5,17 +5,14 @@
   "black_dolphin/home_school/logic1",
   "black_dolphin/home_school/science",
   "black_dolphin/home_school/water",
+  "black_dolphin/home_school/index",
   "black_dolphin/index",
   "black_dolphin/inspo",
-  "black_dolphin/outer/lawn",
+  "black_dolphin/misc/lawn",
+  "black_dolphin/misc/index",
   "bq/basic",
   "bq/index",
   "bq/legacy",
-  "bq/src/report_log",
-  "bq/src/todo",
-  "bq/src/v2",
-  "bq/src/xfk",
   "index",
-  "gtools/ptag/index",
-  "avs/index"
+  "gtools/ptag/index"
 ]

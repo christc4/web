@@ -4,11 +4,15 @@
   ".z",
   "_hobbies",
   "index",
+  "fit/gymshark",
+  "fit/index",
   "food/oxalate",
   "food/tannin",
   "food/arsenic",
   "food/caffeine",
+  "food/index",
   "food/b_vitamins",
+  "food/sugar",
   "think/chasing_the_dragon",
   "think/economics",
   "think/icarus",
@@ -24,5 +28,6 @@
   "misc/society/.politics/index",
   "misc/society/architecture/index",
   "misc/society/.misc/index",
-  "misc/society/.religion/index"
+  "misc/society/.religion/index",
+  "misc/index"
 ]

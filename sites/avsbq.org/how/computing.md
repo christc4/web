@@ -32,7 +32,9 @@ Sidenote: Laptops with their motherboards encased feels like leaving your child 
 ## Software
 
 <img src=".pix/rio.png" style="width: 300px; height: auto;">
+
 <img src=".pix/sowm.png" style="width: 300px; height: auto;">
+
 <img src=".pix/android.webp" style="width: 300px; height: auto;">
 
 Top, Plan9 Rio. Middle, sowm. Bottom, termux
