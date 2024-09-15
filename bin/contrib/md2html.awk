@@ -381,6 +381,6 @@ END {
         oprint("</" block[nl] ">");
     }
     gsub(/\n/, "", otext); 
-    oprint("</article></body></html>"); 
+    oprint("</article></body>"); 
     print(otext);
 }
