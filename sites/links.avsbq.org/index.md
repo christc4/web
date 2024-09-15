@@ -162,6 +162,16 @@ Orthodox Christian spirituality
 
 - [YouTube](https://www.youtube.com/@PatristicNectarFilms)
 
+### Trace Velo
+
+<hr>
+
+<img src=.pix/trace_velo.avif>
+
+Road cycling
+
+- [YouTube](https://www.youtube.com/@TraceVelo)
+
 ### Trisagion Films
 
 <hr>
