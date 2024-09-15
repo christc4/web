@@ -62,3 +62,11 @@ sanest   mathematician image of hands and strigs
 make image gallery script that takes first twenty images ini alpha order, then inserts a page 2 and the script ensures that page 1 and 2 are created
 
 read the unfolding of language
+
+blog about pokemon adventure red, and ash gray what does nintendo think of them who is amathis the guy wrote adventure red, and pokemon silver... something forgot the name
+
+record ari shaffir, clayton bigsby, sam hyde old mtv andrew stuff
+
+
+using wolfram language map fitts law
+<@630180555153211441> for your website you might want to update the entry for linux just like with the keybinding software, for a mouse like elecom huge i use this tool: https://github.com/sezanzeb/input-remapper

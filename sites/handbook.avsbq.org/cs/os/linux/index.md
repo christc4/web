@@ -1,5 +1,9 @@
 # Linux
 
+## to-do
+
+gpm, set keymap, and key delete speed etc.
+
 <img src=".pix/viva_linux.avif" style="width:410px; height: auto;">
 <img src=".pix/tux_crazy.avif" style="width:410px; height: auto;">
 <img src=".pix/tux_g_point1.avif" style="width:410px; height: auto;">
