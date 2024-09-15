@@ -170,3 +170,7 @@ we rained mortar fire down
 chock full o carcinogens, microplastics, seedoils
 
 ferreted out, burried the hatchet
+
+openai is making a powerplay for regulatory capture of ai
+
+from that spawned conversations of..
