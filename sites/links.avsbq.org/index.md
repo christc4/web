@@ -35,6 +35,16 @@ Linux, Linux, Linux and very useful Linux tutorials
 - [GitHub](https://github.com/BrodieRobertson)
 - [YouTube](https://www.youtube.com/@BrodieRobertson)
 
+### burialgoods
+
+<hr>
+
+<img src=.pix/burialgoods.avif>
+
+Philisophical sh&ast;tposts
+
+- [YouTube](https://www.youtube.com/@burialgoods)
+
 ## Coffeezilla
 
 <hr>

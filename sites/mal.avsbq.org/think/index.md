@@ -155,3 +155,5 @@ I have never heard someone say they're craving brocoli
 The propaganda arm of ... is working overtime to keep us on the right track
 
 We are all born ignorant, but one must work hard to remain stupid
+
+The young generation will one day rise to hold the steering  wheel
