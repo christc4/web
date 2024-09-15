@@ -19,3 +19,5 @@ What I find even more fascinating, is that as my eyes crawled through some of th
 <hr>
 
 Maybe this is why I got a B, after sitting the exam two-times
+
+ everything said will be looked at under a microscope.
