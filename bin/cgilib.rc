@@ -5,8 +5,6 @@ fn dprintv { { for(v in $*) { echo -n $v^'#'^$#$v^'=' $$v '; '  }; echo } >[1=2]
 fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
 fn escape_html { sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' $* }
 
-
-
 # Note: should check if content type is application/x-www-form-urlencoded?
 # Should compare with http://www.shelldorado.com/scripts/cmds/urlgetopt.txt
 fn load_post_args {
@@ -137,26 +135,11 @@ fn url_encode {
 ' $* 
 }
 
-# Cookies
-fn set_cookie {
-    # TODO: should check input values more carefully
-    name=$1
-    val=$2
-    extraHttpHeaders=( $extraHttpHeaders 'Set-cookie: '^$"name^'='^$"val^'; path=/;' )
-}
-fn get_cookie {
-    ifs=';' { co=`{echo $HTTP_COOKIE} }
-
-    # XXX: we might be adding a trailing new line?
-    # The ' ?' is needed to deal with '; ' inter-cookie delimiter
-    { for(c in $co) echo $c } | sed -n 's/^ ?'$1'=//p' 
-}
-
 
 fn static_file {
     echo -n 'Content-Type: '
     select_mime $1
-    echo
+    echo -n
     exec cat $1
 }
 
@@ -192,7 +175,6 @@ fn ll_addh {
     $_l=$*(2-)
     $1=( $_l $$1 )
 }
-
 
 NEW_LINE='
 '
