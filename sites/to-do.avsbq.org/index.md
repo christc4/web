@@ -60,3 +60,5 @@ watch your name animbe
 sanest   mathematician image of hands and strigs
 
 make image gallery script that takes first twenty images ini alpha order, then inserts a page 2 and the script ensures that page 1 and 2 are created
+
+read the unfolding of language
