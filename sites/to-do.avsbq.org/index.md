@@ -1,5 +1,9 @@
 # Todo
 
+
+
+
+
 To-read
 
 make bayzed a nice medical student homepage with asthetiscop and candid smiling photo
@@ -70,3 +74,12 @@ record ari shaffir, clayton bigsby, sam hyde old mtv andrew stuff
 
 using wolfram language map fitts law
 <@630180555153211441> for your website you might want to update the entry for linux just like with the keybinding software, for a mouse like elecom huge i use this tool: https://github.com/sezanzeb/input-remapper
+
+blog post on white slave trades
+
+v
+HERE'S A LIST OF "WHITE SLAVE TRADES": 1. BARBARY SLAVE TRADE 2. ARAB SLAVE TRADE 3. IRISH SLAVE TRADE 4. CRIMEAN SLAVE TRADE 5. ROMAN SLAVE TRADE 6. GREEK SLAVE TRADE 7. GERMAN SLAVE TRADE 8. SLAVIC SLAVE TRADE, 100'S OF MILLIONS OF WHITE PEOPLE WERE ENSLAVED OVER THE LAST 3,000 YEARS, HALF WERE WHITE WOMEN!
+
+does file permission add weight to file?
+
+make a will with photographs of your items

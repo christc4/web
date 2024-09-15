@@ -31,3 +31,6 @@ This would come to an end more or less one day when a fellow worker saw me in th
 This new rite of freedom, I soon realised wasn't all it was chalked up to be. 
 
 <img src=".pix/jaypharm_court1.avif" style="width:300px; height: auto;">
+
+todo
+information is not being furnishsed or embellished

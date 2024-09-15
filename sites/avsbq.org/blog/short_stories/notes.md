@@ -126,3 +126,15 @@ at that granulated level of detail i cant give you advice
 go hand in hand
 
 in the past wed use hook spear club, or fish, but today we use the "green lure" and catch our meals though open car windows at fastfood
+
+we still preseverd a  very strong nuclen
+
+our basests instincs
+thee already creaky british economic structure
+two happless fellows
+
+00 feet one gets a different perspective on things. Seeing all those sprawling suburbs and freeways and factories spread out below makes one realize just how big America is and what an awesomely difficult task we have undertaken.
+
+Essentially, what we are doing with our program of strategic sabotage is hastening along somewhat the natural decay of America. We are chipping away at the termite-eaten timbers of the economy, so that the whole structure will collapse a few years sooner-and more catastrophically-than without our efforts. It is depressing to realize what a relatively small influence a
+
+you should join a comedy troupe

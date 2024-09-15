@@ -7,4 +7,4 @@
 [YouTube](https://www.youtube.com/@avsbq)
 
 Season 2 will return in a few weeks been super busy with job-hunting...
-
+Everyday I don't do a video, I'm communicating something to you
