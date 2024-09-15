@@ -2,6 +2,8 @@
 
 To-read
 
+make bayzed a nice medical student homepage with asthetiscop and candid smiling photo
+
 Horrid Practice: The Myth and Reality of Traditional Maori Cannibalism
 
 Study simon webb homeschooling method
