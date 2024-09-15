@@ -138,3 +138,35 @@ two happless fellows
 Essentially, what we are doing with our program of strategic sabotage is hastening along somewhat the natural decay of America. We are chipping away at the termite-eaten timbers of the economy, so that the whole structure will collapse a few years sooner-and more catastrophically-than without our efforts. It is depressing to realize what a relatively small influence a
 
 you should join a comedy troupe
+
+weaves were like tumbleweeds in our hallways
+
+we are stretched too far and thin, disintry is rampant  in our troops, rations are harder and harder to come by,
+failsafee
+neither heere nor there
+
+The blaze of lights outlining all the main streets is gone. Instead, the general blackness is broken only by hundreds of fires randomly scattered through the city. I know there are thousands of vehicles moving down th
+
+chef dishing out insults
+
+the dackyard has become a solid mass of flame for four days now
+
+our people are s sstill holed and tunneled up in.. using t hem as local command posts.
+
+strategies higed on us winning over a number of high-ranknig and well-to-do.. 
+
+Cr1tikal has a hard time debating when he's not just shouting the popular normie consensus at a sterile camera.
+
+set afire, large stow of fuel, affords a few days of..
+ bunkering hunkering
+
+
+
+the a rea became untenable for u s
+
+slinking around in disguises, and getting sick with fear every time we saw a cop, it's a wonderful feeling to be out in the open-and
+we rained mortar fire down
+
+chock full o carcinogens, microplastics, seedoils
+
+ferreted out, burried the hatchet
