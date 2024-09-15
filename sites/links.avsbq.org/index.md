@@ -65,6 +65,16 @@ Comedy and satire
 
 - [YouTube](https://www.youtube.com/user/damienslash)
 
+### Goatiis
+
+<hr>
+
+<img src=.pix/goatis.avif>
+
+Nutrition, Nature
+
+- [YouTube](https://www.youtube.com/@GoatisReviews)
+
 ### Jay Dyer
 
 <hr>
