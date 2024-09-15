@@ -33,3 +33,5 @@ My [RSS] feed to-be... not up yet. merily you await
 My [GitHub](https://github.com/christc4) has the odd coding project or two
 
 <img src=".pix/octo1.avif" style="width: 80px; height: auto;"> 
+
+
