@@ -1,0 +1,163 @@
+.
+|-- 1.css
+|-- 7.webp
+|-- _werc
+|   |-- lib
+|   |   |-- default_master.tpl
+|   |   |-- headers.tpl.bk
+|   |   |-- missing.tpl
+|   |   `-- style.css
+|   `-- pub
+|       `-- style.css.bk
+|-- a.txt
+|-- blog
+|   |-- #alcohol_remedies.md#
+|   |-- agit_prop.md
+|   |-- alcohol_remedies.md
+|   |-- ani_cli.webm
+|   |-- backwards_bike_dvorak.md
+|   |-- bespoke_in_bangladesh.md
+|   |-- big_words.md
+|   |-- blind_spots.md
+|   |-- ceiling_birds.md
+|   |-- childhood_in_the_east_end.md
+|   |-- city_trash_whither_thou_goest_i_will_go.md
+|   |-- coffee_naming_convention.md
+|   |-- currency_people_made.md
+|   |-- dmenu.webm
+|   |-- english_at_college.md
+|   |-- fashionista_crime.md
+|   |-- frog_cruelty.md
+|   |-- great_font_shift.md
+|   |-- how_2_treat_chinese_characters.md
+|   |-- how_i_broke_my_x61s.md
+|   |-- if_not_Christ_then_who.md
+|   |-- index.md
+|   |-- internet_landmines.md
+|   |-- kimono_washing.md
+|   |-- lad
+|   |-- lovehoney.md
+|   |-- lululemon.md
+|   |-- misc
+|   |   `-- tankards_and_lids.md
+|   |-- mosquito.md
+|   |-- nobody_knows_english.md
+|   |-- noone_loves_their_city.md
+|   |-- normal_and_natural.md
+|   |-- offloading_parenting.md
+|   |-- old_thinkpads.md
+|   |-- overgrown_10_year_olds.md
+|   |-- p1.jpeg
+|   |-- p2.jpeg
+|   |-- pho
+|   |-- phone_snatching.md
+|   |-- photo_ban.md
+|   |-- rabbit_starvation.md
+|   |-- redundant_acronym_syndrome.md
+|   |-- reviews
+|   |   |-- 3d
+|   |   |   |-- index.md
+|   |   |   `-- spaceball_4000_flx.md
+|   |   |-- books
+|   |   |   |-- index.md
+|   |   |   |-- my_prison_story.avif
+|   |   |   |-- my_survival_story.avif
+|   |   |   `-- vargsmal.avif
+|   |   |-- foot_pedal
+|   |   |   `-- footime.md
+|   |   |-- genpad.avif
+|   |   |-- genpad.webp
+|   |   |-- index.md
+|   |   |-- kbd
+|   |   |   |-- 2d_maltron.md
+|   |   |   |-- big_keys.md
+|   |   |   |-- index.md
+|   |   |   `-- maltron_left_hand.md
+|   |   |-- mice
+|   |   |   |-- contour_classic.md
+|   |   |   |-- g502.md
+|   |   |   |-- index.md
+|   |   |   |-- logitech_g203.md
+|   |   |   `-- mad_catz.md
+|   |   |-- monitor.md
+|   |   |-- muji_fountain_pen.md
+|   |   |-- pens
+|   |   |   `-- muji.md
+|   |   |-- post.md
+|   |   `-- trackballs
+|   |       |-- clearly_superior_technologies.md
+|   |       |-- esterline.md
+|   |       |-- index.md
+|   |       |-- kensington_expert_wireless.md
+|   |       |-- kensington_orbital.md
+|   |       `-- kim.avif
+|   |-- short_stories
+|   |   |-- a_lonely_business.md
+|   |   |-- enemy_on_deck.md
+|   |   |-- index.md
+|   |   |-- misplaced_jewel.md
+|   |   `-- notes.md
+|   |-- tales_from_my_childhood.md
+|   |-- thrifting_is_suboptimal.md
+|   |-- toilet_diversity.md
+|   |-- unfurling_of_a_clothes_moth.md
+|   |-- wasp_n_yuppie.md
+|   `-- we_see_faces_in_everything.md
+|-- cor.png
+|-- how
+|   |-- #computing.md#
+|   |-- angel.avif
+|   |-- computing.md
+|   |-- fitness.md
+|   |-- index.md
+|   |-- language.md
+|   |-- rsi.md
+|   |-- type.md
+|   `-- websites.md
+|-- if
+|   |-- browser.md
+|   |-- censorship.md
+|   |-- death.md
+|   |-- home.md
+|   |-- index.md
+|   |-- server.md
+|   |-- society.md
+|   `-- zombies.md
+|-- index.md
+|-- r.js
+|-- s.js
+|-- s.json
+|-- style.css -> ../../pub/style/style.css
+|-- toread
+|-- tosort
+|-- who
+|   |-- 
+|   |-- am_i.md
+|   |-- cv.p
+|   |-- cv.pdf
+|   |-- cv.ps
+|   |-- cv.txt
+|   |-- index.md
+|   |-- profile.md
+|   |-- rain.js
+|   |-- red_drip.png
+|   |-- red_drip.svg
+|   `-- red_line.avif
+|-- why
+|   |-- acme.md
+|   |-- dvorak.md
+|   |-- dvorak.md~
+|   |-- free_software.md
+|   |-- index.md
+|   |-- linux.md
+|   |-- not_https.md
+|   |-- online.md
+|   |-- openbsd.md
+|   |-- pig.gif
+|   |-- ss.png
+|   |-- ss.png.~1~
+|   |-- vim.md
+|   `-- websites.md
+`-- yt.avif
+
+18 directories, 142 files
