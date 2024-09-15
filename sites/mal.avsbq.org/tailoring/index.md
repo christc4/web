@@ -1,24 +1,30 @@
 # Tailoring
 
+*Last update: 2024/09/15*
+
+*Note to reader:* I could have named this section: 'fashion', 'clothing' or whatnot but chose 'tailoring' since tailoring is the master branch
+
+<hr>
+
 Small preface. Number one idiocy from so called 'fashionista' and 'stylists' is that they do not know the fundementals behind tailoring. They also contributed to a lot of the harm in today's world. You should be wary of those people.
 
 ## Idiot 1
 
-<img src="harry1.webp" style="width: 400px; height: auto;">
+<img src="harry1.avif" style="width: 400px; height: auto;">
 
 Aside from betraying the Royal Family - this man cannot dress himself look at him compared to his forebear. This Prince Harry guy has access to some of Britain's finest bespoke tailors and look how he turns himself out.
 
 ## Unfortunate boy
 
-<img src="bad_suit.webp" style="width: 200px; height: auto;">
+<img src="bad_suit.avif" style="width: 200px; height: auto;">
 
 This is a student who graduated high-school in China, I will not refer to him as an idiot - since wearing a suit is probably super strange for him - I also blurred his face - he is not naturally so distorted. 
 
 ## Idiot 2
 
-![image](braces_belt.webp)
+![image](braces_belt.avif)
 
-This man who purports to be a 'stylist' is actually an employee of Tom Ford, he is wearing both braces and a belt, and look at his eggcup belly. This is the type of individual to put boatloads of creams and hair gels but tend to overlook the finer details of one's costume. This man is also probably a homesexual. So doubly compromised.
+This man who purports to be a 'stylist' is an employee of Tom Ford, he is wearing both braces and a belt, and look at his eggcup belly. This is the type of individual to put boatloads of creams and hair gels but tend to overlook the finer details of one's costume. This man is also smoking a toxic plant so doubly compromised.
 
 
 # Objections
@@ -51,7 +57,7 @@ Kirby Alison has done tremendous work on his open-collar shirts, in-fact they ar
 
 # Fusing vs canvassing
 
-<img src=".pix/canvas.webp">
+<img src="canvas.avif" style="width: 800px; height: auto;">
 
 Solutions:
 use fingernail to scrape away fusing
@@ -83,9 +89,10 @@ I will say this to men, you look like an egg cup if you wear high rise and a pot
 Utility + Satisfaction + Cost per wear
 
 
-<img src=".pix/yt1.webp" style="width: 200px; height: auto;">
-<img src=".pix/yt2.webp" style="width: 200px; height: auto;">
-<img src=".pix/yt3.webp" style="width: 200px; height: auto;">
+<img src="yt1.webp" style="width: 200px; height: auto;">
+<img src="yt2.webp" style="width: 200px; height: auto;">
+<img src="yt3.webp" style="width: 200px; height: auto;">
+
 # Finding a tailor
 
 A good tailor will confidently poke, prode and dicate in exactly the right way for his diagnosis. A bad tailor will most probably grunt at you and mutter under his breath.

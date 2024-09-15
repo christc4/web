@@ -149,6 +149,27 @@ Linux, Linguistics, Lifestyle, Philosophy, Economics etc
 - [based.cooking](https://based.cooking) - Recipe site without the ads/trackers
 - [landchad.net](https://landchad.net) - Guide to setting up websites/self-hosting.
 
+### Patristic Nectar
+
+<hr>
+
+<img src=.pix/patristic_nectar.avif>
+
+Orthodox Christian spirituality
+
+- [YouTube](https://www.youtube.com/@PatristicNectarFilms)
+
+### Trisagion Films
+
+<hr>
+
+<img src=.pix/trisagion_films.avif>
+
+Orthodox Christian animated biographies
+
+- [YouTube](https://www.youtube.com/user/Trisagionfilms)
+
+
 ### Xah Lee
 
 <hr>
@@ -188,6 +209,8 @@ Ergonomics, Emacs, Programming,
 
 - https://butler-harris.org/
 
+- [dimden.dev](https://dimden.dev/)
+	- to be cherished retro-looking site, beautiful hand-crafted javascript
 - http://nuclear.mutantstargoat.com/ 
 	- operating systems, electronics, hardware hacks
 
