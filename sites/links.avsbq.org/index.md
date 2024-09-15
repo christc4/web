@@ -81,182 +81,182 @@ Linux, Privacy, Homesteading
 
 "Mental Outlaw is the only black guy that can sound like a white guy impersonating a black guy"
 
-	- [Odysee](https://odysee.com/@AlphaNerd:8)
+- [Odysee](https://odysee.com/@AlphaNerd:8)
 
-	### Br. Nathanael
+### Br. Nathanael
 
-	<hr>
+<hr>
 
-	<img src=.pix/nat3.avif>
+<img src=.pix/nat3.avif>
 
-	Advice, Christianity
+Advice, Christianity
 
-	- [BibleWithBrother](https://www.biblewithbrother.com/)
+- [BibleWithBrother](https://www.biblewithbrother.com/)
 
-	### Fr. Spyridon Bailey
+### Fr. Spyridon Bailey
 
-	<hr>
+<hr>
 
-	<div class="br"><img src=".pix/fr_spyridon.avif" style="width:200px; height: auto;"><img src=".pix/fr_spyridon2.avif" style="width:200px; height: auto;"></div>
+<div class="br"><img src=".pix/fr_spyridon.avif" style="width:200px; height: auto;"><img src=".pix/fr_spyridon2.avif" style="width:200px; height: auto;"></div>
 
-	- [YouTube](https://www.youtube.com/@FatherSpyridonROCOR)
-	- [Amazon Author](https://www.amazon.co.uk/stores/author/B004K2VROW)
+- [YouTube](https://www.youtube.com/@FatherSpyridonROCOR)
+- [Amazon Author](https://www.amazon.co.uk/stores/author/B004K2VROW)
 
-	### Leather Apron Club
+### Leather Apron Club
 
-	<hr>
+<hr>
 
-	<img src=.pix/leather_apron_club.avif>
+<img src=.pix/leather_apron_club.avif>
 
-	Philiosophy
+Philiosophy
 
-	- [YouTube](https://www.youtube.com/@LeatherApronClubChannel)
+- [YouTube](https://www.youtube.com/@LeatherApronClubChannel)
 
-	### Lindybeige
+### Lindybeige
 
-	<hr>
+<hr>
 
-	<div class="br"><img src=.pix/lindybeige.avif></div>
+<div class="br"><img src=.pix/lindybeige.avif></div>
 
-	- [YouTube](https://www.youtube.com/user/lindybeige)
-	- [lloydianaspects.co.uk](https://www.lloydianaspects.co.uk/)
-	- [lindybeige.co.uk](https://www.lindybeige.uk/)
+- [YouTube](https://www.youtube.com/user/lindybeige)
+- [lloydianaspects.co.uk](https://www.lloydianaspects.co.uk/)
+- [lindybeige.co.uk](https://www.lindybeige.uk/)
 
 
-	### Luke Smith 
+### Luke Smith 
 
-	<hr>
+<hr>
 
-	<div class="br"><img src=.pix/luk_boomer.avif><img src=.pix/luk.avif><img src=.pix/luk_varg.avif></div>
+<div class="br"><img src=.pix/luk_boomer.avif><img src=.pix/luk.avif><img src=.pix/luk_varg.avif></div>
 
-	> Luke and Varg face mashup
+> Luke and Varg face mashup
 
-	Linux, Linguistics, Lifestyle, Philosophy, Economics etc
+Linux, Linguistics, Lifestyle, Philosophy, Economics etc
 
-	"We're in the closet today. No homo"
+"We're in the closet today. No homo"
 
-	- [Peertube](https://videos.lukesmith.xyz)
-	- [GitHub](https://github.com/Lukesmithxyz)
-	- [Personal site](https://lukesmith.xyz) 
-	- [LARBS](https://larbs.xyz) - Arch/Artix bootstrapping script
-	- [based.cooking](https://based.cooking) - Recipe site without the ads/trackers
-	- [landchad.net](https://landchad.net) - Guide to setting up websites/self-hosting.
+- [Peertube](https://videos.lukesmith.xyz)
+- [GitHub](https://github.com/Lukesmithxyz)
+- [Personal site](https://lukesmith.xyz) 
+- [LARBS](https://larbs.xyz) - Arch/Artix bootstrapping script
+- [based.cooking](https://based.cooking) - Recipe site without the ads/trackers
+- [landchad.net](https://landchad.net) - Guide to setting up websites/self-hosting.
 
-	### Patristic Nectar
+### Patristic Nectar
 
-	<hr>
+<hr>
 
-	<img src=.pix/patristic_nectar.avif>
+<img src=.pix/patristic_nectar.avif>
 
-	Orthodox Christian spirituality
+Orthodox Christian spirituality
 
-	- [YouTube](https://www.youtube.com/@PatristicNectarFilms)
+- [YouTube](https://www.youtube.com/@PatristicNectarFilms)
 
-	### Trisagion Films
+### Trisagion Films
 
-	<hr>
+<hr>
 
-	<img src=.pix/trisagion_films.avif>
+<img src=.pix/trisagion_films.avif>
 
-	Orthodox Christian animated biographies
+Orthodox Christian animated biographies
 
-	- [YouTube](https://www.youtube.com/user/Trisagionfilms)
+- [YouTube](https://www.youtube.com/user/Trisagionfilms)
 
-	### Varg Vikernes
+### Varg Vikernes
 
-	<hr>
+<hr>
 
-	<img src=".pix/varg1.avif" style="width:200px; height: auto;">
-	<img src=".pix/varg_recruiter.avif" style="width:200px; height: auto;">
-	<img src=".pix/varg3.avif" style="width:200px; height: auto;">
+<img src=".pix/varg1.avif" style="width:200px; height: auto;">
+<img src=".pix/varg_recruiter.avif" style="width:200px; height: auto;">
+<img src=".pix/varg3.avif" style="width:200px; height: auto;">
 
-	Survivalism, Lifestyle, History, Anthropology, Paganism
+Survivalism, Lifestyle, History, Anthropology, Paganism
 
-	"You can curse the darkness or you can just light a candle"
+"You can curse the darkness or you can just light a candle"
 
-	- [Amazon author profile](https://www.amazon.co.uk/stores/author/B00IVZ2KPO)
-	- [burzum.org](https://burzum.org)
-	- [thuleanperspective.com](https://thuleanperspective.com/)
-	- [Archived Thulean Perspective 2017](https://archive.org/details/thuleanperspective2017)
+- [Amazon author profile](https://www.amazon.co.uk/stores/author/B00IVZ2KPO)
+- [burzum.org](https://burzum.org)
+- [thuleanperspective.com](https://thuleanperspective.com/)
+- [Archived Thulean Perspective 2017](https://archive.org/details/thuleanperspective2017)
 
-	### Xah Lee
+### Xah Lee
 
-	<hr>
+<hr>
 
-	<div class="br"><img src=.pix/xah.avif><img src=.pix/xah_pear.avif></div>
+<div class="br"><img src=.pix/xah.avif><img src=.pix/xah_pear.avif></div>
 
-	Ergonomics, Emacs, Programming, 
+Ergonomics, Emacs, Programming, 
 
-	"Dark theme is no good. You don't live in the darkness and see glowies"
-	"Debloat yourself before you call my init.el bloated"
-	"Google Chrome, which of course, looks into your pants all the time!"
-	"What's your native tongue? Body language!"
+"Dark theme is no good. You don't live in the darkness and see glowies"
+"Debloat yourself before you call my init.el bloated"
+"Google Chrome, which of course, looks into your pants all the time!"
+"What's your native tongue? Body language!"
 
-	- [xahlee.org](http://xahlee.org/index.html)
-	- [xahlee.info](http://xahlee.info), keyboard, math, programming, nerd stuff
+- [xahlee.org](http://xahlee.org/index.html)
+- [xahlee.info](http://xahlee.info), keyboard, math, programming, nerd stuff
 
-	 Organisations
+ Organisations
 
-	- [Acorn Land Labs](https://acornlandlabs.com/pages/about)
-	    - Bottom-up, sustainability, off-grid living
+- [Acorn Land Labs](https://acornlandlabs.com/pages/about)
+    - Bottom-up, sustainability, off-grid living
 
-	- [Libreboot](https://libreboot.org)
-	    - Free BIOS
+- [Libreboot](https://libreboot.org)
+    - Free BIOS
 
-	- [Low Tech Magazine](https://solar.lowtechmagazine.com/about/)
-	    - Low tech
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/about/)
+    - Low tech
 
-	- [Suckless](https://suckless.org)
-	    - Minimal software, that sucks less
+- [Suckless](https://suckless.org)
+    - Minimal software, that sucks less
 
-	- [FSF](https://fsf.org)
-	    - Free software foundation
+- [FSF](https://fsf.org)
+    - Free software foundation
 
-	### All other links (I haven't done deeppdive on)
+### All other links (I haven't done deeppdive on)
 
-	- https://butler-harris.org/
+- https://butler-harris.org/
 
-	- [dimden.dev](https://dimden.dev/)
-		- to be cherished retro-looking site, beautiful hand-crafted javascript
-	- http://nuclear.mutantstargoat.com/ 
-		- operating systems, electronics, hardware hacks
+- [dimden.dev](https://dimden.dev/)
+	- to be cherished retro-looking site, beautiful hand-crafted javascript
+- http://nuclear.mutantstargoat.com/ 
+	- operating systems, electronics, hardware hacks
 
-	- https://vcfed.org/
-		- Vintage Computer Federation Missio
+- https://vcfed.org/
+	- Vintage Computer Federation Missio
 
-	- https://www.unqualified-reservations.org/
-		- Moldbug
+- https://www.unqualified-reservations.org/
+	- Moldbug
 
-	- https://gwern.net/
-		- AI, psychology & statistics
+- https://gwern.net/
+	- AI, psychology & statistics
 
-	- https://troubleshooters.com
-		- Indepth documentation for Linux
+- https://troubleshooters.com
+	- Indepth documentation for Linux
 
-	- https://mandarintools.com/
-		- Chinese Tools
+- https://mandarintools.com/
+	- Chinese Tools
 
-	- https://minorshadows.net
-		- minimalistic photo journal powered by 1600pr.sh
+- https://minorshadows.net
+	- minimalistic photo journal powered by 1600pr.sh
 
-	- https://brettlindler.xyz/ 
-		- cozy articles
+- https://brettlindler.xyz/ 
+	- cozy articles
 
-	- https://www.uninformativ.de/
+- https://www.uninformativ.de/
 
-	- https://www.talisman.org
+- https://www.talisman.org
 
-	- https://zerocontradictions.net
+- https://zerocontradictions.net
 
-	- danluu.com
+- danluu.com
 
-	- https://lukemuehlhauser.com/
+- https://lukemuehlhauser.com/
 
-	- https://www.robinwils.com/
+- https://www.robinwils.com/
 
-	[idlewords.com](https://idlewords.com/)
+[idlewords.com](https://idlewords.com/)
 
-	http://plan9.stanleylieber.com/
+http://plan9.stanleylieber.com/
 
-	- https://ari.lt/	
-		- https://blog.ari.lt/
+- https://ari.lt/	
+	- https://blog.ari.lt/

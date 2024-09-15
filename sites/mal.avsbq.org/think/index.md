@@ -151,3 +151,7 @@ Hyperspecialization is bad. Get a BA on life instead
 First they were doing cold pllunges next they'll be doing 'house on fire first thing in the morning'
 
 I have never heard someone say they're craving brocoli
+
+The propaganda arm of ... is working overtime to keep us on the right track
+
+We are all born ignorant, but one must work hard to remain stupid
