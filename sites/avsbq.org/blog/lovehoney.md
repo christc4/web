@@ -43,4 +43,3 @@ Many kids create Google accounts with fake ages, this is probably harder now as 
 [Image source](https://www.thedrum.com/news/2024/04/17/ad-the-day-lovehoney-challenges-censorship-replacing-toys-with-everyday-objects)
  
 
-> For the lips of a strange woman drop as an honeycomb, And her mouth is smoother than oil: But her end is bitter as wormwood, Sharp as a twoedged sword. Her feet go down to death; Her steps take hold on hell
