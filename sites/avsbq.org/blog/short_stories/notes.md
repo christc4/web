@@ -174,3 +174,7 @@ ferreted out, burried the hatchet
 openai is making a powerplay for regulatory capture of ai
 
 from that spawned conversations of..
+
+paled into insignificance
+
+Mastering neetdom one day at a time

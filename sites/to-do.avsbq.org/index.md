@@ -87,3 +87,30 @@ make a will with photographs of your items
 read mathematical girls manga
 
 read technologicalslavery
+
+old ppl sunshinee duchess darling be a dear
+
+the last five seconds my heart was thumping like a jackhammer
+
+mr beast is youtubes golden goose
+
+modern software has glaring warts
+
+
+heavy handed intervention
+
+honey glazed means, can honey stop meat spoiling
+https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art019
+https://www.washingtonpost.com/local/education/chirping-smoke-detectors-at-students-home-were-disrupting-virtual-classes-now-firefighters-are-helping-to-fix-them/2020/09/21/eb3f37e4-f9f0-11ea-be57-d00bb9bc632d_story.html
+
+https://notthebee.com/article/meet-one-of-the-black-new-york-teachers-who-just-got-2-million-for-not-passing-a-test-you-read-that-right-the-smoke-detector-chirping-in-the-background-is-a-nice-touch/
+
+https://en.wikipedia.org/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc.
+
+research mkultra
+
+https://medium.com/@jared__willis/unconventional-profit-raising-ostriches-26c26a8e73d8
+
+https://aeon.co/essays/why-would-apollo-make-positive-statements-about-judaism
+
+acme2k
