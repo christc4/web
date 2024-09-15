@@ -8,13 +8,19 @@
 
 My much beloved talk show, [_From the Iron Sights_](http://talk.avsbq.org), zooms in on my interests, aims to spark conversation and kindle the embers of flamewars... 
 
-<img src=".pix/ftis.avif" style="width: 80px; height: auto;"> From the Iron Sights 2024
+<img src=".pix/ftis.avif" style="width: 80px; height: auto;"> 
 
 <hr>
 
 My pages: [archival](http://archive.avsbq.org), [iconography](http://icons.avsbq.org) (sacred art), [mal](http://mal.avsbq.org) (bad), [languages](http://language.avsbq.org), [links](http://links.avsbq.org) (to interesting people), [to-do](http://to-do.avsbq.org), [handbook](http://handbook.avsbq.org) (trail of rope)
 
-<img src=".pix/a.svg" style="width: 80px; height: auto;"> Christ Amlai 
+<img src=".pix/a.svg" style="width: 80px; height: auto;"> [Reach me](.reach), [Give](.give) 
+
+<hr>
+
+[Site searchbar and sitemaps](http://avsbq.org/.search)
+
+<img src=".pix/search.avif" style="width: 80px; height: auto;"> 
 
 <hr>
 
@@ -26,4 +32,4 @@ My [RSS] feed to-be... not up yet. merily you await
 
 My [GitHub](https://github.com/christc4) has the odd coding project or two
 
-<img src=".pix/octo1.avif" style="width: 80px; height: auto;"> christc4
+<img src=".pix/octo1.avif" style="width: 80px; height: auto;"> 
