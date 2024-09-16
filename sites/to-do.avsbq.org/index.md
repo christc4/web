@@ -165,4 +165,9 @@ see statistical noise and fit it to the many possibilities in your head
 https://www.historydefined.net/robert-mcgee/
 
 
+https://www.theguardian.com/world/2012/may/06/georgian-orthodox-church-mass-baptisms
 
+read about wu zetian
+https://luksamuk.codes/posts/plan9-mail.html
+https://spinroot.com/pico/pjw.html
+https://research.swtch.com/face
