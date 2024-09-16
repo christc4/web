@@ -15,6 +15,7 @@ I roll my shoulders and do neck-stretches.
 When not typing I keep my wrists in a neutral position. I also try to nudge my mouse/trackball while my wrists are neutral
 
 <img src=".pix/wrist.avif" style="width: 450px; height: auto;">
+<img src=".pix/shelving_unit.avif" style="width: 450px; height: auto;">
 
 
 

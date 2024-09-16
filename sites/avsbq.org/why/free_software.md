@@ -7,3 +7,6 @@ Designed by [u/Sad-Net-3661](https://www.reddit.com/r/leftistvexillology/comment
 
 <img src=".pix/fsf_license.avif" style="width:250px; height: auto;">
 [src](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/)
+
+<img src=".pix/tux_dollar_note.avif" style="width:250px; height: auto;">
+[src](https://krita-artists.org/t/tux-linux-mascot-fanart-hatching-style/85202)

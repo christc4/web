@@ -248,3 +248,76 @@ https://en.wikipedia.org/wiki/Abide_with_Me
 blog your website minimal journey you rem or do talk show you removed pipe sign for dash
 
 angli not angless
+
+find paul graham tweet and write logn blog post about it
+
+nhs autism page says noone knows how autism is caused
+
+toxins in beef get bio accumalated up the food chain
+
+conan the brabarian
+
+ rational male by rollo tomassi.
+daily mail december five 2000 internet may be just a passing  fad d
+
+the macintosh uses an experimental pointing device quote
+https://www.robinosborne.co.uk/2016/05/30/the-last-frontier-of-minification-html/
+
+https://www.msn.com/en-gb/news/uknews/why-afghans-are-being-slowly-poisoned-by-their-evening-meal/ar-AA1plB5k
+
+https://youtu.be/BLoAZrHWVLA?feature=shared
+
+add shop chime bell
+http://xahlee.info/math/toroidal_earth_map.html
+
+make this your wallpaper
+
+
+
+make video called website minimalism asympote
+
+vhttps://youtu.be/eu8O2Suxo9A?feature=shared&t=423
+
+very funny noise
+https://en.wikipedia.org/wiki/Huanjing_bunao
+
+
+
+https://www.yourbrainonporn.com/ybop-articles-on-porn-addiction-porn-induced-problems/you-evolved-to-be-hooked-on-porn/porn-novelty-and-the-coolidge-effect-2011/#
+https://blog.wolframalpha.com/2012/04/19/know-your-keyboard-like-never-before/
+
+
+
+https://www.openwatcom.org/ftp/manuals/wgmlref.pdf
+
+
+
+
+https://www.wordperfect.com/en/product/office-suite/
+
+https://www.conradwolfram.com/writings
+
+
+https://www.conradwolfram.com/writings/post-truth
+
+https://junegunn.github.io/fzf/tips/ripgrep-integration/
+
+orgasmic
+herbivorous
+
+who is the  indegonous south african nonbantu
+khoi people
+new scienntist recentd  chedder man
+true
+
+truth are footnotes lies are headlines
+https://www.raebear.net/computers/emacs-colors/
+https://youtu.be/b2taSMx6394?feature=shared
+
+theme firefox to be more screen efficient remove top tabs
+log about vo2 max scum
+https://en.wikipedia.org/wiki/Sergey_Taboritsky
+parentage
+
+https://10kb.neocities.org/gallery/00
+https://frogesay.neocities.org/

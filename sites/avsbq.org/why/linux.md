@@ -41,6 +41,8 @@ It took a lot of convincing for me to switch to Linux, and a lot of kicking and 
 <img src=".pix/tux_balancing_on_fence.avif" style="width:150px; height: auto;">
 <img src=".pix/tux_meditating_levitating.avif" style="width:150px; height: auto;">
 <img src=".pix/tux_superhero_armor.avif" style="width:150px; height: auto;">
+<img src=".pix/tux_waving_flag.avif" style="width:150px; height: auto;">
+<img src=".pix/tux_oracle.avif" style="width:150px; height: auto;">
 
 ## Different art style but still Tux
 
