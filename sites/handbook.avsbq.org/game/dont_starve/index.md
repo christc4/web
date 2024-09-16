@@ -2,6 +2,9 @@
 
 ### todo todo
 
+todo make guide on backing up worlds ./klei/DoNotStarve
+if stuck in cave delet survival one it also deletes your entire explored maps
+
 Dont drop items near the campfire
 
 ## Where to buy?

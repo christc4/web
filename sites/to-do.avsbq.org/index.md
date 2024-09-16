@@ -171,3 +171,77 @@ read about wu zetian
 https://luksamuk.codes/posts/plan9-mail.html
 https://spinroot.com/pico/pjw.html
 https://research.swtch.com/face
+For example, the Bengali revolutionary Tarak Nath Das's white American wife, Mary Keatinge Morse, was stripped of her American citizenship for her marriage to an "alien ineligible for citizenship."[11
+reseearch mullato history
+
+The Quaker planter and slave trader Zephaniah Kingsley, Jr. publicly advocated, and personally practiced, racial mixing as a way toward ending slavery, as well as a way to produce healthier and more beautiful offspring. These views were tolerated in Spanish Florida, where free people of color had rights and could own and inherit property. After Florida became a U.S. territory in 1821, he movied with his wives, children, and the people he enslaved, to Haiti.[17]i
+
+In 1967, an interracial couple, Richard and Mildred Loving, successfully challenged the constitutionality of the ban on interracial marriage in Virginia. Their case reached the U.S. Supreme Court as Loving v. Virginia.
+
+In 1958, the Lovings married in Washington, D.C. to evade Virginia's anti-miscegenation law (the Racial Integrity Act). On their return to Virginia, they were arrested in their bedroom for living together as an interracial couple. The judge suspended their sentence on the condition that the Lovings leave Virginia and not return for 25 years. In 1963, the Lovings, who had moved to Washington, D.C, decided to appeal this judgment. In 1965, Virginia trial court Judge Leon Bazile, who heard their original case, refused to reconsider his decision. Instead, he defended racial segregation, writing:
+
+Almighty God created the races white, black, yellow, Malay, and red, and placed them on separate continents, and but for the interference with his arrangement there would be no cause for such marriages. The fact that he separated the races shows that he did not intend the races to mix.[39]
+
+researchr father charles coughin
+
+ddilbert creator  scott adams
+
+in all your mouse reviews show measurement of your hand maybe dithered and add photo of you cuupping the mouse 
+take a nice photo of your hand with meausurements and put that at very start of page
+
+http://garote.bdmonkeys.net/commandline/
+
+https://archive.ashspace.org/ash.xanthia.com/euclidmth.html
+
+if lady of the manor takes contraceptives intelligent genes arentn passod down
+
+https://youtu.be/5GsFaCSOrp0?si=k-mwndWR-cEwHSEi
+
+swiftpoint mouse
+spaceorb three sixty
+opeen office mouseA
+
+https://youtu.be/5GsFaCSOrp0?si=k-mwndWR-cEwHSEi
+rollkugel
+
+telefunken
+https://www.qqxiuzi.cn/wz/zixun/1163.htm
+https://www.bilibili.com/video/BV1XW411K7sU/
+
+https://spinroot.com/pico/pjw.html
+https://lowendmac.com/2015/mouse-design-1963-to-1983/
+https://www.e-basteln.de/computing/rollkugel/rollkugel/
+https://dougengelbart.org/content/view/162/
+https://dougengelbart.org/content/view/273/
+https://www.youtube.com/watch?v=pZKB9gndT_Y
+https://www.microsoft.com/buxtoncollection/detail.aspx?id=118
+http://canbell.com/store/product.php?productid=18317 hanwang mouse
+perific mouse half  bitten
+wangwa emily mouse http://www.wangma.net.cn/
+zhengma input method  blog chinese input methods blog bopomofo get better at chinese
+https://youtu.be/5GsFaCSOrp0?si=k-mwndWR-cEwHSEi
+
+study simon webb homeschooling blog on his main page
+
+https://parish.rcdow.org.uk/osterley/wp-content/uploads/sites/167/2021/04/25th-April-2021-Fr.-Robin-Burgess.pdf
+
+read venerablee bedee
+
+Go to the ant, thou sluggard; consider her ways, and be wise: Which having no guide, overseer, or ruler, Provideth her meat in the summer, and gathereth her food in the harvest.
+
+emaili simon webb about alcohol reemedies
+
+https://en.wikipedia.org/wiki/Green_Cross_Code
+
+https://paulbourke.net/dataformats/postscript/
+
+https://webdocs.cs.ualberta.ca/~hayward/papers/BLUEBOOK.pdf
+
+what is NOSTR
+
+https://en.wikipedia.org/wiki/Three_Ds_of_antisemitism
+
+
+https://en.wikipedia.org/wiki/Refusenik
+
+https://en.wikipedia.org/wiki/Abide_with_Me
