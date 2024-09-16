@@ -1,6 +1,6 @@
 # If ... home 
 
-> Go to [black dolphin](https://todo.avsbq.org/black_dolphin) to see if I live out my dream
+> Go to [black dolphin](http://to-do.avsbq.org/black_dolphin) to see if I live out my dream
 
 <img src=".pix/home.webp" style="width:350px; height: auto;">
 
