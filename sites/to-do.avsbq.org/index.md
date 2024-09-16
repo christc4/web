@@ -325,3 +325,4 @@ https://frogesay.neocities.org/
 make short acme and sam showcases and small video explaining xwininfo and totop  literally title it
 
 xwininfo, XorgRaiseWindow, floating window, ergonomics
+https://www.youtube.com/watch?v=d7G-Ywd3NSI

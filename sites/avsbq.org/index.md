@@ -18,7 +18,7 @@ My pages: [archival](http://archive.avsbq.org), [iconography](http://icons.avsbq
 
 <hr>
 
-[Site searchbar and sitemaps](http://avsbq.org/.search)
+Christ Amlai [Site searchbar and sitemaps](http://avsbq.org/.search)
 
 <img src=".pix/search.avif" style="width: 80px; height: auto;"> 
 
