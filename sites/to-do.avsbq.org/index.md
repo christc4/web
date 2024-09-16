@@ -114,3 +114,55 @@ https://medium.com/@jared__willis/unconventional-profit-raising-ostriches-26c26a
 https://aeon.co/essays/why-would-apollo-make-positive-statements-about-judaism
 
 acme2k
+http://0xdeadbeer.xyz/posts/the-machinery-of-life/
+
+read josepph henricih, the weirdest peple in the worold
+
+I have instructed my progeny to watch, listen and learn from this presentation.
+
+the old farmers almanac
+
+buy varg the elfwyn saga the winners promise
+
+research lion man german cave sculpture
+
+https://idlewords.com/talks/website_obesity.htm
+
+https://idlewords.com/2023/1/why_not_mars.htm
+https://blog.library.si.edu/blog/2014/02/21/library-hacks-creating-animated-gifs/
+http://www.cs.bell-labs.com/wiki/plan9/Mouse_vs._keyboard
+https://www.google.com/search?q=bowling%20alone%20robert%20putnam
+buf from the fireside books on amazon
+
+social pressures lead to blaming other factors as a way to relieve stress&
+
+https://www.theguardian.com/uk-news/2020/jun/22/calls-for-redesign-of-royal-honour-over-offensive-image
+
+
+secret of monkey islanA
+
+review andycine
+niggtcrawlers creeppy crawlers
+https://www.jwz.org/blog/2005/06/new-ergo-toys/
+https://www.exurbe.com/tag/hell/
+https://www.prepressure.com/postscript/basics/programming-language
+https://personal.math.ubc.ca/~cass/graphics/manual/
+https://wiki.xxiivv.com/site/postscript.html
+https://www.amazon.co.uk/ORTHODOXY-KINGDOM-Father-Spyridon-Bailey/dp/1786979519/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+reseearch michael baden physician
+
+wistoria ep 7 has nice morals
+
+https://youtube.com/shorts/uu69vf5C8D4?si=qYEB3yHMbLpChlva put him in links
+
+put kay lack in links https://www.youtube.com/watch?v=76acHVJfziw
+https://en.m.wikipedia.org/wiki/File:Botticelli-primavera.jpg
+
+https://victorianweb.org/painting/archer/1.html
+
+see statistical noise and fit it to the many possibilities in your head
+
+https://www.historydefined.net/robert-mcgee/
+
+
+

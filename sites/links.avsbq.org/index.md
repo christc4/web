@@ -290,3 +290,6 @@ http://plan9.stanleylieber.com/
 
 - https://ari.lt/	
 	- https://blog.ari.lt/
+
+
+(https://idlewords.com)
