@@ -1,5 +1,0 @@
-# beer
-
-asahi
-
-coors
