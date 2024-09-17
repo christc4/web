@@ -13,3 +13,5 @@ I'm not really interested in the term Yuppie, moreso on 'wasp' you see because w
 I think one reason WASP fell out of favor, is not to due with religion, but atomisation, of a racial collective into individualism.
 
 But the issue is multifaceted and I don't have the interest to get a PhD and do thesis..
+
+TODO write omre on why anglo saxon isnt a good collective term
