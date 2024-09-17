@@ -1,6 +1,8 @@
 # Everything you'd want to know about my computing
 
-*Last updated: 2024/09/05*
+*Last updated: 2024/09/17*
+
+<hr>
 
 ## Ergonomics
 
@@ -94,3 +96,7 @@ Top, Plan9 Rio. Middle, sowm. Bottom, termux
 	- Traxys Esterline, Microsoft Explorer
 - *Mouse*
 	- Logitech G502 Hero, Contour Large Left-Handed
+
+<object data=".txt/neofetch.txt" width="575px" height="440px"></object> 
+
+<object data=".txt/neofetch2.txt" width="550px" height="400px"></object> 

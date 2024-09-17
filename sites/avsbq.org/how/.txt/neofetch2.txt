@@ -1,0 +1,20 @@
+                   '                      dawn@home 
+                  'o'                     --------- 
+                 'ooo'                    OS: Artix Linux x86_64 
+                'ooxoo'                   Host: ThinkPad X230 
+               'ooxxxoo'                  Kernel: 6.10.10-artix1-1 
+              'oookkxxoo'                 Packages: 637 
+             'oiioxkkxxoo'                Shell: zsh 5.9 
+            ':;:iiiioxxxoo'               Resolution: 1280x1024
+               `'.;::ioxxoo'              WM: sowm
+          '-.      `':;jiooo'             Terminal: st
+         'oooio-..     `'i:io'            CPU: Intel i5-3320M 3.3GHz
+        'ooooxxxxoio:,.   `'-;'           GPU: Intel 3rd Gen
+       'ooooxxxxxkkxoooIi:-.  `'          Memory: 1.37/11.92G
+      'ooooxxxxxkkkkxoiiiiiji' 
+     'ooooxxxxxkxxoiiii:'`     .i' 
+    'ooooxxxxxoi:::'`       .;ioxo' 
+   'ooooxooi::'`         .:iiixkxxo' 
+  'ooooi:'`                `'';ioxxo' 
+ 'i:'`                          '':io' 
+'`                                   `' 
