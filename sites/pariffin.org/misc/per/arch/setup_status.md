@@ -55,7 +55,7 @@ Cursor DPI control. Macro to switch between slow, default fast
 
 Status icons for battery, volume, date + time, DPI setting
 
-
+Better way to cycle through windows with alt tab
 
 ###### Other Arch notes
 
