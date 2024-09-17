@@ -55,3 +55,33 @@ even 'ZZ' is no good
 
 Vim includes a man page viewer, :Man , in its runtime files. Even better, you can just place your cursor on a word in the buffer and press <Leader>K ( \K ) to see the man page for that word.24 May 2013
 
+## Replacement
+
+	:%s/<B>/\*/g
+
+This replaces all instances of <code><B></code> with <code>*</code>
+
+	%s/
+
+Starts the substitution command and <code>%</code> says it should operate on all lines in the file
+
+	\*: This is the replacement text. Note the use of \ before * to escape it, as * is a special character in Vim's replacement syntax.
+
+g, tells viim to replace all occurences
+
+	:%s/<\/B>/\*/g
+
+<\/B>: This is the text you want to replace. The \/ escapes the / character so that it is treated as a literal part of the text to search for.
+
+:%s/<P>//g
+this removes all instances // is replacement text, meaning p will be reeplaced with nothing
+
+:%s/<\/P>//g
+
+:%s/&#9;/ /g
+
+:%s/<\/FONT><FONT FACE="Courier New" SIZE=2>//g
+:%s/<\/FONT><FONT \(FACE="Courier New" SIZE=2\|SIZE=2\)//g
+:%s/<\/FONT><FONT FACE="Courier New" SIZE=2>//g
+:%s/<\/FONT><FONT SIZE=2>//g
+
