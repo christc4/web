@@ -13,6 +13,7 @@
   "food/index",
   "food/b_vitamins",
   "food/sugar",
+  "food/tood",
   "think/chasing_the_dragon",
   "think/economics",
   "think/icarus",
@@ -21,7 +22,6 @@
   "think/.trump",
   "think/ouroboros",
   "think/paris-derangement-syndrome",
-  "misc/tailoring/index",
   "misc/society/history",
   "misc/society/index",
   "misc/society/jobs",
@@ -29,5 +29,6 @@
   "misc/society/architecture/index",
   "misc/society/.misc/index",
   "misc/society/.religion/index",
-  "misc/index"
+  "misc/index",
+  "tailoring/index"
 ]

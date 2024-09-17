@@ -15,11 +15,16 @@ function displayResults(results) {
     const searchResults = document.getElementById('searchResults');
     searchResults.innerHTML = '';
 
+    // Regular expression to remove subdomain/domain part
+    const domainRegex = /^.*\/(.*)$/;
+
     // Slice the results to show a maximum of 5 items
     results.slice(0, 4).forEach(result => {
+        const match = result.match(domainRegex);
+        const displayText = match ? match[1] : result;
         const resultItem = document.createElement('div');
         resultItem.className = 'resultItem';
-        resultItem.innerHTML = `<a href="/${result}">${result}</a>`;
+        resultItem.innerHTML = `<a href="/${result}">${displayText}</a>`;
         searchResults.appendChild(resultItem);
     });
 }
@@ -28,7 +33,7 @@ function displayResults(results) {
 document.getElementById('searchBar').addEventListener('input', async function() {
     const query = this.value;
     const searchResults = document.getElementById('searchResults');
-    
+
     // Clear search results if input is empty
     if (query === '') {
         searchResults.innerHTML = '';

@@ -18,12 +18,6 @@ My pages: [archival](http://archive.avsbq.org), [iconography](http://icons.avsbq
 
 <hr>
 
-Christ Amlai [Site searchbar and sitemaps](http://avsbq.org/.search)
-
-<img src=".pix/search.avif" style="width: 80px; height: auto;"> 
-
-<hr>
-
 My [RSS] feed to-be... not up yet. merily you await
 
 <img src=".pix/rss.avif" style="width: 80px; height: auto;"> 
