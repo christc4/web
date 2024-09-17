@@ -1,7 +1,8 @@
-# Current
+# More recent
 
+<img src=".pix/fzf.webp" style="max-width: 390px; height: auto;">
+<img src=".pix/coderbyte_practice.webp" style="max-width: 390px; height: auto;">
 <img src=".pix/avsbq.webp" style="max-width: 390px; height: auto;">
-
 
 # christc4.github.io
 
