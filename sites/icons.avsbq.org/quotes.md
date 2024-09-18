@@ -1,5 +1,9 @@
 # Quotes and useful stories
 
+*Last update: 2024/09/18*
+
+<hr>
+
 <img src=incense.avif>
 
 ## The last words of Saints
@@ -366,3 +370,5 @@ We are not going to enter Paradise 'by chance'. It requires struggle, hardships,
 St.Moses was asked, 'What should a man do in all the temptations and evil thoughts that come upon him?'. The old man said to him, 'He should weep and implore the goodness of God to come to his aid, and he will obtain peace if he prays with discernment. For it is written, 'With the Lord on my side I do not fear. What can man do to me (Ps. II8:6)' - St. Moses the Black, The Sayings of the Desert Fathers
 
 Those who do not know must be taught, not punished. We do not hit the blind. We lead them by the hand - St. Dionysius the Areopagite
+
+When a person takes one step to God,i 
