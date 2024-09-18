@@ -371,4 +371,4 @@ St.Moses was asked, 'What should a man do in all the temptations and evil though
 
 Those who do not know must be taught, not punished. We do not hit the blind. We lead them by the hand - St. Dionysius the Areopagite
 
-When a person takes one step to God,i 
+When a person takes one step to God, then God makes a thousand steps towards him - St. Paisios the Athonite
