@@ -1,4 +1,4 @@
-<style>body { background: url(.pix/audrey.avif) no-repeat top left !important; }</style>
+<style>body { background: url(.pix/audrey.avif) no-repeat top left; }</style>
 
 # avsbq.org 
 
