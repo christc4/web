@@ -11,7 +11,7 @@
 
 Reverse list
 
-<object data=".txt/reverse_list.txt" width="264px" height="90px"></object>
+<object data=".txt/reverse_list.txt" width="264px" height="60px"></object>
 
 Alternate solution, using slicing
 
@@ -31,4 +31,12 @@ This is the output
 
 Given a list of numbers. write a program to turn every item of a list into its square
 
-<object data=".txt/list_to_square.txt" width="216px" height="100px"></object>
+<object data=".txt/list_to_square.txt" width="256px" height="100px"></object>
+
+Alternate solution, using list comprehension
+
+<object data=".txt/list_comprehension_square.txt" width="288px" height="60px"></object>
+
+<hr>
+
+<object data=".txt/cat_2_lists_in_following_order.txt" width="344px" height="80px"></object>
