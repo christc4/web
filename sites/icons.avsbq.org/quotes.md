@@ -364,3 +364,5 @@ Do not despair! The Lord is near. Declare to Him all of your sorrows and confusi
 We are not going to enter Paradise 'by chance'. It requires struggle, hardships, and enduring mockery, insults, and slaps. It takes everything, We should never ask, 'Why?'. We should say, 'This is what God allowed. Not one hair of my head falls without the will of God'. It is very important that we keep this in mind. It is something heavenly - Gerondissa Makrina of Volos, Words of the Heart (p. 368)
 
 St.Moses was asked, 'What should a man do in all the temptations and evil thoughts that come upon him?'. The old man said to him, 'He should weep and implore the goodness of God to come to his aid, and he will obtain peace if he prays with discernment. For it is written, 'With the Lord on my side I do not fear. What can man do to me (Ps. II8:6)' - St. Moses the Black, The Sayings of the Desert Fathers
+
+Those who do not know must be taught, not punished. We do not hit the blind. We lead them by the hand - St. Dionysius the Areopagite
