@@ -4,5 +4,5 @@
 
 ## Good challenge resources
 
-[pythonprinciples.com](https://pythonprinciples.com/challenges/)
+[pythonprinciples.com](https://pythonprinciples.com/challenges/) or [pynative.com](https://pynative.com)
 
