@@ -1,5 +1,3 @@
-# Useful CGI stuff
-
 fn dprint { echo $* >[1=2] }
 fn dprintv { { for(v in $*) { echo -n $v^'#'^$#$v^'=' $$v '; '  }; echo } >[1=2] }
 fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}

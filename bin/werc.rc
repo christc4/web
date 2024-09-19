@@ -20,7 +20,6 @@ path=(. /bin ./bin)
 
 http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
-# werc_apps=( apps/* )
 werc_root=`{pwd}
 sitesdir=sites
 
@@ -28,9 +27,6 @@ sitesdir=sites
 
 if(test -f etc/initrc.local)
     . ./etc/initrc.local
-
-for(a in $werc_apps)
-    . ./$a/app.rc
 
 fn werc_exec_request {
     site=$SERVER_NAME
