@@ -177,3 +177,13 @@ Hey! It's a retro-styled game! Oh, cool but you forgot to make retro-styled opti
 Almost everything you can do in Minecraft is illegal in real life
 
 Straight roads dont make skillful drivers
+
+The rumors are true. Yes, I'm a fed. And by fed, I mean, Fed up with you.
+
+If criticism destroys much, it creates much more
+
+If you think good design is expensive, you should look at the cost of bad design
+
+By virtue of doing good you are undercutting someone who is doing bad
+
+Imagine Henry Ford stopped making cars because the Horse and Buggy industry sent him a bunch of sob stories
