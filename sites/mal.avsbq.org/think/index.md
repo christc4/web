@@ -192,4 +192,8 @@ The wheels of justice turn exceedingly slowly
 
 It's easier to fool the masses than to convince them they're being fooled
 
+Outdated or timeless, priceless or worthless, dead or lifeless
 
+I really kicked the hornets nest with this one
+
+My bowl of cereal this morning told me otherwise

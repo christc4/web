@@ -340,3 +340,7 @@ research rabbi yohanan ben zakkai destruction herods temple
 we are used as kindling
 
 When enough circumstantial evidence piless up I cat call it coincidental anymore
+
+Did Vladimir Sviatoslavich choose Christianity over Islam due to drinking
+
+Russel Gmirkin and Ammon Hilllman

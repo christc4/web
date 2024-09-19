@@ -53,3 +53,9 @@ he makes other politicans look like saints
 invisiblee jew
 
 stomach tied in knots
+
+The unemployed milling around street corners
+
+grease the right palm
+
+Pushed to the fore of public notice

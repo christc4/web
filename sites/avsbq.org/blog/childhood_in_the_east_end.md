@@ -6,7 +6,7 @@ On the 12th of August 2024, I read Simon Webb's marvelous book, _A 1960s East En
 
 <img src=".pix/a_1960s_east_end_childhood.avif" style="width:100px; height: auto;">
 
-I'd like to give an account for what *my* childhood was like in the late 2000s and early 2010s
+I'd like to give an account for what *my* childhood was like in the late 2000s and early 2010s. Dislocation from what people remember and what history rremembers
 
 Memories deteriorate and I assume this will undergo many revisions until I'm satisfied I've given an exact and honest account...
 
