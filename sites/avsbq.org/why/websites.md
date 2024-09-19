@@ -1,12 +1,14 @@
-# Why I do websites
+# Why I started websites
 
-*Last update: 2024/07/22*
+*Last update: 2024/09/19*
 
-Imagine you have an interest you speak glowingly about - maybe you have many interests. Golden nuggets bathing in your cerebrospinal fluid... Real gold doesn't tarnish of course, but memories do deteriorate... Eventually, you'll lose interest in said topic, with your profound expertise flushed down the drain.
+<hr>
+
+Humans have many interests that we can speak glowingly about - maybe you have more than one interest. Golden nuggets swimming in your cerebrospinal fluid... Actual gold wont tarnish of course, but our memories do deteriorate... Eventually, you'll lose interest in said topic or die unexpectedly and thus your profound expertise is flushed down the drain.
 
 # What if no-one visits avsbq.org?
 
-Visitors always welcome - plenty of refreshments! - but the age of great web exploration is long over - these sites are for my future children.
+Visitors are always welcome - plenty of refreshments - but the age of great web exploration is long over - these pages are to serve as a static record. Paper burns, tears, crumples, gets lost. 
 
 # Why not use...
 

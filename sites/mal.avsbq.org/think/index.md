@@ -162,7 +162,9 @@ They sowed the wind and reaped the whirlwind
 
 Closest you'll ever be to being a Roman is working at Little Ceasars
 
-from scam calls t o missed calls
+My cat may be communist he keeps saying Mao Mao!
+
+From scam calls to missed calls
 
 If you don't use it you'll lose it
 
