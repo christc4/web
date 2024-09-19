@@ -374,3 +374,5 @@ Those who do not know must be taught, not punished. We do not hit the blind. We 
 When a person takes one step to God, then God makes a thousand steps towards him - St. Paisios the Athonite
 
 Conquer men by your gentle kindness, and make zealous men wonder at your goodness. Put the lover of justice to shame by your compassion. With the afflicted be affllicted in mind. Love all men, but keep distant from all men - St. Issac the Syrian
+
+The Pharisee did not go to the Temple with a healthy soul to boast of his health, but as a man seriously ill with unrighteousness who, in the delirium of his sickness, no longer knows he is ill - St. Nikolai Velimirovich

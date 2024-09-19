@@ -344,3 +344,5 @@ When enough circumstantial evidence piless up I cat call it coincidental anymore
 Did Vladimir Sviatoslavich choose Christianity over Islam due to drinking
 
 Russel Gmirkin and Ammon Hilllman
+
+Read thomas sowell the black redneck and white liberal
