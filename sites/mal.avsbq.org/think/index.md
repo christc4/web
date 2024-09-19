@@ -175,3 +175,5 @@ Look at how inclusive and diverse the racist community is
 Hey! It's a retro-styled game! Oh, cool but you forgot to make retro-styled optimizations
 
 Almost everything you can do in Minecraft is illegal in real life
+
+Straight roads dont make skillful drivers
