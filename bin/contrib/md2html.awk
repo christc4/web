@@ -220,7 +220,7 @@ nnl < nl && !blank && text && ! /^ ? ? ?([*+-]|([0-9]+\.)+)( +|	)/ { nnl = nl; }
 { hr = 0; }
 (blank || (!text && !code)) && /^ ? ? ?([-*_][ 	]*)([-*_][ 	]*)([-*_][ 	]*)+$/ {
     if(code){
-	oprint("</pre></code>");
+	oprint("</pre>");
 	code = 0;
     }
     blank = 0;
@@ -264,7 +264,7 @@ blank && ! /^$/ {
 # Close old blocks and open new ones
 nnl != nl || nblock[nl] != block[nl] {
     if(code){
-	oprint("</pre></code>");
+	oprint("</pre>");
 	code = 0;
     }
     printp(par);
@@ -302,14 +302,14 @@ code && /^$/ {
 	oprint("");
     blank = 0;
     if(!code)
-	oprint("<code><pre>");
+	oprint("<pre>");
     code = 1;
     $0 = eschtml($0);
     oprint($0);
     next;
 }
 code {
-    oprint("</pre></code>");
+    oprint("</pre>");
     code = 0;
 }
 # Setex-style Headers
@@ -331,7 +331,7 @@ text && /^-+$/ {printp("h2"); next;}
 { text = (text ? text " " : "") $0; }
 END {
     if (code) {
-        oprint("</pre></code>");
+        oprint("</pre>");
         code = 0;
     }
     printp(par);
