@@ -187,3 +187,5 @@ If you think good design is expensive, you should look at the cost of bad design
 By virtue of doing good you are undercutting someone who is doing bad
 
 Imagine Henry Ford stopped making cars because the Horse and Buggy industry sent him a bunch of sob stories
+
+The wheels of justice turn exceedingly slowly
