@@ -217,10 +217,7 @@ Survivalism, Lifestyle, History, Anthropology, Paganism
 
 Ergonomics, Emacs, Programming, 
 
-"Dark theme is no good. You don't live in the darkness and see glowies"
-"Debloat yourself before you call my init.el bloated"
-"Google Chrome, which of course, looks into your pants all the time!"
-"What's your native tongue? Body language!"
+"Dark theme is no good. You don't live in the darkness and see glowies" "Debloat yourself before you call my init.el bloated" "Google Chrome, which of course, looks into your pants all the time!" "What's your native tongue? Body language!" "When you fail to become a mathematician you become a programmer. When you fail to become a programmer you become a comedian. When you fail to become a comedian you become a YouTuber"
 
 - [xahlee.org](http://xahlee.org/index.html)
 - [xahlee.info](http://xahlee.info), keyboard, math, programming, nerd stuff

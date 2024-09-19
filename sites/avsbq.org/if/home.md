@@ -20,7 +20,7 @@ House built a top a small mound, so I have some height advantage
 
 Somewhere far-far-far away.
 
-Preferably in a wooded/forested area and ideally located near springs/river/running water.
+Preferably in a wooded/forested area and ideally located near both running and living waters.
 
 
 <img src=".pix/dark_forest.avif" style="width:150px; height: auto;">
