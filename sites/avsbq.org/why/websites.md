@@ -1,4 +1,4 @@
-# Why I started websites
+# Why do websites
 
 *Last update: 2024/09/19*
 
@@ -10,16 +10,6 @@ Humans have many interests that we can speak glowingly about - maybe you have mo
 
 Visitors are always welcome - plenty of refreshments - but the age of great web exploration is long over - these pages are to serve as a static record. Paper burns, tears, crumples, gets lost. 
 
-# Why not use...
-
-Medium, SubStack, flickr, pinterest, imgur etc?
-
-Because then you are not a WebMaster but a WebSlave
-
-Those sites push skittles and are very likely to ban me!
-
-## Kind words from others
-
-2024/07/21
+## Kind words 
 
 <img src=.pix/kind1.avif>
