@@ -66,46 +66,6 @@ function nextil(t) {
 	}
 	return t1 "&amp;" nextil(t2);
     }
-    # Images
-    if(tag == "!["){
-	if(!match(t2, /(\[.*\])|(\(.*\))/))
-	    return t1 tag nextil(t2);
-	match(t2, /^[^\]]*/);
-	alt = substr(t2, 1, RLENGTH);
-	t2 = substr(t2, RLENGTH + 2);
-	if(match(t2, /^\(/)){
-	    # Inline
-	    sub(/^\(/, "", t2);
-	    match(t2, /^[^\)]+/);
-	    url = eschtml(substr(t2, 1, RLENGTH));
-	    t2 = substr(t2, RLENGTH + 2);
-	    title = "";
-	    if(match(url, /[ 	]+\".*\"[ 	]*$/)) {
-		title = substr(url, RSTART, RLENGTH);
-		url = substr(url, 1, RSTART - 1);
-		match(title, /\".*\"/);
-		title = " title=\"" substr(title, RSTART + 1, RLENGTH - 2) "\"";
-	    }
-	    if(match(url, /^<.*>$/))
-		url = substr(url, 2, RLENGTH - 2);
-	    return t1 "<img src=\"" url "\" alt=\"" alt "\"" title " />" nextil(t2);
-	}
-	else{
-	    # Referenced
-	    sub(/^ ?\[/, "", t2);
-	    id = alt;
-	    if(match(t2, /^[^\]]+/))
-		id = substr(t2, 1, RLENGTH);
-	    t2 = substr(t2, RLENGTH + 2);
-	    if(ref[id])
-		r = ref[id];
-	    else{
-		r = "<<" id;
-		nr++;
-	    }
-	    return t1 "<img src=\"" r "\" alt=\"" alt "\" />" nextil(t2);
-	}
-    }
     # Links
     if(tag == "["){
 	if(!match(t2, /(\[.*\])|(\(.*\))/))
