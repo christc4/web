@@ -1,5 +1,5 @@
 fn nav_tree {
-	echo -n '<!doctype html><style>body, nav ul {display: flex;} body {flex-wrap: wrap; margin: 0 10%;} header {flex-basis: 100%; flex-shrink: 0;} article {flex-basis: 60%;} header nav {display: flex;} body > nav {min-width: 16em;} nav ul {flex-direction: column; list-style-type: none;} nav li > ul {padding-left: 0.5em; border-bottom: 1px dashed;} nav li li > ul {padding-left: 0.5em;} h1, h2, h3, h4 {text-align: center; font-weight: 400;} img {width: 150px;}</style><body><header><nav><a href=http://avsbq.org>home</a>-<a href=http://archive.avsbq.org>archive</a>-<a href=http://icons.avsbq.org>icons</a>-<a href=http://mal.avsbq.org>mal</a>-<a href=http://language.avsbq.org>lang.</a>-<a href=http://links.avsbq.org>links</a>-<a href=http://to-do.avsbq.org>to-do</a>-<a href=http://handbook.avsbq.org>handbook</a>=<input id="sB"><div id="sR"></div><script src=/s.js></script></nav></header><nav><ul>'
+	echo -n '<!doctype html><style>body, nav ul {display: flex;} body {flex-wrap: wrap; margin: 0 10%;} header {flex-basis: 100%; flex-shrink: 0;} article {flex-basis: 60%;} header nav {display: flex;} body > nav {min-width: 16em;} nav ul {flex-direction: column; list-style-type: none;} nav li > ul {padding-left: 0.5em; border-bottom: 1px dashed;} nav li li > ul {padding-left: 0.5em;} h1, h2, h3, h4 {text-align: center; font-weight: 400;} img {width: 150px;}</style><body><header><nav><a href=//avsbq.org>home</a>-<a href=//archive.avsbq.org>archive</a>-<a href=//icons.avsbq.org>icons</a>-<a href=//mal.avsbq.org>mal</a>-<a href=//language.avsbq.org>lang.</a>-<a href=//links.avsbq.org>links</a>-<a href=//to-do.avsbq.org>to-do</a>-<a href=//handbook.avsbq.org>handbook</a>=<input id="sB"><div id="sR"></div><script src=/s.js></script></nav></header><nav><ul>'
     ls -F $sitedir/./$req_paths_list >[2]/dev/null \
         | {
             sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
@@ -30,7 +30,7 @@ fn nav_tree {
         else
             printf "<li><a href=\"" path "\">"bname"</a></li>"
     }
-    END { p(lNF, 2, "</ul></li>"); printf "-<li><a href=/sitemap>sitemap</a></li><li><a href=http://avsbq.org/.reach>reach</a></li><li><a href=http://avsbq.org/.give>give</a></ul></nav>" }'
+    END { p(lNF, 2, "</ul></li>"); printf "-<li><a href=/sitemap>sitemap</a></li><li><a href=//avsbq.org/.reach>reach</a></li><li><a href=//avsbq.org/.give>give</a></ul></nav>" }'
 }
 
 fn link_bar {
