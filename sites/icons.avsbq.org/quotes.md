@@ -372,3 +372,5 @@ St.Moses was asked, 'What should a man do in all the temptations and evil though
 Those who do not know must be taught, not punished. We do not hit the blind. We lead them by the hand - St. Dionysius the Areopagite
 
 When a person takes one step to God, then God makes a thousand steps towards him - St. Paisios the Athonite
+
+Conquer men by your gentle kindness, and make zealous men wonder at your goodness. Put the lover of justice to shame by your compassion. With the afflicted be affllicted in mind. Love all men, but keep distant from all men - St. Issac the Syrian

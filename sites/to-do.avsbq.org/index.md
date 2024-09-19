@@ -332,3 +332,11 @@ https://youtu.be/GmhcyhWk3HA?si=QOMqKzx5i79Gd_M2
 use pub css to make css handbook
 
 give reboot error guide fsck -y / t says tes to all prompts then reboot add screenshot
+
+de Oliveiras revolution and Counter revolution, 
+
+research rabbi yohanan ben zakkai destruction herods temple 
+
+we are used as kindling
+
+When enough circumstantial evidence piless up I cat call it coincidental anymore

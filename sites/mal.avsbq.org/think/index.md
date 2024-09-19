@@ -189,3 +189,7 @@ By virtue of doing good you are undercutting someone who is doing bad
 Imagine Henry Ford stopped making cars because the Horse and Buggy industry sent him a bunch of sob stories
 
 The wheels of justice turn exceedingly slowly
+
+It's easier to fool the masses than to convince them they're being fooled
+
+
