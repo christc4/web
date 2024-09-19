@@ -56,3 +56,5 @@ https://www.youtube.com/watch?v=BCayOX-ZMMA
 https://lwn.net/Gallery/credits.htmlhttps://www.fredart.com/projects/QravW4
 thttps://en.wikipedia.org/wiki/David_Starkey
 tiny hat brigade d
+
+people are shoehorning their presence into other peoples historyy

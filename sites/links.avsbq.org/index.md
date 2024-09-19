@@ -293,3 +293,6 @@ http://plan9.stanleylieber.com/
 
 
 (https://idlewords.com)
+
+- https://search.marginalia.nu/
+	- search engine focused on non-commercial content

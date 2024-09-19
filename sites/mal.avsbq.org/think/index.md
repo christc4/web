@@ -169,3 +169,9 @@ From scam calls to missed calls
 If you don't use it you'll lose it
 
 Son of a biscuit
+
+Look at how inclusive and diverse the racist community is 
+
+Hey! It's a retro-styled game! Oh, cool but you forgot to make retro-styled optimizations
+
+Almost everything you can do in Minecraft is illegal in real life
