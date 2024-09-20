@@ -4,7 +4,7 @@
 
 <hr>
 
-Humans have many interests that we can speak glowingly about - maybe you have more than one interest. Golden nuggets swimming in your cerebrospinal fluid... Actual gold wont tarnish of course, but our memories do deteriorate... Eventually, you'll lose interest in said topic or die unexpectedly and thus your profound expertise is flushed down the drain.
+Humans have many interests that we can speak glowingly about - maybe you have more than one interest. Golden nuggets floating in your mind... Actual gold wont tarnish of course, but our memories do deteriorate... Eventually, you'll lose interest in said topic or die unexpectedly and thus your profound expertise is flushed down the drain.
 
 # What if no-one visits avsbq.org?
 
