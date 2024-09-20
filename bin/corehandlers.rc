@@ -32,19 +32,6 @@ BEGIN { lNF=2; }
 }
 END { p(lNF, 2, "</ul></li>"); printf "</ul></nav>" }' }
 
-fn link_bar {
-    if(~ $1 -t) {
-        echo -n '<p class="sideBarTitle">'$2'</p>'
-        shift; shift
-    }
-    echo -n '<ul>'
-    while(! ~ $#* 0) {
-        echo -n '<li><a href="'$2'">- '$1'</a></li>'
-        shift; shift
-    }
-    echo -n '</ul>'
-}
-
 fn md_handler { $formatter $1 }
 
 fn tpl_handler { template $* }
