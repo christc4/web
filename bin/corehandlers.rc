@@ -26,7 +26,7 @@ BEGIN { lNF=2; }
     gsub(/[^\/]$/, "&/", pa)
 
     if(index(ENVIRON["req_path"] "/", pa) == 1)
-        printf "<li><a href=" path " class=thisPage>&raquo; "bname"</a>"
+        printf "<li><a href=" path ">>"bname"</a>"
     else
         printf "<li><a href=" path ">"bname"</a>"
 }

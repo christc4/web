@@ -338,5 +338,5 @@ END {
         oprint("</" block[nl] ">");
     }
     gsub(/\n/, "", otext); 
-print(otext);
+printf(otext);
 }
