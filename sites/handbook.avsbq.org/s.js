@@ -16,7 +16,7 @@ function displayResults(results) {
     sR.innerHTML = '';
 
     // Slice the results to show a maximum of 5 items
-    results.slice(0, 3).forEach(result => {
+    results.slice(0, 50).forEach(result => {
         const resultItem = document.createElement('div');
         resultItem.className = 'resultItem';
         resultItem.innerHTML = `<a href="/${result}">${result}</a>`;
