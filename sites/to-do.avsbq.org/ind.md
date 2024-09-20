@@ -348,3 +348,4 @@ put in lang en, misc, burlap sack with dllar sign painted on, hash things out
 
 Did the president of kenya offer free visas to black people
 -->
+blog about the prroblematic grid method
