@@ -312,9 +312,6 @@ code {
     oprint("</pre>");
     code = 0;
 }
-# Setex-style Headers
-text && /^=+$/ {printp("h1"); next;}
-text && /^-+$/ {printp("h2"); next;} 
 # Atx-Style headers
 /^#+/ && (!newli || par=="p" || /^##/) {
     for(n = 0; n < 6 && sub(/^# */, ""); n++)
@@ -341,6 +338,5 @@ END {
         oprint("</" block[nl] ">");
     }
     gsub(/\n/, "", otext); 
-oprint("</article></body>"); 
 print(otext);
 }

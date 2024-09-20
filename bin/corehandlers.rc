@@ -1,5 +1,5 @@
 fn nav_tree {
-	echo -n '<!doctype html><style>body {display: flex;} body {flex-wrap: wrap; margin: 0 10%;} article {flex-basis: 60%;} body > nav {min-width: 16em;} nav ul {flex-direction: column; list-style-type: none;} nav li > ul {padding-left: 0.5em; border-bottom: 1px dashed;} nav li li > ul {padding-left: 0.5em;} h1, h2, h3, h4 {text-align: center; font-weight: 400;} img {width: 150px;}</style><body><nav><ul>'
+	echo -n '<!doctype html><style>body {display: flex; flex-wrap: wrap; margin: 0 10%;} article {flex-basis: 60%;} body > nav {min-width: 16em;} ul {flex-direction: column; list-style-type: none;} nav li > ul {padding-left: 0.5em; border-bottom: 1px dashed;} nav li li > ul {padding-left: 0.5em;} h1, h2, h3, h4 {text-align: center; font-weight: 400;} img {width: 150px;}</style><body><nav><ul>'
 ls -F $sitedir/./$req_paths_list >[2]/dev/null \
     | {
         sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
@@ -26,9 +26,9 @@ BEGIN { lNF=2; }
     gsub(/[^\/]$/, "&/", pa)
 
     if(index(ENVIRON["req_path"] "/", pa) == 1)
-        printf "<li><a href=" path " class=thisPage>&raquo; "bname"</a></li>"
+        printf "<li><a href=" path " class=thisPage>&raquo; "bname"</a>"
     else
-        printf "<li><a href=" path ">"bname"</a></li>"
+        printf "<li><a href=" path ">"bname"</a>"
 }
 END { p(lNF, 2, "</ul></li>"); printf "</ul></nav>" }' }
 
