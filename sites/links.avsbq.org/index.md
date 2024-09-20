@@ -75,33 +75,11 @@ Nutrition, Nature
 
 - [YouTube](https://www.youtube.com/@GoatisReviews)
 
-### Jay Dyer
-
-<hr>
-
-<img src=.pix/jay.avif>
-
-"Your neurolinguistic programming isn't going to work on me" PhD from CIA (Culinary Institute of America) ;)
-
-- [Personal site](https://jaysanalysis.com)
-
 ### Eoin Reardon
 
 A hardworking Irishman.
 
 - [YouTube](https://www.youtube.com/@EoinReardon/videos)
-
-### Mental Outlaw
-
-<hr>
-
-<img src=.pix/mental_outlaw1.avif>
-
-Linux, Privacy, Homesteading
-
-"Mental Outlaw is the only black guy that can sound like a white guy impersonating a black guy"
-
-- [Odysee](https://odysee.com/@AlphaNerd:8)
 
 ### Br. Nathanael
 

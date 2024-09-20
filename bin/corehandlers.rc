@@ -14,7 +14,7 @@ BEGIN { lNF=2; }
     sub("/$", "") # Strip trailing / for dirs so NF is consistent
 
     p(NF, lNF, "<li><ul>")
-    p(lNF, NF, "</ul></li>")
+    p(lNF, NF, "</ul>")
     lNF = NF
 
     bname = $NF d
@@ -30,7 +30,7 @@ BEGIN { lNF=2; }
     else
         printf "<li><a href=" path ">"bname"</a>"
 }
-END { p(lNF, 2, "</ul></li>"); printf "</ul></nav>" }' }
+END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }' }
 
 fn md_handler { $formatter $1 }
 

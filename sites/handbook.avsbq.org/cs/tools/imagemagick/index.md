@@ -1,26 +1,28 @@
 # Imagemagick
 
-<img src=".pix/imagemagick_wizard.avif" style="width:410px; height: auto;">
+<img src=".pix/imagemagick_wizard.avif" style="width:100px;">
 
 ## Remove Whitespace
 
-convert -trim
+	convert -trim
 
 # Flip images
 
 To flip vertically
 
-`convert input.jpg -flip output.jpg`
+	convert input.jpg -flip output.jpg
 
 To flip horizontally
 
-`convert input.jpg -flop output.jpg`
+	convert input.jpg -flop output.jpg
 
 # Dithering
 
-`convert gnu_tux.webp -resize 384 -dither FloydSteinberg -remap pattern:gray50 gnu_tux.webp`
+	convert tux.webp -resize 384 -dither FloydSteinberg -remap pattern:gray50 tux.webp
 
-`convert invader.webp -colorspace gray -ordered-dither o8x8 invader2.webp`
+Ordered
+
+	convert invader.webp -colorspace gray -ordered-dither o8x8 invader2.webp
 
 # Rotate
 
