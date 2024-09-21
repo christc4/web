@@ -154,7 +154,7 @@ BEGIN {
     html = 0;
     nl = 0;
     nr = 0;
-    otext = "<article><a href=//avsbq.org>home</a> <a href=//archive.avsbq.org>archive</a> <a href=//icons.avsbq.org>icons</a> <a href=//mal.avsbq.org>mal</a> <a href=//language.avsbq.org>lang</a> <a href=//handbook.avsbq.org>handbook</a> | <a href=/sitemap>sitemap</a> <a href=/.search>search</a> | <a href=//avsbq.org/.reach>reach</a> <a href=//avsbq.org/.give>give</a>";
+    otext = "<article><a href=/>home</a> <a href=/sitemap>sitemap</a> <a href=/.search>search</a> | <a href=/.reach>reach</a> <a href=/.give>give</a>";
     text = "";
     par = "p";
 }
