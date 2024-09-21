@@ -6,8 +6,9 @@ I never understood how scum this company was, more examples to come
 
 <hr>
 
-![image](.pix/student_beans1.avif)
-![image](.pix/student_beans2.avif)
+<img src=".pix/student_beans1.avif" style="width:350px; height: auto;">
+<img src=".pix/student_beans2.avif" style="width:350px; height: auto;">
+
 
 Some time in early 2023, Got this email, from Student Beans a company that has codes for student discounts.
 

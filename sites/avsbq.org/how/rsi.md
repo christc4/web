@@ -1,8 +1,10 @@
 # How to avoid RSI 
 
-*Last update: 2024/09/02*
+*Last update: 2024/09/21*
 
 _"Scrimping on pennies will cost you pounds in the long run"_
+
+<hr>
 
 ## The feeling itself
 
@@ -28,3 +30,9 @@ Total abstinence from the mouse won't solve or prevent RSI,
 If you are for reasons unkown to use a laptop.. don't twist your wrist at the touchpad, move your entire forearm to control the cursor or gesture
 
 <img src=.pix/rsi1.avif>
+
+### What is the real solution?
+
+Stop typing. RSI is just your bodies natural response to you spending too much time on a keyboard.
+
+We all have a price to pay for doing what we love
