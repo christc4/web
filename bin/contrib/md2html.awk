@@ -154,7 +154,7 @@ BEGIN {
     html = 0;
     nl = 0;
     nr = 0;
-    otext = "<article><a href=/>home</a> <a href=/sitemap>sitemap</a> <a href=/.search>search</a> | <a href=/.reach>reach</a> <a href=/.give>give</a>";
+    otext = "<article><a href=/sitemap>sitemap</a> <a href=/.search>search</a> | <a href=/.reach>reach</a> <a href=/.give>give</a>";
     text = "";
     par = "p";
 }
