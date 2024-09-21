@@ -1,8 +1,10 @@
 # How I do websites
 
-*Last update: 2024/09/09*
+*Last update: 2024/09/21*
 
 I use a heavily modified and stripped-down version of [werc](https://werc.cat-v.org), _a minimalist web anti-framework_. In fact it's so modified I'm surprised it even _works_
+
+<hr>
 
 I never did manage to set werc up manually with nginx or httpd, until I discovered this amazing script which automates the process on OpenBSD, which conveniently is the server OS I run. The script, [werc-on-openbsd](https://github.com/EdoardoLaGreca/werc-on-openbsd).
 
@@ -11,10 +13,6 @@ I write everything in markdown, with occasional pinches of html.
 ## Currently
 
 My domain registar is epik and my VPS is vultr.
-
-## Backups
-
-As of right now, I run a [script](https://hbk.avsbq.org/cs
 
 ## Previously
 
