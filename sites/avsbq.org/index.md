@@ -1,16 +1,24 @@
 <style>body { background: url(.pix/audrey.avif) no-repeat top left; }</style>
 
-# Journal 
+# journal 
+
+2024/09/22/12am: draw girl with magnifying glass
+
+after failing three times to draw her again i pick up my pencil and pad
+
+if i am sucessful and pleased you will see it [here](/icons/misc/personal/my_works)
+
+<hr>
 
 2024/09/22: cbox
 
-I want to write a leaner 'feature-less' version of cbox
+i want to write a leaner 'feature-less' version of cbox
 
 - no utf-8
 - no user profiles
 - no message filtering
 
-Obvious features
+obvious features
 
 - local history
 
@@ -26,9 +34,9 @@ Obvious features
 			- utf-8, ndash (vim?), whitespace before tags
 			- ndash 7 bytes, dash 1 byte
 	
-- what have I done to minimise?
+- what have i done to minimise?
 	- 'minified' html
-		- most static/dynamic sites minify *after*, I do not
+		- most static/dynamic sites minify *after*, i do not
 			- 'echo -n', 'awk, printf'
 	- href
 		- '//' instead of 'http://'	
@@ -43,16 +51,16 @@ Obvious features
 	- https
 		- [danluu](https://danluu.com/web-bloat/)
 		- [xahlee](http://xahlee.info/w/why_no_https.html)
-		- HTTP2 enforces encryption on all connections
+		- http2 enforces encryption on all connections
 		- out of date certs, browser warnings
 	- domain registrar
-		- TLD sneering
+		- tld sneering
 		- nike vs namebrand
 		- yellow pages
-			- yes... static IPS etc. 
+			- yes... static ips etc. 
 
 - peeved at _redacted's_ idiot question
-	- jog his memory, "Why do you have 1000 pages"
+	- jog his memory, "why do you have 1000 pages"
 		- set of a chain-reaction
 		- [answer](/blog/why/websites)
 		- [2nd answer](/blog/offloading_parenting)
@@ -67,7 +75,7 @@ Obvious features
 - things _redacted_ already knows
 	- [metadata](http://95.179.238.202/archive/misc/cache/impact_of_metadata_on_image_performance/index)
 
-- am I in a position to lecture
+- am i in a position to lecture
 	- looking at my private talk show notes
 
 <hr>
