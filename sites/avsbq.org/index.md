@@ -29,6 +29,7 @@
 - power ploy, coercion
 	- https
 		- [danluu](https://danluu.com/web-bloat/)
+		- [xahlee](http://xahlee.info/w/why_no_https.html)
 		- HTTP2 enforces encryption on all connections
 		- out of date certs, browser warnings
 	- domain registrar
