@@ -1,6 +1,6 @@
 <style>body { background: url(.pix/audrey.avif) no-repeat top left; }</style>
 
-# journal 
+# christ amlai <a href=//youtube.com/@avsbq><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 47328 33689"> <rect fill="#000" x="250" y="250" width="46828" height="33189" rx="6444" ry="6444"/> <polygon fill="#fff" points="18549,7972 18549,25476 32726,17291"/></svg></a>
 
 2024/09/22/12am: draw girl with magnifying glass
 

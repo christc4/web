@@ -1,6 +1,7 @@
 # Chrome keyboard shortcuts
 
-> [source](https://support.google.com/chrome/answer/157179?hl=en-GB&co=GENIE.Platform%3DDesktop#zippy=%2Ctab-and-window-shortcuts%2Cgoogle-chrome-feature-shortcuts)
+> [source](https://support.google.com/chrome/answer/157179)
+
 > Accessed: 2024/06/10
 
 - new window
