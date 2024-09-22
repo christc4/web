@@ -42,7 +42,7 @@ obvious features
 		- '//' instead of 'http://'	
 	- no ""
 
-- is minification a fruitless endeavour?
+  is minification a fruitless endeavour?
 	- will images offset any potential gains?
 		- compare the favicon of [mo](https://mohdsaed.com) and [luke](https://lukesmith.xyz)
 	- [asymptote](handbook/cs/coding/wolfram/asymptote)
@@ -81,3 +81,4 @@ obvious features
 <hr>
 
 penitential prayer
+
