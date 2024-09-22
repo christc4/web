@@ -41,7 +41,7 @@ The elevator business has its ups and downs
 
 Have you ever heard a crackhead say they don&apos;t have enough money for crack? no. they still go out and get it. do the same with your dreams!
 
-90% of gambling addicts quit right before they're about to hit it big
+90 percent of gambling addicts quit right before they're about to hit it big
 
 Yeah he got a disability, dis ability to cook
 
@@ -80,7 +80,7 @@ You'd literally have to pay me to get a job
 Don't worry about the world coming to an end today. It's already
 tomorrow in Australia
 
-Buy 95% rubbing alcohol, filter the rubbing out, toast!
+Buy 95 percent rubbing alcohol, filter the rubbing out, toast!
 
 The trouble with having an open mind is that people will insist on coming along and trying to put things in it
 

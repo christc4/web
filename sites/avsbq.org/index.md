@@ -1,23 +1,47 @@
 <style>body { background: url(.pix/audrey.avif) no-repeat top left; }</style>
 
-# Christ Amlai
+# Journal 
 
-## <ruby>to the few stargazers out there - welcome<rp>(</rp><rt>don't forget to wipe your feet</rt><rp>)</rp> </ruby>
+2024/09/24: _redacted_ is meeting me at my home to discuss: websites, computing, life amongst other things
 
-<hr>
 
-My much beloved talk show, [_From the Iron Sights_](//talk.avsbq.org), zooms in on my interests, aims to spark conversation and kindle the embers of flamewars... 
+- looking at other people's sites
+	- [lukesmith](https://lukesmith.xyz/)
+		- html entities
+			- apostrophe?
+			- utf-8, ndash (vim?), whitespace before tags
+			- ndash 7 bytes, dash 1 byte
+	
+- what have I done to minimise?
+	- 'minified' html
+		- most static/dynamic sites minify *after*, I do not
+			- 'echo -n', 'awk, printf'
+	- href
+		- '//' instead of 'http://'	
+	- no ""
 
-<img src=.pix/ftis.avif style="width: 80px;"> 
+- is minification a fruitless endeavour?
+	- will images offset any potential gains?
+		- compare the favicon of [mo](https://mohdsaed.com) and [luke](https://lukesmith.xyz)
 
-<hr>
+- power ploy, coercion
+	- https
+		- [danluu](https://danluu.com/web-bloat/)
+		- HTTP2 enforces encryption on all connections
+		- out of date certs, browser warnings
+	- domain registrar
+		- TLD sneering
+		- nike vs namebrand
+		- yellow pages
+			- yes... static IPS etc. 
 
-<img src=.pix/a.svg style="width: 80px;"> [Reach me](.reach), [Give](.give) 
+- peeved at _redacted's_ idiot question
+	- jog his memory, "Why do you have 1000 pages"
+		- set of a chain-reaction
+		- [answer](/blog/why/websites)
 
-<hr>
-
-<hr>
-
-My [GitHub](https://github.com/christc4) has the odd coding project or two
-
-<img src=.pix/octo1.avif style="width: 80px;"> 
+- werc
+	- caching
+		- /tmp/fltr_cache and sitemap.txt
+- things _redacted_ already knows
+	- [metadata](http://95.179.238.202/archive/misc/cache/impact_of_metadata_on_image_performance/index)

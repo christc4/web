@@ -13,9 +13,9 @@ They used the HTTP Archive craws from '2016/08/01' which contained 4.3 million J
 
 They then downloaded and analysed metadata from this dataset.
 
-38.9% of images had some sort of metadata.
+38.9 percent of images had some sort of metadata.
 
-On average 15.8% of total image size was occupied by metadata. 
+On average 15.8 percent of total image size was occupied by metadata. 
 
 If each of these top sites were just visited once, nearly 13 Gb of data could  have been saved.
 
@@ -40,18 +40,18 @@ Most common formats are,
 
 ## Do people really store such stuff in images?
 
-1,674,831 images, 39.9% of the images analysed stored some sort of metadata.
+1,674,831 images, 39.9 percent of the images analysed stored some sort of metadata.
 
-![image](average-jpeg-file.webp)
+<img src=average-jpeg-file.webp>
 
 Here is a distribution showing the different formats used to store the metadata and how much size they occupy on an average
 
-![image](formats-used-to-store-metadata.webp)
+<img src=formats-used-to-store-metadata.webp>
 
 ## The Usual Suspects
 
 These were the fifty most common attributes stored as EXIF data
-![image](50-most-common-exif-attributes.webp)
+<img src=50-most-common-exif-attributes.webp>
 
 As you can see most of this information is not required by the browser to render the image. So you might be asking "why is sending metadata with images still a thing"
 
@@ -69,13 +69,13 @@ One of the primary use cases that we have seen stored as IPTC is the name of the
 
 ### Orientation 
 
-EXIF data can also contain orientation information of the picture and browsers take cues from this to orient the image correctly. We have seen 9.1% of images store orientation information along as part of the EXIF data. This attribute comes into play only when you visit the image directly - say, by visiting the image directly via its URL. When you are embedding the image directly in the webpage, say via an image tag, this attribute has no effect at all (except in mobile Safari). IE <= 11 doesn’t recognize this attribute in both cases.
+EXIF data can also contain orientation information of the picture and browsers take cues from this to orient the image correctly. We have seen 9.1 percent of images store orientation information along as part of the EXIF data. This attribute comes into play only when you visit the image directly - say, by visiting the image directly via its URL. When you are embedding the image directly in the webpage, say via an image tag, this attribute has no effect at all (except in mobile Safari). IE <= 11 doesn’t recognize this attribute in both cases.
 
 Stripping out this attribute seems to be a good idea to be consistent. That way users see the image oriented the same way regardless of whether they visit the image directly or see it as part of a webpage.
 
 ### Color Profiles
 
-This seems to be the strongest use case for storing metadata in JPEGs. 10% of the images we analysed had an embedded colour profile and the profiles were as large as 7KB on an average. Images can store these colour profiles as ICC metadata. They help images look consistent depending on the capabilities of the device used when viewing them.
+This seems to be the strongest use case for storing metadata in JPEGs. 10 percent of the images we analysed had an embedded colour profile and the profiles were as large as 7KB on an average. Images can store these colour profiles as ICC metadata. They help images look consistent depending on the capabilities of the device used when viewing them.
 
 However browser support for these ICC profiles has been very flaky and there aren’t many screens which can take advantage of these embedded profiles.
 
