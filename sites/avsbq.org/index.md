@@ -2,6 +2,18 @@
 
 # Journal 
 
+2024/09/22: cbox
+
+I want to write a leaner 'feature-less' version of cbox
+
+- no utf-8
+- no user profiles
+- no message filtering
+
+Obvious features
+
+- local history
+
 <hr>
 
 2024/09/24: _redacted_ is meeting me at my home to discuss: websites, computing, life amongst other things

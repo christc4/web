@@ -59,15 +59,6 @@ function nextil(t) {
 	}
 	return t1 "&lt;" nextil(t2);
     }
-    # Html special entities
-    if(tag == "&"){
-	if(match(t2, /^#?[A-Za-z0-9]+;/)){
-	    tag = tag substr(t2, RSTART, RLENGTH);
-	    t2 = substr(t2, RLENGTH + 1);
-	    return t1 tag nextil(t2);
-	}
-	return t1 "&amp;" nextil(t2);
-    }
     # Links
     if(tag == "["){
 	if(!match(t2, /(\[.*\])|(\(.*\))/))
