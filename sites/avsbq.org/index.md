@@ -29,6 +29,10 @@ obvious features
 2024/09/24: _redacted_ is meeting me at my home to discuss: websites, computing, life amongst other things
 
 
+- elephant in the room
+	- is my site the ugliest?
+		- [site history](archive/misc/personal/computing/site_history)
+
 - looking at other people's sites
 	- [lukesmith](https://lukesmith.xyz/)
 		- html entities
@@ -43,6 +47,8 @@ obvious features
 	- href
 		- '//' instead of 'http://'	
 	- no ""
+	- forgoing 'pre' and 'code'
+		- object?
 
   is minification a fruitless endeavour?
 	- will images offset any potential gains?
@@ -60,6 +66,8 @@ obvious features
 		- nike vs namebrand
 		- yellow pages
 			- yes... static ips etc. 
+	- Cross-Origin Resource Sharing (CORS)
+		- fetch(), for .json in main domain
 
 - peeved at _redacted's_ idiot question
 	- jog his memory, "why do you have 1000 pages"

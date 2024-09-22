@@ -1,14 +1,16 @@
 # Internet landmines 
 
-*Last update: 2024/08/27* 
+*Last update: 2024/09/22* 
 
-This was originally centred on how children setting foot in the web them step unknowingly on landmines and how to mitigate this ever-present threat but as thoughts go in and out my head, this article has grown
+I originally wrote this with the premise that todays children setting foot in the web are unknowingly walking across landmines - with the meat of this post being how to protect them from harms way.
+
+And thoughts being thoughts... all come knocking on  my door just as I'm about to wrap things up, so all-in-one blog post, you get to know some good 'parental-controls', a rant and more
+
+<hr>
 
 ## The Modern-Web
 
-The modern-web is overrun with landmines. Evil spreads its wings over every inch of the web and no one seems none the wiser. 
-
-In prehistoric times, when our web was young and evils such as centralization, pornographic images and censorship hadn't seeded itself - you could treat the web like a library waiting for readers to come flocking in - the only invisible hand moving you towards one point on the shelf was your own interest.
+In prehistoric times, evils  forces like centralization, censorship and moral degeneracy hadn't fully seeded itself in the web.  You could've treated the web like a library waiting for readers to come flocking in - the only invisible hand moving you towards different on theshelf was your own interest.
 
 Having touched upon Adam Smith's 'invisible hand', let me propose some alternatives to giving your children free-rein where the algorithm could steer them...
 
@@ -16,24 +18,24 @@ This is a shell script [The Ultimate Way of Browsing Channels](https://github.co
 
 > _"No browsers, accounts, distractions, crappy algorithm and recommendations, advertisements, sponsors, intros, outros, fillers or empty spaces. We eliminate them all"_
 
-<video align="center" width="420" height="340" controls>
+<video align="center" width="320" height="340" controls>
 <source src=".vid/dmenu.webm" type="video/webm">
 </video>
 
 You won't have to cross your fingers your kids don't encounter this!
 
-<img src=".pix/50s_twerk.gif" style="width:550px; height: auto;">
+<img src=".pix/50s_twerk.gif" style="width:350px; height: auto;">
 
 
-<video align="center" width="420" height="340" controls>
+<video align="center" width="320" height="340" controls>
 <source src=".vid/ani_cli.webm" type="video/webm">
 </video>
 
-<img src=".pix/ytfzf.gif" style="width:550px; height: auto;">
+<img src=".pix/ytfzf.gif" style="width:350px; height: auto;">
 
 ## Centralised or Decentralised
 
-<img src=".pix/centralized_decentralized.avif" style="width:410px; height: auto;">
+<img src=".pix/centralized_decentralized.avif" style="width:300px; height: auto;">
 
 Common people are more impressed if you design a platform as algorithmically and systematically as can be. They will believe more in it. The more it mimicks the society they live, the more invested they will be in it. If you can replicate the congregration of people in a town square - agglomerate it into smooth scrollable interface, you've created magic. 
 
