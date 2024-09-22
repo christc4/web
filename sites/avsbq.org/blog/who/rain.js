@@ -1,9 +1,4 @@
 "use strict";
-// 2014-08-18
-// 2019-09-30
-// copyright 2014, 2019-09-30 Xah Lee
-// feel free to use, but must give credit, link back to this page
-// from http://xahlee.info/js/js_raining_hearts.html
 {
     const num_of_hearts = 30;
     const driftX = 50;
