@@ -2,6 +2,8 @@
 
 # Journal 
 
+<hr>
+
 2024/09/24: _redacted_ is meeting me at my home to discuss: websites, computing, life amongst other things
 
 
@@ -43,5 +45,13 @@
 - werc
 	- caching
 		- /tmp/fltr_cache and sitemap.txt
+	- suckless, anselm
+	- current problem
+		- percentage sign 
+
 - things _redacted_ already knows
 	- [metadata](http://95.179.238.202/archive/misc/cache/impact_of_metadata_on_image_performance/index)
+
+<hr>
+
+penitential prayer
