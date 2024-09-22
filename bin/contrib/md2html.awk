@@ -340,5 +340,6 @@ END {
         oprint("</" block[nl] ">");
     }
     gsub(/\n/, "", otext); 
+oprint("<a href=../>back</a>");
 printf(otext);
 }

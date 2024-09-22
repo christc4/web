@@ -55,6 +55,9 @@
 - things _redacted_ already knows
 	- [metadata](http://95.179.238.202/archive/misc/cache/impact_of_metadata_on_image_performance/index)
 
+- am I in a position to lecture
+	- looking at my private talk show notes
+
 <hr>
 
 penitential prayer

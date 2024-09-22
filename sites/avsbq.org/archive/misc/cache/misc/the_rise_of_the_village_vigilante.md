@@ -6,7 +6,7 @@
 
 > 12 June 2024, 5:01am
 
-> From [Spectator Life](https://www.spectator.co.uk/article/the-rise-of-the-village-vigilante/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=BLND%20%2020240612%20%20HOUSE%20ADS%20%20IH+CID_8fdd6918eb88a5a8d78bf06cd658bf66)
+> From [Spectator Life](https://www.spectator.co.uk/article/the-rise-of-the-village-vigilante/)
 
 <img src=".pix/land_rover.avif" style="width: 300px; height: auto;">
 
