@@ -25,6 +25,7 @@
 - is minification a fruitless endeavour?
 	- will images offset any potential gains?
 		- compare the favicon of [mo](https://mohdsaed.com) and [luke](https://lukesmith.xyz)
+	- [asymptote](handbook/cs/coding/wolfram/asymptote)
 
 - power ploy, coercion
 	- https
@@ -42,6 +43,7 @@
 	- jog his memory, "Why do you have 1000 pages"
 		- set of a chain-reaction
 		- [answer](/blog/why/websites)
+		- [2nd answer](/blog/offloading_parenting)
 
 - werc
 	- caching
