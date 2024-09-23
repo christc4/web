@@ -1,30 +1,8 @@
 <style>body { background: url(.pix/audrey.avif) no-repeat top left; }</style>
 
-# christ amlai <a href=//youtube.com/@avsbq><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 47328 33689"> <rect fill="#000" x="250" y="250" width="46828" height="33189" rx="6444" ry="6444"/> <polygon fill="#fff" points="18549,7972 18549,25476 32726,17291"/></svg></a>
+journal
 
-<hr>
-
-<!--
-2024/09/22/12am: draw girl with magnifying glass
-
-after failing three times to draw her again i pick up my pencil and pad
-
-if i am sucessful and pleased you will see it [here](/icons/misc/personal/my_works)
-
-<hr>
-
-2024/09/22: cbox
-
-i want to write a leaner 'feature-less' version of cbox
-
-- no utf-8
-- no user profiles
-- no message filtering
-
-obvious features
-
-- local history
--->
+[youtube](//youtube.com/@avsbq)
 
 2024/09/24: _redacted_ is meeting me at my home to discuss: websites, computing, life amongst other things
 
@@ -49,8 +27,12 @@ obvious features
 	- no ""
 	- forgoing 'pre' and 'code'
 		- object?
+	- Combined selectors for nav li li>ul,nav li>ul into nav li ul since both refer to <ul> inside a <li>.
+	- flex basis to flex 1
+	- list style type to...
+	- margin left right, and so on
 
-  is minification a fruitless endeavour?
+- is minification a fruitless endeavour?
 	- will images offset any potential gains?
 		- compare the favicon of [mo](https://mohdsaed.com) and [luke](https://lukesmith.xyz)
 	- [asymptote](handbook/cs/coding/wolfram/asymptote)
@@ -88,7 +70,4 @@ obvious features
 - am i in a position to lecture
 	- looking at my private talk show notes
 
-<hr>
-
 penitential prayer
-

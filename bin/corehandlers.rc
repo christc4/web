@@ -1,5 +1,5 @@
 fn nav_tree {
-	echo -n '<!doctype html><meta charset=utf-8><style>nav li li>ul,nav li>ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 10%}article{flex-basis:60%}nav{min-width:12em}ul{list-style-type:none}nav li>ul{border-bottom:1px dashed}img{width:150px}</style><body><nav><ul>'
+	echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 10%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}</style><body><nav><ul>'
 ls -F $sitedir/./$req_paths_list >[2]/dev/null \
     | {
         sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
@@ -26,7 +26,7 @@ BEGIN { lNF=2; }
     gsub(/[^\/]$/, "&/", pa)
 
     if(index(ENVIRON["req_path"] "/", pa) == 1)
-        printf "<li><a href=" path ">>"bname"</a>"
+        printf "<li><a href=" path ">> "bname"</a>"
     else
         printf "<li><a href=" path ">"bname"</a>"
 }
