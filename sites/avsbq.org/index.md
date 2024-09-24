@@ -7,6 +7,10 @@ journal
 2024/09/24: _redacted_ is meeting me at my home to discuss: websites, computing, life amongst other things
 
 
+- Preamble, cookie cutter approach, condesending patronising way, subway surfers
+google of course wont index these html forgotten tips, its really the oldheads that know this
+ed text editor, vim, emacs can never conceive it, because it was teletype printes but you can still transfer principles
+
 - elephant in the room
 	- is my site the ugliest?
 		- [site history](archive/misc/personal/computing/site_history)
@@ -69,5 +73,7 @@ journal
 
 - am i in a position to lecture
 	- looking at my private talk show notes
+
+- tree html export mode
 
 penitential prayer
