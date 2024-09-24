@@ -1,5 +1,5 @@
 fn nav_tree {
-	echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 10%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}</style><body><nav><ul>'
+	echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 10%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}</style><nav><ul>'
 ls -F $sitedir/./$req_paths_list >[2]/dev/null \
     | {
         sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean

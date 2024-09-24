@@ -11,6 +11,10 @@ journal
 google of course wont index these html forgotten tips, its really the oldheads that know this
 ed text editor, vim, emacs can never conceive it, because it was teletype printes but you can still transfer principles
 
+- why does doctype exist?
+	- different html standards
+	- w3c
+
 - elephant in the room
 	- is my site the ugliest?
 		- [site history](archive/misc/personal/computing/site_history)
@@ -63,7 +67,7 @@ ed text editor, vim, emacs can never conceive it, because it was teletype printe
 
 - werc
 	- caching
-		- /tmp/fltr_cache and sitemap.txt
+		- /tmp/fltrcache and sitemap.txt
 	- suckless, anselm
 	- current problem
 		- percentage sign 
@@ -77,3 +81,9 @@ ed text editor, vim, emacs can never conceive it, because it was teletype printe
 - tree html export mode
 
 penitential prayer
+
+akbar notes
+
+scrollbar, margin space
+
+

@@ -162,6 +162,8 @@ They sowed the wind and reaped the whirlwind
 
 Closest you'll ever be to being a Roman is working at Little Ceasars
 
+Hearing loss, it's a silent epidemiC
+
 My cat may be communist he keeps saying Mao Mao!
 
 From scam calls to missed calls
