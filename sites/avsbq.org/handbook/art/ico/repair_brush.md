@@ -6,7 +6,9 @@
 
 ## Background information
 
-I had a pretty mangled brush, I forgot to take a photo of the crows-nest on my brush.
+I've had pretty mangled brush, I forgot to take a photo of the crows-nest on my brush.
+
+I've had a thin brush that looked like a three prong spear, it needed three rounds of conditioning to make it look anew
 
 It's like giving your brush a haircut but instead it won't grow back
 

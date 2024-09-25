@@ -2,7 +2,6 @@
 
 <details><summary>Sources used:</summary>
 [mbreen](https://mbreen.com/fitts-apple/),
-[wikipedia](https://en.wikipedia.org/wiki/Fitts%27s_law)
 </details>
 
 A model of movement in human-computer interaction and interaction.

@@ -1,5 +1,7 @@
 # Web
 
+<img src=".pix/xah_george_html.avif" style="width:550px; height: auto;">
+
 ## Terms
 
 ### _c_

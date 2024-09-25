@@ -1,3 +1,7 @@
+# Jobs
+
+<img src=.pix/cabin_cubicle.avif>
+
 https://www.theguardian.com/world/2016/feb/12/long-lunch-spanish-civil-servant-skips-work-for-years-without-anyone-noticing
 
 phantomatic jobs
