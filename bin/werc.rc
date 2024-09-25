@@ -8,7 +8,7 @@ cd ..
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 difs=$ifs # Used to restore default ifs when needed 
 
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_werc\/?$/d; '
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_werc\/?$/d; ' 
 dirclean=' s/\.(md|html|txt)$//; '
 
 path=(. /bin ./bin)
@@ -75,20 +75,6 @@ fn werc_exec_request {
         }
     }
     cd $werc_root
-
-    if(~ $#perm_redir_to 1)
-        perm_redirect $perm_redir_to
-    for(l in $perm_redir_patterns) {
-        p=$$l
-        r=$p(1)
-        # If target is absolute, then patern must match whole string
-        if(~ $p(2) http://* https://*)
-            r='^'$r 
-        t=`{ echo -n $req_path | sed 's!'^$r^'!'^$p(2)^'!' } # Malicious danger!
-
-        if(! ~ $"t '' $req_path)
-            perm_redirect $t
-    }
     setup_handlers
     for(h in $extraHttpHeaders)
         echo -n $h
