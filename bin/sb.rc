@@ -42,7 +42,6 @@ local_file=$local_path.html
 handler_body_main=(html_handler $local_file)
 }
 if not if(test -f tpl^$req_path^.tpl)
-# XXX Should we set $local_file for global .tpls?
 handler_body_main=(tpl_handler tpl^$req_path^.tpl)
 if(! ~ $#handler_body_main 0)
 { } 

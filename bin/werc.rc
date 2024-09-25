@@ -4,86 +4,72 @@
 . ./sb.rc
 . ./fltr_cache.rc
 cd ..
-
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
-difs=$ifs # Used to restore default ifs when needed 
-
+difs=$ifs 
 dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_werc\/?$/d; ' 
 dirclean=' s/\.(md|html|txt)$//; '
-
 path=(. /bin ./bin)
-
 http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
 werc_root=`{pwd}
 sitesdir=sites
-
- . ./etc/initrc
-
+. ./etc/initrc
 if(test -f etc/initrc.local)
-    . ./etc/initrc.local
-
+. ./etc/initrc.local
 fn werc_exec_request {
-    site=$SERVER_NAME
-    base_url=http://$site:$SERVER_PORT
-    sitedir=$sitesdir/$site
-    master_template=`{get_lib_file default_master.tpl}
-    current_date_time=`{date}
-
-    req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/%5[Ff]/_/g; s/'^$forbidden_uri_chars^'//g; s/\.\.*/./g; 1q'}
-    req_url=$base_url^$req_path
-    local_path=$sitedir$req_path
-    local_file=''
-    ifs='/' { args=`{echo -n $req_path} }
-
-    if(~ $REQUEST_METHOD POST) {
-        load_post_args
-        login_user
-    }
-
-    if(~ $req_path */index)
-        perm_redirect `{echo -n $req_path | sed 's,/index$,/,'}
-
-    if(~ $local_path */) {
-        if(test -d $local_path)
-            local_path=$local_path^'index'
-        # XXX: This redir might step on apps with synthetic dirs.
-        if not if(ls `{basename -d $local_path}^* >/dev/null >[2]/dev/null)
-            perm_redirect `{echo -n $req_path|sed 's,/+$,,'}
-    }
-    if not if(~ $req_path *'.' *',' *';' *':')
-        perm_redirect `{echo -n $req_path | sed 's/[.,;:)]$//'}
-    if not if(test -d $local_path)
-        perm_redirect $req_path^'/'
-
-    if(! ~ $#args 0)
-        ifs=$NEW_LINE { pageTitle=`{ echo -n $args|sed -e 's/ / - /g' -e 's/([a-z])-([a-z])/\1 \2/g' -e 's/_/ /g' } }
-
-    cd $sitedir
-    req_paths_list='/' # Note: req_paths_list doesn't include 'stnythetic' dirs.
-    conf_wd='/' # Used in config files to know where we are in the document tree.
-    if(test -f _werc/config)
-        . _werc/config
-    for(i in $args) {
-        conf_wd=$conf_wd^$i
-        req_paths_list=($req_paths_list $conf_wd)
-        if(test -d $i) {
-            conf_wd=$conf_wd'/'
-            cd $i
-            if(test -f _werc/config)
-                . _werc/config
-        }
-    }
-    cd $werc_root
-    setup_handlers
-    for(h in $extraHttpHeaders)
-        echo -n $h
-    echo Content-Type: $http_content_type      
-    echo # End of HTTP headers
-    if(! ~ $#debug 0)
-		dprint $"SERVER_NAME^$"REQUEST_URI - $"HTTP_USER_AGENT - $"REQUEST_METHOD - $"handler_body_main - $"master_template
-    if(~ $REQUEST_METHOD HEAD)
-        exit
-    template $master_template # | awk_buffer
+site=$SERVER_NAME
+base_url=http://$site:$SERVER_PORT
+sitedir=$sitesdir/$site
+master_template=`{get_lib_file default_master.tpl}
+current_date_time=`{date}
+req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/%5[Ff]/_/g; s/'^$forbidden_uri_chars^'//g; s/\.\.*/./g; 1q'}
+req_url=$base_url^$req_path
+local_path=$sitedir$req_path
+local_file=''
+ifs='/' { args=`{echo -n $req_path} }
+if(~ $REQUEST_METHOD POST) {
+load_post_args
+login_user
+}
+if(~ $req_path */index)
+perm_redirect `{echo -n $req_path | sed 's,/index$,/,'}
+if(~ $local_path */) {
+if(test -d $local_path)
+local_path=$local_path^'index'
+if not if(ls `{basename -d $local_path}^* >/dev/null >[2]/dev/null)
+perm_redirect `{echo -n $req_path|sed 's,/+$,,'}
+}
+if not if(~ $req_path *'.' *',' *';' *':')
+perm_redirect `{echo -n $req_path | sed 's/[.,;:)]$//'}
+if not if(test -d $local_path)
+perm_redirect $req_path^'/'
+if(! ~ $#args 0)
+ifs=$NEW_LINE { pageTitle=`{ echo -n $args|sed -e 's/ / - /g' -e 's/([a-z])-([a-z])/\1 \2/g' -e 's/_/ /g' } }
+cd $sitedir
+req_paths_list='/' # Note: req_paths_list doesn't include 'stnythetic' dirs.
+conf_wd='/' # Used in config files to know where we are in the document tree.
+if(test -f _werc/config)
+. _werc/config
+for(i in $args) {
+conf_wd=$conf_wd^$i
+req_paths_list=($req_paths_list $conf_wd)
+if(test -d $i) {
+conf_wd=$conf_wd'/'
+cd $i
+if(test -f _werc/config)
+. _werc/config
+}
+}
+cd $werc_root
+setup_handlers
+for(h in $extraHttpHeaders)
+echo -n $h
+echo Content-Type: $http_content_type      
+echo # End of HTTP headers
+if(! ~ $#debug 0)
+dprint $"SERVER_NAME^$"REQUEST_URI - $"HTTP_USER_AGENT - $"REQUEST_METHOD - $"handler_body_main - $"master_template
+if(~ $REQUEST_METHOD HEAD)
+exit
+template $master_template # | awk_buffer
 }
 werc_exec_request
