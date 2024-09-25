@@ -8,10 +8,6 @@
 
 True and false are literal values of boolean type
 
-	print(type(True))  # <class 'bool'> print(type(False))  # <class 'bool'>
-
-<hr>
-
 What Value evaluates to True?
 
 In a if statement,
