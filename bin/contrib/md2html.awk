@@ -34,7 +34,6 @@ function nextil(t) {
 	}
 	return t1 tag nextil(t2);
     }
-    # Dashes
     if(tag == "-"){
 	if(sub(/^-/, "", t2))
 	    tag = "&#8212;";
