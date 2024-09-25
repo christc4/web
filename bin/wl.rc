@@ -1,0 +1,18 @@
+fn get_lib_file {
+        echo -n $sitedir/_werc/lib/$1
+}
+fn template { awk -f bin/template.awk $* | rc $rcargs }
+fn get_md_file_attr {
+    sed -n '/^\* '$2': /p; /^\* '$2': /q; /^$/q' < $1
+}
+fn get_md_title {
+    sed -n -e '1N; /^.*\n===*$/N; /.*\n===*\n *$/!b' -e 's/\n==*\n//p' < $1
+}
+fn get_file_title {
+    if (~ $1 *.md)
+        get_md_title $1
+    if not if(~ $1 */) {
+        if(test -f $1/index.md)
+            get_md_title $1/index.md
+    }
+}

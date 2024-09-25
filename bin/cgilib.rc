@@ -3,8 +3,6 @@ fn dprintv { { for(v in $*) { echo -n $v^'#'^$#$v^'=' $$v '; '  }; echo } >[1=2]
 fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
 fn escape_html { sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' $* }
 
-# Note: should check if content type is application/x-www-form-urlencoded?
-# Should compare with http://www.shelldorado.com/scripts/cmds/urlgetopt.txt
 fn load_post_args {
     if(~ $REQUEST_METHOD POST && ~ $#post_args 0) {
         ifs='&
@@ -19,7 +17,6 @@ fn load_post_args {
     if not
         status='No POST or post args already loaded'
 }
-# Status is () if at least one arg is found. DEPRECATED: access vars directly.
 fn get_post_args {
     load_post_args
     _status='No post arg matches'
@@ -33,7 +30,6 @@ fn get_post_args {
     status=$_status
 }
 
-# This seems slightly improve performance, but might depend on httpd buffering behavior.
 fn awk_buffer {
     awk '{
         buf = buf $0"\n"
@@ -158,16 +154,11 @@ fn select_mime {
     echo $m
 }
 
-##############################################
-# Generic rc programming helpers
-
-# Manage nested lists
 fn ll_add {
     _l=$1^_^$#$1
     $_l=$*(2-)
     $1=( $$1 $_l )
 }
-# Add to the head: dangerous if you shrink list by hand!
 fn ll_addh {
     _l=$1^_^$#$1
     $_l=$*(2-)
@@ -177,8 +168,6 @@ fn ll_addh {
 NEW_LINE='
 '
 
-# crop_text [max_lenght [ellipsis]] 
-# TODO: Option to crop only at word-delimiters.
 fn crop_text {
     m=512
     e='...'
