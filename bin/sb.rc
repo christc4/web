@@ -48,8 +48,6 @@ if(! ~ $#handler_body_main 0)
 { } 
 if not if(test -f $local_path)
 static_file $local_path
-if not if(~ $req_path /pub/* && test -f .$req_path)
-static_file .$req_path
 }
 fn run_handlers { for(h in $*) run_handler $$h }
 fn run_handler { $*(1) $*(2-) }

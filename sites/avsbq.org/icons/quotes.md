@@ -24,8 +24,6 @@ St Gregory Palamas, November 14, To the heights! To the heights!
 
 St Parhenios of Chios - Decmber 8, I expect the Resurrection of the dead!
 
-
-
 St Theodora
 
 ## On hating things
@@ -52,7 +50,7 @@ When St. Seraphim of Sarov was infirm and told that it must be hard to attend th
 
 ## St Lazarus and the stolen bowl
 
-<!--One day a wolf broke Fr. Mina the Solitary’s seclusion and entered his cell. Very quietly, the monk did the sign of the Cross on it, and the wolf sat at his feet. The saintly father asked him, "What do you want, you blessed wolf?" And the wolf did not move until the morning. When the early morning hours approached with its chilly temperature, the monk covered the wolf with a blanket so it wouldn't be cold. After completing his morning prayer rule, Fr. Mina made himself a cup of Turkish coffee; the wolf came and started sniffing the cup. Fr. Mina smiled warmly and said to the wolf, “Are you a fan of coffee like me? I’ll make you a cup!” Indeed, the wolf drank coffee with him. It became a habit that the wolf would come to drink coffee with Father Mina every morning.⁣ A visitor came to Fr. Mina, saw the wolf in the cell and was terrified. Father Mina calmed him down, "Don't be afraid, this is my companion in drinking coffee. By the way, he likes his coffee to be done just right!”!-->
+One day a wolf broke Fr. Mina the Solitary’s seclusion and entered his cell. Very quietly, the monk did the sign of the Cross on it, and the wolf sat at his feet. The saintly father asked him, "What do you want, you blessed wolf?" And the wolf did not move until the morning. When the early morning hours approached with its chilly temperature, the monk covered the wolf with a blanket so it wouldn't be cold. After completing his morning prayer rule, Fr. Mina made himself a cup of Turkish coffee; the wolf came and started sniffing the cup. Fr. Mina smiled warmly and said to the wolf, “Are you a fan of coffee like me? I’ll make you a cup!” Indeed, the wolf drank coffee with him. It became a habit that the wolf would come to drink coffee with Father Mina every morning.⁣ A visitor came to Fr. Mina, saw the wolf in the cell and was terrified. Father Mina calmed him down, "Don't be afraid, this is my companion in drinking coffee. By the way, he likes his coffee to be done just right!”!
 
 A time is coming when men will go mad, and when they see someone who is not mad, they will attack him, saying, "You are mad; you are not like us" - St. Anthony the Great
 
@@ -60,23 +58,23 @@ Tourist at monk's cell: "Where is your furniture?" Monk: "Where is yours?" Touri
 
 The husband and wife should be like the hand and eye. When the hand hurts, the eyes should be crying and when the eyes cry, the hand should wipe away the tears - St John Chrysostom
 
-Christ is the only exit from this world. All other exits - sexual rapture, political utopia, economic independence - are but blind alleys in which rot the corpses of many who have tried them
+Christ is the only exit from this world. All other exits - sexual rapture, political utopia, economic independence - are but blind alleys in which rot the corpses of many who have tried them- Fr. Seraphim Rose
 
-Food is not evil, but gluttony is. Childbearing is not evil, but fornication is. Money is not evil, but avarice is. Glory is not evil, but vainglory is. Indeed, there is no evil in existing things, but only in their misuse &ndash; St. Maximus the Confessor
+Food is not evil, but gluttony is. Childbearing is not evil, but fornication is. Money is not evil, but avarice is. Glory is not evil, but vainglory is. Indeed, there is no evil in existing things, but only in their misuse - St. Maximus the Confessor
 
-Our home is in Heaven. Please remember that we were created for Heaven. Our whole life is just a continuous wondering on the way home &ndash; Hieromonk Seraphim Rose
+Our home is in Heaven. Please remember that we were created for Heaven. Our whole life is just a continuous wondering on the way home - Fr. Seraphim Rose
 
-If you knew how quickly people would forget about you after your death, you will not seek in your life to please anyone but God &ndash; St. John Chrysostom
+If you knew how quickly people would forget about you after your death, you will not seek in your life to please anyone but God - St. John Chrysostom
 
-Let not one think, my fellow Christian, that only priests and monks need to pray without ceasing and not laymen. No, no; every Christian without exception ought to dwell always in prayer &ndash; St. Gregory Palamas
+Let not one think, my fellow Christian, that only priests and monks need to pray without ceasing and not laymen. No, no; every Christian without exception ought to dwell always in prayer - St. Gregory Palamas
 
 A man saved by Christ need not fear death more than a tired man fear his bed
 
 Thy life, O Mary, hath been shown to be a model for all sinners who have sinned beyond measure in life, that they too, may arise and wash away their defilement with tears
 
-We must not mind insulting men, if by respecting them we offend God &ndash; St. John Crysostom
+We must not mind insulting men, if by respecting them we offend God - St. John Crysostom
 
-Fasting clearly shows or discloses all the infirmities of our soul, all its weaknesses, deficiencies, sins, and passions; just as when muddy, standing water is beginning to be cleaned it shows what reptiles and what sort of dirt it contains &ndash; St. John of Kronstadt
+Fasting clearly shows or discloses all the infirmities of our soul, all its weaknesses, deficiencies, sins, and passions; just as when muddy, standing water is beginning to be cleaned it shows what reptiles and what sort of dirt it contains - St. John of Kronstadt
 
 When people are empty of Christ, a thousand and one other things come and fill them up; jealousies, hatreds, boredom, melancholy, resentment, a wordly outlook, worldly pleasures. Try to fill your soul with Christ so that it's not empty &ndash; St. Porphyrios
 
