@@ -1,0 +1,17 @@
+class X1:
+    "A class example"
+    ii = 1 
+    # This method defines 1 parameter, the x.
+    def gg(self, x):
+        return x + 1
+# create a object of the class X1
+# This is called "instantiating a class"
+xx = X1()
+# Data or functions defined in a class are called the class's attributes or methods.
+# To access them, append a dot and their name after the object's name.
+# access a class variable
+print(xx.ii)
+# 1
+# call a method
+print(xx.gg(4))
+# 5
