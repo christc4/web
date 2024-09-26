@@ -1,3 +1,0 @@
-
-
-Process /usr/local/bin/vim finished
