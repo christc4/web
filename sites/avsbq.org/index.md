@@ -16,7 +16,7 @@ i made this site as-tiny-as-can-be, if im doing something wrong id love to know 
 
 i see https and domains as [power ploys](//xahlee.info/w/why_no_https.html) hence I use neither
 
-thank you [edo](//github.com/EdoardoLaGreca) 'n [uriel](//uriel.cat-v.org) (rip). thank you [xah](//xahlee.info) 'n [luke](//lukesmith.xyz). thank you [moakal](https://github.com/moakal) 'n friends
+thank you! [edo](//github.com/EdoardoLaGreca) 'n [uriel](//uriel.cat-v.org) (rip). thank you! [xah](//xahlee.info) 'n [luke](//lukesmith.xyz). thank you! [moakal](https://github.com/moakal) 'n frenz
 
 <hr>
 
