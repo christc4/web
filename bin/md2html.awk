@@ -57,34 +57,30 @@ function nextil(t) {
 	return t1 "&lt;" nextil(t2);
     }
     # Links
-if(!match(t2, /(\[.*\])|(\(.*\))/))
-    return t1 tag nextil(t2);
-
-match(t2, /^[^\]]*(\[[^\]]*\][^\]]*)*/);
-linktext = substr(t2, 1, RLENGTH);
-t2 = substr(t2, RLENGTH + 2);
-
-if(match(t2, /^\(/)){
-    # Inline
-    match(t2, /^[^\)]+(\([^\)]+\)[^\)]*)*/);
-    url = substr(t2, 2, RLENGTH - 1);
-    pt2 = substr(t2, RLENGTH + 2);
-    title = "";
-
-    if(match(url, /[ ]+\".*\"[ ]*$/)) {
-        title = substr(url, RSTART, RLENGTH);
-        url = substr(url, 1, RSTART - 1);
-        match(title, /\".*\"/);
-        title = " title=\"" substr(title, RSTART + 1, RLENGTH - 2) "\"";
+    if(tag == "["){
+	if(!match(t2, /(\[.*\])|(\(.*\))/))
+	    return t1 tag nextil(t2);
+	match(t2, /^[^\]]*(\[[^\]]*\][^\]]*)*/);
+	linktext = substr(t2, 1, RLENGTH);
+	t2 = substr(t2, RLENGTH + 2);
+	if(match(t2, /^\(/)){
+	    # Inline
+	    match(t2, /^[^\)]+(\([^\)]+\)[^\)]*)*/);
+	    url = substr(t2, 2, RLENGTH - 1);
+	    pt2 = substr(t2, RLENGTH + 2);
+	    title = "";
+	    if(match(url, /[ 	]+\".*\"[ 	]*$/)) {
+		title = substr(url, RSTART, RLENGTH);
+		url = substr(url, 1, RSTART - 1);
+		match(title, /\".*\"/);
+		title = " title=\"" substr(title, RSTART + 1, RLENGTH - 2) "\"";
+	    }
+	    if(match(url, /^<.*>$/))
+		url = substr(url, 2, RLENGTH - 2);
+	    url = eschtml(url);
+	    return t1 "<a href=\"" url "\"" title ">" nextil(linktext) "</a>" nextil(pt2);
+	}
     }
-
-    if(match(url, /^<.*>$/))
-        url = substr(url, 2, RLENGTH - 2);
-
-    url = eschtml(url);
-    return t1 "<a href=\"" url "\"" title ">" nextil(linktext) "</a>" nextil(pt2);
-}
-
     if(match(tag, /[*_]/)){
 	ntag = tag;
 	if(sub("^" tag, "", t2)){
@@ -131,7 +127,7 @@ BEGIN {
     html = 0;
     nl = 0;
     nr = 0;
-    otext = "<article><a href=/.search>search</a>  <a href=/.reach>reach</a>";
+    otext = "<article><a href=/.find>find</a>  <a href=/.reach>reach</a>";
     text = "";
     par = "p";
 }

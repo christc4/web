@@ -2,9 +2,9 @@
 
 # Why Linux
 
->_linux.org's logo sets unrealistic beauty standards for penguins_
+> _linux.org's logo sets unrealistic beauty standards for penguins_
 
->_Some people have told me they don't think a fat penguin really embodies the grace of Linux, which just tells me they have never seen a angry penguin charging at them in excess of 100mph. They'd be a lot more careful about what they say if they had._ - Linus Torvalds
+> _Some people have told me they don't think a fat penguin really embodies the grace of Linux, which just tells me they have never seen a angry penguin charging at them in excess of 100mph. They'd be a lot more careful about what they say if they had._ - Linus Torvalds
 
 <img src=.pix/tux1.gif><img src=.pix/tux_monument.gif>
 
