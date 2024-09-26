@@ -2,7 +2,7 @@
 . ./cgilib.rc
 . ./wl.rc
 . ./sb.rc
-. ./fltr_cache.rc
+. ./fc.rc
 cd ..
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 difs=$ifs 
