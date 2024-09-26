@@ -2,6 +2,7 @@
 . ./cgilib.rc
 . ./wl.rc
 . ./sb.rc
+. ./initrc
 . ./fc.rc
 cd ..
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
@@ -13,9 +14,6 @@ http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
 werc_root=`{pwd}
 sitesdir=sites
-. ./etc/initrc
-if(test -f etc/initrc.local)
-. ./etc/initrc.local
 fn werc_exec_request {
 site=$SERVER_NAME
 base_url=http://$site:$SERVER_PORT
