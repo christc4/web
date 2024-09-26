@@ -21,7 +21,6 @@ site=$SERVER_NAME
 base_url=http://$site:$SERVER_PORT
 sitedir=$sitesdir/$site
 master_template=`{get_lib_file default_master.tpl}
-current_date_time=`{date}
 req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/%5[Ff]/_/g; s/'^$forbidden_uri_chars^'//g; s/\.\.*/./g; 1q'}
 req_url=$base_url^$req_path
 local_path=$sitedir$req_path
