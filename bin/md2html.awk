@@ -3,6 +3,7 @@
 function eschtml(t) {
     gsub("&", "\\&amp;", t);
     gsub("<", "\\&lt;", t);
+    gsub("%", "&#37;", t);
     return t;
 }
 function oprint(t){
@@ -37,6 +38,9 @@ function nextil(t) {
 	if(sub(/^-/, "", t2))
 	    tag = "&#8212;";
 	return t1 tag nextil(t2);
+    }
+
+    if(tag == "<"){
     # Autolinks
 	if(match(t2, /^[^ 	]+[\.@][^ 	]+>/)){
 	    url = eschtml(substr(t2, 1, RLENGTH - 1));
@@ -93,7 +97,6 @@ function nextil(t) {
 	    return t1 "<a href=\"" r "\" />" nextil(linktext) "</a>" nextil(pt2);
 	}
     }
-    # Emphasis
     if(match(tag, /[*_]/)){
 	ntag = tag;
 	if(sub("^" tag, "", t2)){
