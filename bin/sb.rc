@@ -26,7 +26,7 @@ else
 printf "<li><a href=" path ">"fp"</a>"
 }
 END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }' }
-fn md_handler { $formatter $1 }
+fn md_handler { $fm $1 }
 fn setup_handlers {
 if(test -f $local_path.md) {
 local_file=$local_path.md
