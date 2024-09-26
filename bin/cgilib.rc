@@ -3,19 +3,6 @@ fn dprintv { { for(v in $*) { echo -n $v^'#'^$#$v^'=' $$v '; '  }; echo } >[1=2]
 fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
 fn escape_html { sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' $* }
 
-fn get_post_args {
-    load_post_args
-    _status='No post arg matches'
-    for(n in $*) {
-        v=post_arg_$n
-        if(! ~ $#$v 0) {
-            $n=$$v
-            _status=()
-        }
-    }
-    status=$_status
-}
-
 fn awk_buffer {
     awk '{
         buf = buf $0"\n"
