@@ -3,6 +3,7 @@
 function eschtml(t) {
     gsub("&", "\\&amp;", t);
     gsub("<", "\\&lt;", t);
+    gsub("%", "&#37;", t);
     return t;
 }
 function oprint(t){
@@ -37,11 +38,16 @@ function nextil(t) {
 	if(sub(/^-/, "", t2))
 	    tag = "&#8212;";
 	return t1 tag nextil(t2);
+    }
+
+    if(tag == "<"){
     # Autolinks
 	if(match(t2, /^[^ 	]+[\.@][^ 	]+>/)){
 	    url = eschtml(substr(t2, 1, RLENGTH - 1));
 	    t2 = substr(t2, RLENGTH + 1);
 	    linktext = url;
+	    if(match(url, /@/) && !match(url, /^mailto:/))
+		url = "mailto:" url;
 	    return t1 "<a href=\"" url "\">" linktext "</a>" nextil(t2);
 	}
     # Html tags

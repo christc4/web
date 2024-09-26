@@ -1,5 +1,3 @@
 plan9port=$PLAN9
-# If rc has not been copied to /bin/rc you will also need to change
-# the #! line in bin/*.rc!
 path=($plan9port/bin . ./bin /bin /usr/bin)
 fm=(fltr_cache md2html.awk)

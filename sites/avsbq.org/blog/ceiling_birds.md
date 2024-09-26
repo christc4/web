@@ -4,9 +4,7 @@
 
 The smoke alarm.. it's like chinese water torture
 
-<hr>
-
-<img src=".pix/smoke_alarm_battery1.avif" style="width:550px; height: auto;">
+<img src=.pix/smoke_alarm_battery1.avif>
 
 My new bride girdled to the red string of fate
 
@@ -33,7 +31,7 @@ https://sahanjournal.com/health/sleep-science-black-insomnia-health-equity-minne
 
 https://www.cpsc.gov/Newsroom/News-Releases/2022/Learn-the-Sounds-of-Fire-Safety-to-Avoid-Danger-African-Americans-Have-the-Highest-Rate-of-Fire-Deaths-and-Injuries
 
-<img src=".pix/smoke_alarm_battery2.avif" style="width:550px; height: auto;">
+<img src=.pix/smoke_alarm_battery2.avif
 
 The cycle of rebirth
 
