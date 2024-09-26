@@ -1,4 +1,4 @@
 # Funny
 
-![image](capybara_desk.webp)
-![image](ship_footpedal.webp)
+<img src=capybara_desk.avif>
+<img src=ship_footpedal.avif>
