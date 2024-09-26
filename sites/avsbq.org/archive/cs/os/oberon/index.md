@@ -35,10 +35,6 @@ simulated desktop, showing overlapping viewers. (b) partial overlappings in the 
 typical oberon display configuration consisting of seven viewers
 </details>
 
-<details><summary>Expand to see photos</summary>
-
-</details>
-
 ## Minds behind
 
 <img src=index.avif>
