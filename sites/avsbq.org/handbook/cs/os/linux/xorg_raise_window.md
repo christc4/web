@@ -5,7 +5,7 @@
 In some xorg window managers, users have reported wmctrl not working out of the box. Since we are already using the x11/xlib library for our respective window managers, we can write a c++ program (see above for
 original author), to raise windows. We then call this with a simple shell script and map this to a keypress.
 
-<object data=".txt/totop.txt" width="432px" height="360px"></object>
+<object data=".txt/totop.txt" width="400px" height="400px"></object>
 
 When done run,
 
