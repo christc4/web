@@ -1,8 +1,8 @@
 #!/bin/rc
-. ./cgilib.rc
+. ./cg.rc
 . ./wl.rc
 . ./sb.rc
-. ./initrc
+. ./ir
 . ./fc.rc
 cd ..
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'

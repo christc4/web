@@ -1,6 +1,6 @@
 # List
 
-Last update: 2024/09/18
+Last update: 2024/09/27
 
 <details><summary>Sources used:</summary>
 [pynative](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-1-reverse-a-list-in-python), [Bro Code](https://youtu.be/gOMW_n2-2Mw?si=IiLTo-hlEzSLWDEC)
@@ -40,13 +40,88 @@ For a step, every second element beginning from index 0
 
 	print(fruits[::2])
 
-Would return, "['apple', 'banana']
+Would return, "['apple', 'banana']"
+
+Going backwards,
+
+	print(fruits[::-1])
+
+Would return, "['coconut', 'banana', 'orange', 'apple']"
+
+To iterate over a list,
+
+	for fruit in fruits:
+
+*note*: 'fruit' can be named anything, 'x', 'thing' etc. fruit is descriptive and isn't mandatory but a common naming convention
+
+Get length of a list,
+
+	print(len(fruits))
+
+'4' would be returned
+
+Using the "in" operator we could find if a value was in a collection
+
+	print("apple" in fruits)
+
+Returns "True", whereas
+
+	print("pineapple" in fruits)
+
+Returns "False" as it isn't a value in the list
+
+Remember the very beginning, what we said about lists...
+
+Lists are ordered and changeable. Duplicates OK
+
+We can change one of the values even after we create our list
+
+	fruits[0] = "pineapple"
+
+If you iterate over the list now and print, you'll see pineapple is now the first value in the list
+
+To add an element to the end of the list use the append method
+
+	fruits.append("pineapple")
+
+To remove an element use the remove method
+
+	fruits.remove("apple")
+
+To insert a value at a given index use the insert method
+
+	fruits.insert(0, "pineapple")
+
+To sort in alphabetical order
+
+	fruits.sort()
+
+To reverse a list, non alphabetically but in the order we placed them
+
+	fruits.reverse()
+
+If you'd like reverse *alphabetical* order you can first sort then reverse
+
+To clear a list use the clear method
+
+	fruits.clear()
+
+To return the index of a value,
+
+	fruits.index("apple")
+
+Which would be 0. If we don't find a value we get an error, "ValueError: "pineapple" is not in the list"
+
+Duplicates are OK,
+
+	fruits.count("pineapple")
+
+Would return 0
 
 
 
 
-
-
+## Examples
 
 Reverse list
 
