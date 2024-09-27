@@ -199,3 +199,5 @@ Outdated or timeless, priceless or worthless, dead or lifeless
 I really kicked the hornets nest with this one
 
 My bowl of cereal this morning told me otherwise
+
+I'm such an open software advocate, I use no software at all. My sh.tposts use real sh.t

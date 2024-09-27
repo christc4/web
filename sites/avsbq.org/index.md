@@ -4,7 +4,7 @@
 
 Welcome stargazer don't forget to wipe ur feet
 
-*Last update: 2024/09/26*
+Last update: 2024/09/26
 
 ## How my site stays alive
 

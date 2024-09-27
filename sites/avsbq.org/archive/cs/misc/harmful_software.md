@@ -1,12 +1,12 @@
-FROM [cat-v.org](http://harmful.cat-v.org/software/)
+ARCHIVED DIRECTLY FROM [cat-v.org](//harmful.cat-v.org/software/)
 
 # All software sucks
 
-<p>&ldquo;<em>And folks, let&rsquo;s be honest. Sturgeon was an optimist. Way more than 90% of code is crap.</em>&rdquo; &ndash; Al viro</p>
+"_And folks, let's be honest. Sturgeon was an optimist. Way more than 90 percent of code is crap_" - Al viro
 
-<p>&ldquo;<em>There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.</em>&rdquo; &ndash; C.A.R. Hoare, The 1980 ACM Turing Award Lecture</p>
+"_There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies_" - C.A.R. Hoare, The 1980 ACM Turing Award Lecture
 
-<p>&ldquo;<em>One of my most productive days was throwing away 1000 lines of code.</em>&rdquo; &ndash; <a href="http://genius.cat-v.org/ken-thompson/">Ken Thompson</a></p>
+<p>&ldquo;<em>One of my most productive days was throwing away 1000 lines of code.</em>&rdquo; &ndash; <a href="//genius.cat-v.org/ken-thompson/">Ken Thompson</a></p>
 
 <p>&ldquo;<em>..At first I hoped that such a technically unsound project would collapse but I
 soon realized it was doomed to success. Almost anything in software can be
@@ -19,7 +19,7 @@ simplicity. It is a price which the very rich find most hard to pay.</em>&rdquo;
 <p>&ldquo;<em>It&rsquo;s a curious thing about our industry: not only do we not learn from our mistakes, we also don&rsquo;t learn from our successes.</em>&rdquo;  &ndash; Keith Braithwaite</p>
 
 <ul>
-<li><a href="http://quotes.cat-v.org/programming/">More software and programming quotes</a>.</li>
+<li><a href="//quotes.cat-v.org/programming/">More software and programming quotes</a>.</li>
 </ul>
 
 
@@ -29,10 +29,10 @@ simplicity. It is a price which the very rich find most hard to pay.</em>&rdquo;
 
 <table>
 <tr><th>Harmful things</th><th>Less harmful alternatives</th></tr>
-<tr><td>SGML, <a href="xml/">XML</a>, YAML.</td><td>JSON, CSV, <a href="http://man.cat-v.org/plan_9/6/ndb">ndb(6)</a>, plain(UTF-8) text.</td></tr>
-<tr><td>NFS, SMB, AFS, WebDAV.</td><td><a href="http://9p.cat-v.org">9p</a>.</td></tr>
-<tr><td><a href="c++/">C++</a>, <a href="java/">Java</a>, Vala, D, Python, <a href="ruby/">Ruby</a>.</td><td>C, <a href="http://go-lang.cat-v.org">Go</a>, <a href="http://limbo.cat-v.org">Limbo</a>.</td></tr>
-<tr><td>pthreads (PoSix threads).</td><td>CSP-style concurrency: <a href="http://go-lang.cat-v.org">Go</a>, <a href="http://man.cat-v.org/plan_9/2/thread">libthread</a>, libtask, <a href="http://limbo.cat-v.org">Limbo</a>, Erlang, ...</td></tr>
+<tr><td>SGML, <a href="xml/">XML</a>, YAML.</td><td>JSON, CSV, <a href="//man.cat-v.org/plan_9/6/ndb">ndb(6)</a>, plain(UTF-8) text.</td></tr>
+<tr><td>NFS, SMB, AFS, WebDAV.</td><td><a href="//9p.cat-v.org">9p</a>.</td></tr>
+<tr><td><a href="c++/">C++</a>, <a href="java/">Java</a>, Vala, D, Python, <a href="ruby/">Ruby</a>.</td><td>C, <a href="//go-lang.cat-v.org">Go</a>, <a href="//limbo.cat-v.org">Limbo</a>.</td></tr>
+<tr><td>pthreads (PoSix threads).</td><td>CSP-style concurrency: <a href="//go-lang.cat-v.org">Go</a>, <a href="//man.cat-v.org/plan_9/2/thread">libthread</a>, libtask, <a href="//limbo.cat-v.org">Limbo</a>, Erlang, ...</td></tr>
 <tr><td>Perl, Ruby.</td><td><a href="http://rc.cat-v.org">rc</a>, <a href="http://man.cat-v.org/plan_9/1/awk">awk</a>.</td></tr>
 <tr><td>PCRE</td><td><a href="http://doc.cat-v.org/bell_labs/structural_regexps/">Structural Regular Expressions</a> or plain classic/extended <a href="http://man.cat-v.org/plan_9/6/regexp">regexps</a> (as used in awk, sed, grep, etc.).</td></tr>
 <tr><td>Bash, tcsh, zsh.</td><td><a href="http://rc.cat-v.org">rc</a>, OpenBSD's pdksh, ash/dash.</td></tr>
