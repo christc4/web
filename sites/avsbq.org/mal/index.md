@@ -1,5 +1,3 @@
-# mal.avsbq.org
-
 *mal*icious, *mal*influence, *mal*fed, *mal*nourished, *mal*igned, *mal*ware, dis*mal*, abyss*mal*
 
 Malcontent

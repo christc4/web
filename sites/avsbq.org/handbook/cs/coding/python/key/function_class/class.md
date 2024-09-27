@@ -10,7 +10,7 @@ A class is a boxed set of functions and variables. It defines a blueprint, of wh
 
 ## Define a Class
 
-<object data=".txt/define_a_class.txt" width="512px" height="140px"></object>
+<object data=".txt/define_a_class.txt" width="512px" height="160px"></object>
 
 By convention, class names start with a capital
 
