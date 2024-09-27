@@ -1,13 +1,52 @@
 # List
 
-*Last update: 2024/09/18*
+Last update: 2024/09/18
 
 <details><summary>Sources used:</summary>
-[pynative](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-1-reverse-a-list-in-python)
+[pynative](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-1-reverse-a-list-in-python), [Bro Code](https://youtu.be/gOMW_n2-2Mw?si=IiLTo-hlEzSLWDEC)
 </details>
 
+## Basics
 
-<hr>
+A collection is a single "variable" used to store *multiple* values
+
+List = [] ordered and changeable. Duplicates OK
+
+A list looks like this
+
+	fruits = ["apple", "orange", "banana", "coconut"]
+
+To access one of the elements found in 'fruits'
+
+First element.. would be
+
+	print(fruits[0])
+
+and so on...
+
+If you try to access a non-existant value say
+
+	print(fruits[4])
+
+You'll get the error, "IndexError: list item out of range"
+
+With the index operator you could set a beginning, ending and step index
+
+	print(fruits[0:3])
+
+Technically, you can omit '0'
+
+For a step, every second element beginning from index 0
+
+	print(fruits[::2])
+
+Would return, "['apple', 'banana']
+
+
+
+
+
+
 
 Reverse list
 
