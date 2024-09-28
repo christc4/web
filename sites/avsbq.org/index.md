@@ -12,9 +12,9 @@ Welcome stargazer don't forget to wipe ur feet
 
 ## How I stay alive
 
-I like reading, currently non-fiction books on past people's way of life, drawing/painting, practicing Mandarin and old english, the outdoors amongst other things. I'm 20 stuck in London looking for a tech job. My name is Christos, or Christ, both work
+Reading, drawing/painting, Mandarin, going on walks etc. all give me something to do. I'm 20 stuck in London looking for a tech job. My name is Christos, or Christ, both work.
 
-### Projects barely alive
+### Projects to be kept alive
 
 [bq](//github.com/christc4/bq) - a new and improved rewrite of the venerable ed editor
 
