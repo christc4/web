@@ -13,3 +13,9 @@ st alt o
 show akbar my tx script 
 
 show akbar the awk script for tree
+
+https://mail-archive.com/misc@openbsd.org/msg169795.html
+
+set up ultimate chinese notes
+
+meta charset only in pages where used..
