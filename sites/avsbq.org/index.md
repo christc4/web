@@ -1,10 +1,15 @@
-<style>body{background: url(.pix/a.avif) no-repeat bottom;}</style>
+<meta charset=utf-8>
+<style>body{background: url(.pix/a.avif) no-repeat bottom right;}</style>
 
 # Website of Christos
 
+Last update: 2024/09/28
+
 Welcome stargazer don't forget to wipe ur feet
 
-Last update: 2024/09/26
+Ƿilcuma, steorrasċēaƿere, ne forgyt þæt þū þīne fēt afylst.
+
+<ruby>欢迎<rt>Huānyíng</rt></ruby>，<ruby>观星者<rt>Guānxīngzhě</rt></ruby>，<ruby>别忘了<rt>Bié wàngle</rt></ruby><ruby>擦脚<rt>Cā jiǎo</rt></ruby>。
 
 ## How my site stays alive
 
