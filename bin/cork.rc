@@ -1,9 +1,7 @@
 #!/bin/rc
-
-plan9port=$PLAN9
-path=($plan9port/bin . ./bin /bin /usr/bin)
-fm=(fltr_cache m2h.awk)
 cd ..
+# plan9port=$PLAN9
+# path=($plan9port/bin . ./bin /bin /usr/bin)
 
 # FUNCTIONS
 fn awk_buffer {
@@ -116,6 +114,7 @@ fn fltr_cache {
 
     rm $tmpf $cachedir/$pid >[2]/dev/null &
 }
+# fn get_lib_file { echo -n ./default_master.tpl }
 
 fn get_lib_file { echo -n $sitedir/_cork/lib/$1 }
 
@@ -170,16 +169,15 @@ fn static_file { echo -n 'Content-Type: '; select_mime $1; echo -n; exec cat $1 
 
 fn template { awk -f bin/template.awk $* | rc $rcargs }
 
+fm=(fltr_cache m2h.awk)
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 
 difs=$ifs 
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/index\.(md|html|txt|tpl)$/d; /_cork\/?$/d;'
-# dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_cork\/?$/d; ' 
-dirclean=' s/\.(md|html|txt)$//; '
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/index\.(md)$/d; /_cork\/?$/d;'
+dirclean=' s/\.(md)$//; '
 path=(. /bin ./bin)
 http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
 cork_root=`{pwd}
 sitesdir=sites
-
 cork_exec

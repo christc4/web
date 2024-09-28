@@ -19,3 +19,9 @@ https://mail-archive.com/misc@openbsd.org/msg169795.html
 set up ultimate chinese notes
 
 meta charset only in pages where used..
+
+http://xahlee.info/kbd/keyboard_ergo_physical_layout.html
+
+http://xahlee.info/kbd/katana60_keyboard.html idiocy
+
+http://xahlee.info/kbd/japan_keyboard.html
