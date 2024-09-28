@@ -36,7 +36,7 @@ gsub(/[\-_]/, " ", fp)
 pa = path
 gsub(/[^\/]$/, "&/", pa)
 if(index(ENVIRON["req_path"] "/", pa) == 1)
-printf "<li><a href=" path ">> "fp"</a>"
+printf "<li><a href=" path ">> <b>"fp"</b></a>"
 else
 printf "<li><a href=" path ">"fp"</a>"
 }
