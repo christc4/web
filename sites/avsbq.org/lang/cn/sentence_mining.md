@@ -1,10 +1,10 @@
+<meta charset=utf-8>
+
 # Sentence Mining 2
 
 *Last update: 2024/09/09*
 
 > *NOTE:* My [old page](sentence_mining.html)
-
-## d
 
 ### 懂
 
@@ -88,8 +88,6 @@ More stuff
 - 这个地方有点吵，我们走吧
 - 爸爸回来有点晚，妈妈有点不高兴
 - 老师今天有点不舒服，所以没来上课
-
-> [source](https://resources.allsetlearning.com/chinese/grammar/Expressing_%22a_little_too%22_with_%22you_dian%22)
 
 桌子上的东西是谁的 别玩手机了，对眼睛不好 你看上去非常累 我明天想和你去看电影 我的电脑坏了 下雨了你有伞吗 你能听见我说话吗 你在这儿等我，我去买车票
 
