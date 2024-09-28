@@ -8,7 +8,7 @@ Last update: 2024/09/26
 
 ## How my site stays alive
 
-[Werc](//werc.cat-v.org), specifically my fork [cork](//github.com/christc4/cork) powers this site leveraging [Plan9's](//9p.io/plan9) toolkit. [OpenBSD](//openbsd.org) serves werc with [httpd](//openbsdhandbook.com/services/webserver/basic_webserver/). [Glenda](//glenda.cat-v.org) and [Puffy](//openbsd.org/artwork.html) live in a [Vultr](//vultr.com) server, psst my [referral link](//vultr.com/?ref=9595585). I made this site as-tiny-as-can-be, if im doing something wrong id love to know what. I see https and domains as [power ploys](//xahlee.info/w/why_no_https.html) hence I use neither. Thank you! [Edo](//github.com/EdoardoLaGreca) 'n [Uri](//uriel.cat-v.org) (rip). Thank you! [Xah](//xahlee.info) 'n [Luk](//lukesmith.xyz) (rip?). Thank you! [Moakl](//github.com/moakal) 'n Frenz
+[Cork](//github.com/christc4/cork) my fork of [werc](//werc.cat-v.org) powers this site leveraging [Plan9's](//9p.io/plan9) toolkit. [OpenBSD](//openbsd.org) serves werc with [httpd](//openbsdhandbook.com/services/webserver/basic_webserver/). [Glenda](//glenda.cat-v.org) and [Puffy](//openbsd.org/artwork.html) live in a [Vultr](//vultr.com) server, psst my [referral link](//vultr.com/?ref=9595585). I made this site as-tiny-as-can-be, if im doing something wrong id love to know what. I see https and domains as [power ploys](//xahlee.info/w/why_no_https.html) hence I use neither. Thank you! [Edo](//github.com/EdoardoLaGreca) 'n [Uri](//uriel.cat-v.org) (rip). Thank you! [Xah](//xahlee.info) 'n [Luk](//lukesmith.xyz) (rip?). Thank you! [Moakl](//github.com/moakal) 'n Frenz
 
 ## How I stay alive
 
