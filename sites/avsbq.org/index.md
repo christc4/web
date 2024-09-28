@@ -32,3 +32,5 @@ I like reading, cycling, drawing/painting, mandarin, old english, the outdoors a
 [youtube](//youtube.com/@avsbq) - sporadic uploads
 
 If you jive with any of that, i'd love to get in touch, 
+
+_1000 digression's and I'm not done yet_
