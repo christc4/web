@@ -16,6 +16,14 @@ I like reading, cycling, drawing/painting, mandarin, old english, the outdoors a
 
 ### Projects barely alive
 
-[Bq](//github.com/christc4/bq) - a new and improved rewrite of the venerable ed editor. [Black Dolphin](//en.wikipedia.org/wiki/Black_Dolphin_Prison) - my [getaway](//95.179.238.202/blog/if/home/black_dolphin/) from city life. [Cork](//github.com/christc4/cork) - werc-lite that's been so stripped down i'm surprised it even _works_. [Youtube](//youtube.com/@avsbq) - sporadic uploads
+[bq](//github.com/christc4/bq) - a new and improved rewrite of the venerable ed editor
+
+[black dolphin](//en.wikipedia.org/wiki/Black_Dolphin_prison) - my [getaway](//95.179.238.202/blog/if/home/black_dolphin/) from city life
+
+[comb](//github.com/christc4/comb) - sowm-lite stripped down with a fine-toothed comb with my own changes
+
+[Cork](//github.com/christc4/cork) - werc-lite that's been so stripped down i'm surprised it even _works_
+
+[Youtube](//youtube.com/@avsbq) - sporadic uploads
 
 If you jive with any of that, i'd love to get in touch, 
