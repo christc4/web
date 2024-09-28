@@ -1,9 +1,9 @@
 #!/bin/rc
 . ./cg.rc
-. ./wl.rc
 . ./sb.rc
-. ./ir
-. ./fc.rc
+plan9port=$PLAN9
+path=($plan9port/bin . ./bin /bin /usr/bin)
+fm=(fltr_cache m2h.awk)
 cd ..
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 difs=$ifs 
@@ -14,6 +14,43 @@ http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
 cork_root=`{pwd}
 sitesdir=sites
+fn fltr_cache {
+    a=()
+    tmpf=()
+
+    proc=$1
+    shift
+
+    if(~ $#* 0) {
+        tmpf=/tmp/fmttmp.$pid
+        f=$tmpf
+        score=`{{tee $tmpf || exit 1} | sha1sum}
+    }
+    if not {
+        f=$1
+        if(~ $f */) {
+            score=`{du -an $f | sha1sum || exit 1} # XXX using -n(bytes) instead of -t(lastmod) because sitemap proc touches files in tree.
+            a=$f
+            f=/dev/null
+        }
+        if not {
+            score=`{sha1sum $f || exit 1}
+            score=$score(1)
+        }
+    }
+    cachedir=/tmp/fltr_cache/$score
+    mkdir -p $cachedir >[2]/dev/null
+
+    if(test -s $cachedir/$proc)
+        cat $cachedir/$proc
+    if not
+        if($proc $a < $f | tee $cachedir/$pid)
+            mv $cachedir/$pid $cachedir/$proc
+
+    rm $tmpf $cachedir/$pid >[2]/dev/null &
+}
+fn get_lib_file { echo -n $sitedir/_cork/lib/$1 }
+fn template { awk -f bin/template.awk $* | rc $rcargs }
 fn cork_exec {
 site=$SERVER_NAME
 base_url=http://$site:$SERVER_PORT

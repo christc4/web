@@ -8,11 +8,11 @@
 
 #### Remove all exclamatory signs
 
-<object data=".txt/remove_exclam.txt" width="285" height="72"></object>
+<object data=".txt/remove_exclam.txt" width="285" height="80"></object>
 
 #### Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
-<object data=".txt/check_if_odd_or_even.txt" width="190" height="140"></object>
+<object data=".txt/check_if_odd_or_even.txt" width="210" height="150"></object>
 
 #### DNA 
 

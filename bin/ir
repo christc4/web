@@ -1,3 +1,0 @@
-plan9port=$PLAN9
-path=($plan9port/bin . ./bin /bin /usr/bin)
-fm=(fltr_cache m2h.awk)

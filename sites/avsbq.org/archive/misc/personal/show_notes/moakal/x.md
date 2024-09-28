@@ -11,3 +11,5 @@ The real reason design persists?
 st alt o
 
 show akbar my tx script 
+
+show akbar the awk script for tree
