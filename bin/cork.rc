@@ -1,4 +1,5 @@
 #!/bin/rc
+
 plan9port=$PLAN9
 path=($plan9port/bin . ./bin /bin /usr/bin)
 fm=(fltr_cache m2h.awk)
@@ -172,7 +173,8 @@ fn template { awk -f bin/template.awk $* | rc $rcargs }
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 
 difs=$ifs 
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_cork\/?$/d; ' 
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/index\.(md|html|txt|tpl)$/d; /_cork\/?$/d;'
+# dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_cork\/?$/d; ' 
 dirclean=' s/\.(md|html|txt)$//; '
 path=(. /bin ./bin)
 http_content_type='text/html'
