@@ -1,0 +1,1 @@
+<div><a href="http://akinzon.org">akinzon.org</a> | <a href="http://akinzon.org/.me">profile</a></div><div><input type="text" id="searchBar" placeholder="Search..."><div id="searchResults"></div><script src="http://akinzon.org/s.js"></script></div>
