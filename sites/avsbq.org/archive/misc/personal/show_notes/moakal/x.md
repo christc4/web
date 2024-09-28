@@ -9,3 +9,5 @@ Historical *vestigial* leftovers, legacy, holdovers... From a bygone era, this g
 The real reason design persists?
 
 st alt o
+
+show akbar my tx script 

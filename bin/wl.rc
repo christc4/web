@@ -1,6 +1,7 @@
 fn get_lib_file {
-        echo -n $sitedir/_werc/lib/$1
+        echo -n $sitedir/_cork/lib/$1
 }
+
 fn template { awk -f bin/template.awk $* | rc $rcargs }
 fn get_md_file_attr {
     sed -n '/^\* '$2': /p; /^\* '$2': /q; /^$/q' < $1

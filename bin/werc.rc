@@ -7,14 +7,14 @@
 cd ..
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 difs=$ifs 
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_werc\/?$/d; ' 
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/sitemap\.xml$/d; /\/index\.(md|html|txt|tpl)$/d; /\/(robots|sitemap)\.txt$/d; /_cork\/?$/d; ' 
 dirclean=' s/\.(md|html|txt)$//; '
 path=(. /bin ./bin)
 http_content_type='text/html'
 ll_add handlers_bar_left nav_tree
-werc_root=`{pwd}
+cork_root=`{pwd}
 sitesdir=sites
-fn werc_exec_request {
+fn cork_exec {
 site=$SERVER_NAME
 base_url=http://$site:$SERVER_PORT
 sitedir=$sitesdir/$site
@@ -33,31 +33,19 @@ perm_redirect `{echo -n $req_path | sed 's,/index$,/,'}
 if(~ $local_path */) {
 if(test -d $local_path)
 local_path=$local_path^'index'
-if not if(ls `{basename -d $local_path}^* >/dev/null >[2]/dev/null)
-perm_redirect `{echo -n $req_path|sed 's,/+$,,'}
 }
-if not if(~ $req_path *'.' *',' *';' *':')
-perm_redirect `{echo -n $req_path | sed 's/[.,;:)]$//'}
-if not if(test -d $local_path)
-perm_redirect $req_path^'/'
-if(! ~ $#args 0)
-ifs=$NEW_LINE { pageTitle=`{ echo -n $args|sed -e 's/ / - /g' -e 's/([a-z])-([a-z])/\1 \2/g' -e 's/_/ /g' } }
 cd $sitedir
 req_paths_list='/' # Note: req_paths_list doesn't include 'stnythetic' dirs.
 conf_wd='/' # Used in config files to know where we are in the document tree.
-if(test -f _werc/config)
-. _werc/config
 for(i in $args) {
 conf_wd=$conf_wd^$i
 req_paths_list=($req_paths_list $conf_wd)
 if(test -d $i) {
 conf_wd=$conf_wd'/'
 cd $i
-if(test -f _werc/config)
-. _werc/config
 }
 }
-cd $werc_root
+cd $cork_root
 setup_handlers
 for(h in $extraHttpHeaders)
 echo -n $h
@@ -69,4 +57,4 @@ if(~ $REQUEST_METHOD HEAD)
 exit
 template $master_template # | awk_buffer
 }
-werc_exec_request
+cork_exec
