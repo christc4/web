@@ -1,3 +1,5 @@
+<meta charset=utf-8>
+
 # Dégénération
 
 Dégénérations, by Mes Aïeux, translated to English by David Mathewes

@@ -17,7 +17,7 @@ Welcome stargazer don't forget to wipe ur feet
 
 ## How I stay alive
 
-I like reading, cycling, drawing/painting, mandarin, old english, the outdoors amongst other things. 20yo man living in London looking for a tech job. My name is Christos, or Christ, whichever works best
+I like reading, drawing/painting, mandarin, old english, the outdoors amongst other things. 20yo man living in London looking for a tech job. My name is Christos, or Christ, whichever works best
 
 ### Projects barely alive
 
