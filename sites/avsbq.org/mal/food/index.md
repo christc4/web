@@ -1,5 +1,7 @@
 # Harmful food
 
+> Grass and Grains will fry your brains
+
 Lot's to do, lot's to research
 
 This topic of food is almost completely innavigable
