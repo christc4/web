@@ -127,7 +127,7 @@ BEGIN {
     html = 0;
     nl = 0;
     nr = 0;
-    otext = "<article><a href=/.search>search</a>  <a href=/.reach>reach</a>";
+    otext = "<article><a href=/search.html>search</a>  <a href=/blog/me/reach>reach</a>";
     text = "";
     par = "p";
 }
