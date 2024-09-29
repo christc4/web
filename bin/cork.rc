@@ -25,11 +25,8 @@ fn cork_exec {
 	local_path=$sitedir$req_path
 	local_file=''
 	ifs='/' { args=`{echo -n $req_path} }
-
 	if (~ $req_path */index) { perm_redirect `{echo -n $req_path | sed 's,/index$,/,'} }
-
 	if (~ $local_path */) { if (test -d $local_path) { local_path=$local_path^'index' } }
-
 	cd $sitedir
 
 	req_paths_list='/' 
@@ -55,11 +52,7 @@ fn cork_exec {
 }
 
 fn dprint { echo $* >[1=2] }
-
 fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
-
-fn escape_html { sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' $* }
-
 fn fltr_cache {
     a=()
     tmpf=()
@@ -96,11 +89,8 @@ fn fltr_cache {
 }
 
 fn get_lib_file { echo -n bin/default_master.tpl }
-
 fn ll_add { _l=$1^_^$#$1; $_l=$*(2-); $1=( $$1 $_l ) }
-
 fn md_handler { $fm $1 }
-
 fn sbar {
 echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
 ls -F $sitedir/./$req_paths_list >[2]/dev/null \
