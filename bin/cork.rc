@@ -4,16 +4,8 @@ cd ..
 # path=($plan9port/bin . ./bin /bin /usr/bin)
 
 # FUNCTIONS
-fn awk_buffer {
-    awk '{
-        buf = buf $0"\n"
-        if(length(buf) > 1400) {
-            printf "%s", buf
-            buf = ""
-        }
-    }
-    END { printf "%s", buf }'
-}
+
+fn awk_buffer { awk '{ buf = buf $0 "\n"; if (length(buf) > 1400) { printf "%s", buf; buf = "" } } END { printf "%s", buf }' }
 
 fn cork_exec {
 	site=$SERVER_NAME
@@ -91,11 +83,13 @@ fn fltr_cache {
 fn get_lib_file { echo -n bin/default_master.tpl }
 fn ll_add { _l=$1^_^$#$1; $_l=$*(2-); $1=( $$1 $_l ) }
 fn md_handler { $fm $1 }
+
 fn sbar {
 echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
 ls -F $sitedir/./$req_paths_list >[2]/dev/null \
 | {
-sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
+sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
+#sed $dirfilter'/\/[^_.\/][^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
 } | sort -u | awk -F/ '
 function p(x, y, s) { for(i=0; i < x-y; i+=1) printf s }
 BEGIN { lNF=2; }
@@ -125,7 +119,8 @@ fn setup_handlers { if (test -f $local_path.md) { local_file=$local_path.md; han
 fn template { awk -f bin/template.awk $* | rc $rcargs }
 fm=(fltr_cache m2h.awk)
 difs=$ifs 
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /\/index\.(md)$/d;'
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/index\.(md)$/d;'
+#dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /\/index\.(md)$/d;'
 dirclean=' s/\.(md)$//; '
 path=(. /bin ./bin)
 ll_add handlers_bar_left sbar 
