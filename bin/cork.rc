@@ -149,7 +149,6 @@ printf "<li><a href=" path ">"fp"</a>"
 }
 END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'
 }
-
 fn run_handlers { for(h in $*) run_handler $$h }
 fn run_handler { $*(1) $*(2-) }
 fn setup_handlers { if (test -f $local_path.md) { local_file=$local_path.md; handler_body_main=(md_handler $local_file) }} 
