@@ -41,7 +41,8 @@ fn cork_exec {
 	}
 
 	cd $sitedir
-	req_paths_list='/' # Note: req_paths_list doesn't include 'synthetic' dirs.
+
+	req_paths_list='/' 
 	conf_wd='/' # Used in config files to know where we are in the document tree.
 
 	for (i in $args) {
@@ -170,14 +171,23 @@ fn static_file { echo -n 'Content-Type: '; select_mime $1; echo -n; exec cat $1 
 fn template { awk -f bin/template.awk $* | rc $rcargs }
 
 fm=(fltr_cache m2h.awk)
+
 forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
 
 difs=$ifs 
+
 dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/index\.(md)$/d; /_cork\/?$/d;'
+
 dirclean=' s/\.(md)$//; '
+
 path=(. /bin ./bin)
+
 http_content_type='text/html'
+
 ll_add handlers_bar_left nav_tree
+
 cork_root=`{pwd}
+
 sitesdir=sites
+
 cork_exec
