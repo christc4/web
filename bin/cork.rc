@@ -50,9 +50,6 @@ fn cork_exec {
 	for (h in $extraHttpHeaders) { echo -n $h }
 
 	echo 
-	if (! ~ $#debug 0) {
-		dprint $"SERVER_NAME^$"REQUEST_URI - $"HTTP_USER_AGENT - $"REQUEST_METHOD - $"handler_body_main - $"master_template
-	}
 
 	template $master_template # | awk_buffer
 }
