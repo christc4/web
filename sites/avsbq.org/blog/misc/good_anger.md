@@ -13,3 +13,5 @@ Of course living in a manmade society makes this a little difficult
 Consider, the idiotic uproar over Lil Nas X. If you really took upbridge you'd uproot all the provocative music. Instead they roamed free on our airwaves. You should have been feeling righteous indignation years ago, or perhaps you didn't act on it
 
 Thus the same offense, was blocked out, like white noise, until something touches your nerve.. but btw that new anger isn't righteous indignation it's childish anger
+
+so many windows or mac os users, could have used that anger to switch to linux, when the time was right..

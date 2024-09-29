@@ -205,3 +205,5 @@ I'm such an open software advocate, I use no software at all. My sh.tposts use r
 Omg! I love fall! Fall is when everything slowly dies...
 
 Sell me this pen, it's AI powered
+
+Listening to you is like buying hair growth tonic from a bald  man
