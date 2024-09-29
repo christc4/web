@@ -20,20 +20,20 @@ The flat, rectangular, typewriter style keyboard has been around for so long tha
 
 To meet these factors the new keyboard is shaped in three dimensions, and allows hand movements to occur naturally with minimum stress. Separation of the letter keys into two spaced groups has reduced abduction to zero. By designing for radial finger movement over keys at differing heights to suit lengths and by sloping the rows downwards from the centre, pronation stress has been reduced. The design was first described by Lillian Malt in 1977, and the author in 1981. A report by P. Zipp et al in 1983, confirmed the design philosophy concerning reduction of muscle tension.
 
-As detailed in Lillian Malt's paper, a new letter layout has 90% of the letters of the 100 most used words on the home row, including E (11% of keystrokes) on the normally unused left thumb, instead of 52% for Qwerty. This leads to a reduction of 11:1 in successive finger use and a 250:1 drop in "hurdles" (the need to move a finger from home row up or down and then across to the key below or above). The result is a substantial reduction in work load.
+As detailed in Lillian Malt's paper, a new letter layout has 90 percent of the letters of the 100 most used words on the home row, including E (11 percent of keystrokes) on the normally unused left thumb, instead of 52 percent for Qwerty. This leads to a reduction of 11:1 in successive finger use and a 250:1 drop in "hurdles" (the need to move a finger from home row up or down and then across to the key below or above). The result is a substantial reduction in work load.
 
 For already trained operators in situations where interruption of output for retraining is not possible, the Maltron - Qwerty changeover key, and the provision of dually engraved keytops, allows them to enjoy the benefit of the new shape. Initial adaptation practise takes about an hour, followed by a day or so of work to regain full performance.
 
  
 RESULTS
 
-    (a) A Qwerty operator with a skill level of 80 wpm, adapted herself and regained her original level in a few hours, and has since improved this to 100 wpm. She confirms much reduced fatigue and higher accuracy. She has experienced no problems in using both flat and shaped keyboards during the normal working day.
+(a) A Qwerty operator with a skill level of 80 wpm, adapted herself and regained her original level in a few hours, and has since improved this to 100 wpm. She confirms much reduced fatigue and higher accuracy. She has experienced no problems in using both flat and shaped keyboards during the normal working day.
 
-    (b) The accurate tactile feedback provided by the shaped key groups and the ease of using the new letter layout has demonstrated an initial learning time reduction of 3-4:1 by commercial students, (W.M. Heath 1981) and even more by a business executive. (M. Moffatt 1983).
+(b) The accurate tactile feedback provided by the shaped key groups and the ease of using the new letter layout has demonstrated an initial learning time reduction of 3-4:1 by commercial students, (W.M. Heath 1981) and even more by a business executive. (M. Moffatt 1983).
 
-    (c) Eight operators of 1 - 11 years experience, after 10 days training on W.P. equipment, produced 60-174% of their qwerty speeds and subsequently reported less tiring, comfortable, and more accurate operation with no confusion in using both new and old keyboards. (J. Sions 1980).
+(c) Eight operators of 1 - 11 years experience, after 10 days training on W.P. equipment, produced 60-17 percent of their qwerty speeds and subsequently reported less tiring, comfortable, and more accurate operation with no confusion in using both new and old keyboards. (J. Sions 1980).
 
-    (d) Four typesetters, with up to 30 years keyboard experience, keying complicated mathematical and scientific articles at speeds of 61-98 words per minute, had an average error rate of 0.46%. After 18 days training, on the new keyboard speeds were 49-65 wpm. with an error rate of 0.32%. In subsequent production work this has fallen to 0.05% with a daily output of 80-95,000 keystrokes. The operators confirm that the new keyboard is much less tiring to use. The medically diagnosed "arthritis" in the fingers of one has completely cleared.
+(d) Four typesetters, with up to 30 years keyboard experience, keying complicated mathematical and scientific articles at speeds of 61-98 words per minute, had an average error rate of 0.46 percent. After 18 days training, on the new keyboard speeds were 49-65 wpm. with an error rate of 0.32 percent. In subsequent production work this has fallen to 0.05 percent with a daily output of 80-95,000 keystrokes. The operators confirm that the new keyboard is much less tiring to use. The medically diagnosed "arthritis" in the fingers of one has completely cleared.
 
      
 
