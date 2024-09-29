@@ -20,7 +20,7 @@ fn cork_exec {
 	base_url=http://$site:$SERVER_PORT
 	sitedir=$sitesdir/$site
 	master_template=`{get_lib_file default_master.tpl}
-	req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/%5[Ff]/_/g; s/'^$forbidden_uri_chars^'//g; s/\.\.*/./g; 1q'}
+	req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/%5[Ff]/_/g; s/\.\.*/./g; 1q'}
 	req_url=$base_url^$req_path
 	local_path=$sitedir$req_path
 	local_file=''
@@ -61,7 +61,6 @@ fn cork_exec {
 		echo -n $h
 	}
 
-	echo Content-Type: $http_content_type
 	echo # End of HTTP headers
 
 	if (! ~ $#debug 0) {
@@ -115,9 +114,8 @@ fn fltr_cache {
 
     rm $tmpf $cachedir/$pid >[2]/dev/null &
 }
-# fn get_lib_file { echo -n ./default_master.tpl }
 
-fn get_lib_file { echo -n $sitedir/_cork/lib/$1 }
+fn get_lib_file { echo -n bin/default_master.tpl }
 
 fn ll_add { _l=$1^_^$#$1; $_l=$*(2-); $1=( $$1 $_l ) }
 
@@ -154,40 +152,14 @@ END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'
 
 fn run_handlers { for(h in $*) run_handler $$h }
 fn run_handler { $*(1) $*(2-) }
-
-fn setup_handlers {
-if(test -f $local_path.md) {
-local_file=$local_path.md
-handler_body_main=(md_handler $local_file)
-}
-if(! ~ $#handler_body_main 0)
-{ } 
-if not if(test -f $local_path)
-static_file $local_path
-}
-
-fn static_file { echo -n 'Content-Type: '; select_mime $1; echo -n; exec cat $1 }
-
+fn setup_handlers { if (test -f $local_path.md) { local_file=$local_path.md; handler_body_main=(md_handler $local_file) }} 
 fn template { awk -f bin/template.awk $* | rc $rcargs }
-
 fm=(fltr_cache m2h.awk)
-
-forbidden_uri_chars='[^a-zA-Z0-9_+\-\/\.,:]'
-
 difs=$ifs 
-
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /'$forbidden_uri_chars'/d; /\/index\.(md)$/d; /_cork\/?$/d;'
-
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /\/index\.(md)$/d;'
 dirclean=' s/\.(md)$//; '
-
 path=(. /bin ./bin)
-
-http_content_type='text/html'
-
 ll_add handlers_bar_left nav_tree
-
 cork_root=`{pwd}
-
 sitesdir=sites
-
 cork_exec

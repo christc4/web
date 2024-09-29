@@ -1,1 +1,3 @@
 remove logic for sitemap and robots
+deleted lines for echo content type, chatgpt dirs filter
+cleanurl forbidden
