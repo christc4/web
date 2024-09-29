@@ -10,6 +10,10 @@ Autistic people are less domesticated. Some people cutely dismiss the social awk
 
 ## Does autism give superpowers?
 
+### Autism and the arts
+
+Jamie, Matalina, lowest common denominator of art... very substandard and meaningless disk noise
+
 ## Why does this matter?
 
 Go ahead and trudge through someone's PhD. I give you the raw facts. 
