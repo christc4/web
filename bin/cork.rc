@@ -26,19 +26,9 @@ fn cork_exec {
 	local_file=''
 	ifs='/' { args=`{echo -n $req_path} }
 
-	if (~ $REQUEST_METHOD POST) {
-		load_post_args
-	}
+	if (~ $req_path */index) { perm_redirect `{echo -n $req_path | sed 's,/index$,/,'} }
 
-	if (~ $req_path */index) {
-		perm_redirect `{echo -n $req_path | sed 's,/index$,/,'}
-	}
-
-	if (~ $local_path */) {
-		if (test -d $local_path) {
-			local_path=$local_path^'index'
-		}
-	}
+	if (~ $local_path */) { if (test -d $local_path) { local_path=$local_path^'index' } }
 
 	cd $sitedir
 
@@ -57,18 +47,11 @@ fn cork_exec {
 	cd $cork_root
 	setup_handlers
 
-	for (h in $extraHttpHeaders) {
-		echo -n $h
-	}
+	for (h in $extraHttpHeaders) { echo -n $h }
 
-	echo # End of HTTP headers
-
+	echo 
 	if (! ~ $#debug 0) {
 		dprint $"SERVER_NAME^$"REQUEST_URI - $"HTTP_USER_AGENT - $"REQUEST_METHOD - $"handler_body_main - $"master_template
-	}
-
-	if (~ $REQUEST_METHOD HEAD) {
-		exit
 	}
 
 	template $master_template # | awk_buffer
@@ -121,7 +104,7 @@ fn ll_add { _l=$1^_^$#$1; $_l=$*(2-); $1=( $$1 $_l ) }
 
 fn md_handler { $fm $1 }
 
-fn nav_tree {
+fn sbar {
 echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
 ls -F $sitedir/./$req_paths_list >[2]/dev/null \
 | {
@@ -158,7 +141,7 @@ difs=$ifs
 dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/[._][^\/]/d; /\/index\.(md)$/d;'
 dirclean=' s/\.(md)$//; '
 path=(. /bin ./bin)
-ll_add handlers_bar_left nav_tree
+ll_add handlers_bar_left sbar 
 cork_root=`{pwd}
 sitesdir=sites
 cork_exec

@@ -1,6 +1,6 @@
 # Agitation Propaganda
 
-*Last update: 2024/09/09*
+Last update: 2024/09/09
 
 I never heard the term 'agit-prop' until Luke Smith mentioned it in passsing one livestream... Luke basically framed its meaning through the lenses of the TrumpXHilary period of American politics. Where you'd be certain to see a dime-a-dozen reaction channels, left or right, doing one thing and one thing only - reacting.
 
