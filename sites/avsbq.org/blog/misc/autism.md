@@ -1,5 +1,7 @@
 # Autism
 
+2024/09/29
+
 Todo explan romulus and remus, roman and mifim differences, is mifim artistic?
 
 ## Default state for mankind?

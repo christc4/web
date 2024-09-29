@@ -194,3 +194,5 @@ the party wants to sew discourse
 ruinous
 
 scraping the bottom of the barrel h
+
+tho noose around his neck had been loosened

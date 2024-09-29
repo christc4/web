@@ -4,7 +4,9 @@
 
 Names intentionally redacted
 
-<!-- If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem -->
+If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem 
+
+Between your regrets after quitting and your current suffering which can you bear more easily? Try putting them on a scale
 
 If it looks like a duck and quacks like a duck then it's probably a duck
 
