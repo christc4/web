@@ -27,7 +27,6 @@ fn cork {
 	echo 
 	template $master_template 
 }
-fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
 fn fltr_cache {
     a=()
     tmpf=()
@@ -78,12 +77,10 @@ fn sbar {
 fn run_handlers { for(h in $*) run_handler $$h }
 fn run_handler { $*(1) $*(2-) }
 fn setup_handlers { local_file=$local_path.md handler_body_main=(md_handler $local_file) }
-# fn setup_handlers { if (test -f $local_path.md) { local_file=$local_path.md; handler_body_main=(md_handler $local_file) }} 
 fn template { awk -f bin/template.awk $* | rc $rcargs }
 fm=(fltr_cache m2h.awk)
-difs=$ifs 
 dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/index\.(md)$/d;'
-dirclean=' s/\.(md)$//; '
+dirclean='s/\.(md)$//;'
 path=(. /bin ./bin)
 ll_add handlers_bar_left sbar 
 cork_root=`{pwd}
