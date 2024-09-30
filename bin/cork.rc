@@ -7,10 +7,10 @@ fn awk_buffer { awk '{ buf = buf $0 "\n"; if (length(buf) > 1400) { printf "%s",
 
 fn cork {
 	site=$SERVER_NAME
-	base_url=http://$site:$SERVER_PORT
+	base_url=//$site
 	sitedir=$sitesdir/$site
 	master_template=`{get_lib_file default_master.tpl}
-	req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/%5[Ff]/_/g; s/\.\.*/./g; 1q'}
+	req_path=`{echo -n $REQUEST_URI | sed 's/\?.*//; s!//+!/!g; s/\.\.*/./g; 1q'}
 	req_url=$base_url^$req_path
 	local_path=$sitedir$req_path
 	local_file=''
@@ -74,12 +74,17 @@ fn ll_add { _l=$1^_^$#$1; $_l=$*(2-); $1=( $$1 $_l ) }
 fn md_handler { $fm $1 }
 
 fn sbar {
-echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
-ls -F $sitedir/./$req_paths_list >[2]/dev/null \
-| { sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean } | sort -u | awk -F/ '
-function p(x, y, s) { for(i=0; i < x-y; i+=1) printf s }
-BEGIN { lNF=2; } { d = ""; if(match($0, "/$")) d = "/"; sub("/$", ""); p(NF, lNF, "<li><ul>"); p(lNF, NF, "</ul>"); lNF = NF; fp = $NF d; path = $0 d; gsub(/[\-_]/, " ", fp); pa = path; gsub(/[^\/]$/, "&/", pa); if(index(ENVIRON["req_path"] "/", pa) == 1) printf "<li><a href=" path ">> <b>"fp"</b></a>"; else printf "<li><a href=" path ">"fp"</a>"; }
-END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'
+    echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
+    ls -F $sitedir/./$req_paths_list \
+    | { sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean } | sort -u | awk -F/ '
+    function p(x, y, s) { for(i=0; i < x-y; i+=1) printf s }
+    BEGIN { lNF=2; }
+    { d = ""; if(match($0, "/$")) d = "/"; sub("/$", ""); p(NF, lNF, "<li><ul>"); p(lNF, NF, "</ul>"); lNF = NF; 
+      fp = $NF d; path = $0 d; gsub(/[\-_]/, " ", fp); pa = path; gsub(/[^\/]$/, "&/", pa); 
+      if(index(ENVIRON["req_path"] "/", pa) == 1) printf "<li><a href=" path ">> <b>"fp"</b></a>"; 
+      else printf "<li><a href=" path ">"fp"</a>"; 
+    }
+    END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'
 }
 
 fn run_handlers { for(h in $*) run_handler $$h }
