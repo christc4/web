@@ -27,6 +27,7 @@ fn cork {
 	echo 
 	template $master_template 
 }
+fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
 fn fltr_cache {
     a=()
     tmpf=()
