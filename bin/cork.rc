@@ -1,10 +1,6 @@
 #!/bin/rc
 cd ..
-# plan9port=$PLAN9
-# path=($plan9port/bin . ./bin /bin /usr/bin)
-
 fn awk_buffer { awk '{ buf = buf $0 "\n"; if (length(buf) > 1400) { printf "%s", buf; buf = "" } } END { printf "%s", buf }' }
-
 fn cork {
 	site=$SERVER_NAME
 	base_url=//$site
@@ -16,22 +12,20 @@ fn cork {
 	local_file=''
 	ifs='/' { args=`{echo -n $req_path} }
 	if (~ $req_path */index) { perm_redirect `{echo -n $req_path | sed 's,/index$,/,'} }
-	if (~ $local_path */) { if (test -d $local_path) { local_path=$local_path^'index' } }
+	if (test -d $local_path) { local_path=$local_path^'index' }
 	cd $sitedir
 	req_paths_list='/' 
-	conf_wd='/' # Used in config files to know where we are in the document tree.
+	conf_wd='/' 
 	for (i in $args) {
-		conf_wd=$conf_wd^$i
-		req_paths_list=($req_paths_list $conf_wd)
-		if (test -d $i) {
-			conf_wd=$conf_wd'/'
-			cd $i
-		}
+	    conf_wd=$conf_wd^$i
+	    req_paths_list=($req_paths_list $conf_wd)
+	    conf_wd=$conf_wd'/'
+	    cd $i
 	}
 	cd $cork_root
 	setup_handlers
 	echo 
-	template $master_template # | awk_buffer
+	template $master_template 
 }
 fn dprint { echo $* >[1=2] }
 fn echo {if(! ~ $1 -n || ! ~ $2 '') /bin/echo $*}
@@ -70,6 +64,7 @@ fn fltr_cache {
 }
 
 fn get_lib_file { echo -n bin/default_master.tpl }
+
 fn ll_add { _l=$1^_^$#$1; $_l=$*(2-); $1=( $$1 $_l ) }
 fn md_handler { $fm $1 }
 
@@ -89,7 +84,8 @@ fn sbar {
 
 fn run_handlers { for(h in $*) run_handler $$h }
 fn run_handler { $*(1) $*(2-) }
-fn setup_handlers { if (test -f $local_path.md) { local_file=$local_path.md; handler_body_main=(md_handler $local_file) }} 
+fn setup_handlers { local_file=$local_path.md handler_body_main=(md_handler $local_file) }
+# fn setup_handlers { if (test -f $local_path.md) { local_file=$local_path.md; handler_body_main=(md_handler $local_file) }} 
 fn template { awk -f bin/template.awk $* | rc $rcargs }
 fm=(fltr_cache m2h.awk)
 difs=$ifs 

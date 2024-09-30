@@ -1,12 +1,11 @@
 # Tuple
 
-*Last update: 2024/09/26*
+2024/09/26
 
 <details><summary>Sources used:</summary>
 [Xah Lee](http://www.xahlee.info/python/python_tuple.html)
 </details>
 
-<hr>
 
 Tuples are like lists, except they cannot be changed. The slot values cannot change, the length cannot change
 
@@ -33,10 +32,10 @@ Return a new tuple with items of _iterable_
 
 Neither item, nor length of tuples can be changed
 
-<object data=".txt/tuple_cannot_change_error.txt" width="568px" height="40px"></object>
+<object data=".txt/tuple_cannot_change_error.txt" width="568px" height="60px"></object>
 
 ## Nested Tuple and List
 
 List and tuple can contain mixed datatypes and nested in anyway
 
-<object data=".txt/nested_tuple_and_list.txt" width="304px" height="40px"></object>
+<object data=".txt/nested_tuple_and_list.txt" width="304px" height="60px"></object>
