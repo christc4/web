@@ -81,7 +81,7 @@ fn template { awk -f bin/template.awk $* | rc $rcargs }
 fm=(fltr_cache m2h.awk)
 difs=$ifs 
 dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,; /\/index\.(md)$/d;'
-dirclean=' s/\.(md)$//; '
+dirclean='s/\.(md)$//;'
 path=(. /bin ./bin)
 ll_add handlers_bar_left sbar 
 cork_root=`{pwd}
