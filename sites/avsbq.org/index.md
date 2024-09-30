@@ -1,3 +1,4 @@
+<meta charset=utf-8>
 <style>body{background: url(.pix/a.avif) no-repeat bottom right;}</style>
 
 # Website of Christos
@@ -5,6 +6,12 @@
 Last update: 2024/09/28
 
 Welcome stargazer don't forget to wipe ur feet
+
+Ƿilcuma, steorrasċēaƿere, ne forgyt þæt þū þīne fēt afylst
+
+ᚹᛁᛚᚳᚢᛗᚪ, ᛋᛏᛖᛟᚱᚱᚪᛋᚳᛇᚹᛖᚱᛖ, ᚾᛖ ᚠᛟᚱᚷᚣᛏ ᚦᚪᛏ ᚦᚢ ᚦᛁᚾᛖ ᚠᛖᛏ ᚪᚠᚣᛚᛋᛏ
+
+欢迎, 观星者, 别忘了擦脚
 
 ## How my site stays alive
 
