@@ -28,3 +28,11 @@ Creates backup
 	sed -i 's/\<str\>/gif/g' filename.html
 
 s/\<str\>/gif/g: Substitute (s) str with gif, where \< and \> ensure that only the exact word str is replaced, not occurrences where str is a part of another word.
+
+@
+
+## Loop
+
+	for file in *.md; do sed -i 's|\.pix/||g' "$file"; done
+
+removes every instance of .pix/

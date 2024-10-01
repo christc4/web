@@ -38,7 +38,7 @@ What I would like are my own instances of
 
 ## General advise
 
-<img src="/.pix/compsci_dummies.avif" style="width: 300px; height: auto;">
+<img src="/compsci_dummies.avif" style="width: 300px; height: auto;">
 
 - Don't use LinkedIn
 - Don't use Medium

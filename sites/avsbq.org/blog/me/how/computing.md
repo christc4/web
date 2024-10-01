@@ -16,8 +16,8 @@ I roll my shoulders and do neck-stretches.
 
 When not typing I keep my wrists in a neutral position. I also try to nudge my mouse/trackball while my wrists are neutral
 
-<img src=".pix/wrist.avif" style="width: 450px; height: auto;">
-<img src=".pix/shelving_unit.avif" style="width: 450px; height: auto;">
+<img src="wrist.avif" style="width: 450px; height: auto;">
+<img src="shelving_unit.avif" style="width: 450px; height: auto;">
 
 
 
@@ -25,7 +25,7 @@ When not typing I keep my wrists in a neutral position. I also try to nudge my m
 
 I use what I guess you'd call a &apos;headless&apos; laptop,
 
-<img src=".pix/headless_x230_01.avif" style="width: 450px; height: auto;">
+<img src="headless_x230_01.avif" style="width: 450px; height: auto;">
 
 It's the motherboard of a corebooted ThinkPad x230
 
@@ -34,11 +34,11 @@ Sidenote: Laptops with their motherboards encased feels like leaving your child 
 
 ## Software
 
-<img src=".pix/rio.png" style="width: 300px; height: auto;">
+<img src="rio.png" style="width: 300px; height: auto;">
 
-<img src=".pix/sowm.png" style="width: 300px; height: auto;">
+<img src="sowm.png" style="width: 300px; height: auto;">
 
-<img src=".pix/android.webp" style="width: 300px; height: auto;">
+<img src="android.webp" style="width: 300px; height: auto;">
 
 Top, Plan9 Rio. Middle, sowm. Bottom, termux
 
@@ -91,7 +91,7 @@ Top, Plan9 Rio. Middle, sowm. Bottom, termux
 
 - *MONITOR*: Dell 19" P1914Sc P1914Sf 1280x1024 SXGA 4:3
 - *Keyboard*
-	- [Maltron 2D](https://www.maltron.com/store/p13/Maltron_L89_dual_hand_ergonomic_flat_%282D%29_keyboard_-_UK_English.html), see my [video review](https://youtu.be/plvqPfsZ9uY?si=dY-HjHellQ-mzlML)
+	- [Maltron 2D](https://www.maltron.com), see my [video review](https://youtu.be/plvqPfsZ9uY?si=dY-HjHellQ-mzlML)
 - *Trackball*
 	- Traxys Esterline, Microsoft Explorer
 - *Mouse*

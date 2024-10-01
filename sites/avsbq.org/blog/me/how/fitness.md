@@ -18,7 +18,7 @@ IDEALLY, ones 'fitness' should be going on hikes with their siblings/kids and fi
 
 If you have a job or are at school, go to bathroom once a day - start doing pullups. Eventually you become part of the background decoration and people stop taking notice.
 
-<img src=".pix/toilet_pullup.avif" style="width: auto; height: 250px;">
+<img src="toilet_pullup.avif" style="width: auto; height: 250px;">
 
 NOTE: I never ever wrapped the toilet bar, someone inspired by me did this. Use shoulder pads from old suit or cloth to wrap your palm. This is a desecration of my college's bathroom
 
@@ -30,4 +30,4 @@ Completely idiotic picture.. Stress kills you. Cardio is not natural..
 
 Left-hand man is a steroid junkie, right hand man eats too much food, causing stress on his digestive system
 
-<img src="/.pix/suffer_or_suffer.avif" style="width: 300px; height: auto;">
+<img src="/suffer_or_suffer.avif" style="width: 300px; height: auto;">

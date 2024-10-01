@@ -29,7 +29,7 @@ I'd recommend keeping your eyes peeled on devices like the Framework laptop
 .
 Now read Luke Smith's fantastic [article](https://lukesmith.xyz/articles/only-use-old-computers/)
 
-![image](.pix/dinosaur-laptop.webp)
+![image](dinosaur-laptop.webp)
 
 ## Back to wordy blog&hellip;
 

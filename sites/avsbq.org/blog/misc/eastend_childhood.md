@@ -4,8 +4,6 @@
 
 On the 12th of August 2024, I read Simon Webb's marvelous book, _A 1960s East End Childhood_ to which many of my glamarous assumptions of that era were dispelled.
 
-<img src=".pix/a_1960s_east_end_childhood.avif" style="width:100px; height: auto;">
-
 I'd like to give an account for what *my* childhood was like in the late 2000s and early 2010s. Dislocation from what people remember and what history rremembers
 
 Memories deteriorate and I assume this will undergo many revisions until I'm satisfied I've given an exact and honest account...
@@ -16,7 +14,7 @@ Memories deteriorate and I assume this will undergo many revisions until I'm sat
 
 My Mother worked in Jaypharm Chemist in Brayford Square, Shadwell and my Father	worked each day at a care home for the elderly. 
 
-<img src=".pix/jaypharm1.avif" style="width:300px; height: auto;">
+<img src=pix/jaypharm1.avif>
 
 This meant that during summer holidays, I was to stay with Mom at her work. A chemists is hardly a play environment for a child so I was stowed away in a little back room, like a castaway but that area was where my imagination could spill out onto paper 
 
@@ -24,13 +22,13 @@ I would have sheets of paper in which I'd fill to the brim with stickmen warring
 
 My mother would eventually buy me these cheap plastic army men for me to play with that the Chemist conveniently sold, 
 
-<img src=".pix/jaypharm2.avif" style="width:300px; height: auto;">
+<img src=pix/jaypharm2.avif>
 
 This would come to an end more or less one day when a fellow worker saw me in there when theyd went in to bring back something. He made a comment to my Mother about how it wasn't appropriate for me to be there, to which she agreed and I was free to explore the square 
 
 This new rite of freedom, I soon realised wasn't all it was chalked up to be. 
 
-<img src=".pix/jaypharm_court1.avif" style="width:300px; height: auto;">
+<img src=pix/jaypharm_court1.avif>
 
 todo
 information is not being furnishsed or embellished

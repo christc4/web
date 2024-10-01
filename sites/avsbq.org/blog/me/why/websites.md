@@ -12,4 +12,4 @@ Visitors are always welcome - plenty of refreshments - but the age of great web 
 
 ## Kind words 
 
-<img src=.pix/kind1.avif>
+<img src=kind1.avif>

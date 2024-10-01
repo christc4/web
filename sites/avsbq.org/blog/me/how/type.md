@@ -29,9 +29,9 @@ Get something like the below...
 
 I used this for a week or so, then gifted to a friend
 
-<img src=".pix/x-bows_ebay.avif" style="width:550px; height: auto;">
+<img src="x-bows_ebay.avif" style="width:550px; height: auto;">
 
 I've never typed on this but good deal
 
-<img src=".pix/cleave_ebay.avif" style="width:250px; height: auto;">
+<img src="cleave_ebay.avif" style="width:250px; height: auto;">
 

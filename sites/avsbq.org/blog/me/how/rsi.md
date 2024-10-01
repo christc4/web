@@ -29,7 +29,7 @@ Total abstinence from the mouse won't solve or prevent RSI,
 
 If you are for reasons unkown to use a laptop.. don't twist your wrist at the touchpad, move your entire forearm to control the cursor or gesture
 
-<img src=.pix/rsi1.avif>
+<img src=rsi1.avif>
 
 ### What is the real solution?
 

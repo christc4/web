@@ -2,7 +2,7 @@
 
 Acme is perfect with working with dozens of files
 
-<img src=".pix/acme.png" style="width:655px; height: auto;">
+<img src="acme.png" style="width:655px; height: auto;">
 	
 ## Zerox
 

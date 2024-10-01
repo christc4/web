@@ -1,7 +1,7 @@
 # Blind Spots
 
 <details><summary>Sources of inspiration:</summary>
-<img src=".pix/a_1960s_east_end_childhood.avif" style="width:100px; height: auto;">, [Edward Dutton &amp; Simon Webb](https://youtu.be/X1BSFWpVdH8?si=7Vb57xWgshm2QC-X)
+<img src=pix/"pix/a_1960s_east_end_childhood.avif" style="width:100px; height: auto;">, [Edward Dutton &amp; Simon Webb](https://youtu.be/X1BSFWpVdH8?si=7Vb57xWgshm2QC-X)
 </details>
 
 *Last updated: 2024/09/02*

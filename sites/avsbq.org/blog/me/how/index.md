@@ -1,4 +1,4 @@
-<style>body { background: url(.pix/can.avif) no-repeat; background-position: bottom right !important; background-attachment: fixed; background-size: 350px auto; /* Adjust the size as needed */ }</style>
+<style>body { background: url(can.avif) no-repeat; background-position: bottom right !important; background-attachment: fixed; background-size: 350px auto; /* Adjust the size as needed */ }</style>
 
 # How
 

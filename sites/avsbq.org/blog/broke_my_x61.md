@@ -4,23 +4,23 @@ I broke a x61s motherboard today. Let's frame everything I did wrong in a constr
 
 ## Crime scene
 
-<img src=x61s_5.avif style="width: 300px; height: auto;">
+<img src=pix/x61s_5.avif style="width: 300px; height: auto;">
 
 What am I looking at you ask? Well to put it short, that black wire you see crawling on the screen? That's connected to the power jack in the bottom right corner and, which I didn't bother checking at the time. I hooked it up to the speaker port in the top left corner. What was the outcome of that. My friend and I got a very nice light show (sparks on the board and some transistors got fried).
 
-<img src=x61s_2.avif style="width: 300px; height: auto;">
+<img src=pix/x61s_2.avif style="width: 300px; height: auto;">
 Here's a close up.
 
 ## Why I did that
 
-<img src=x61s_1.avif style="width: 300px; height: auto;">
+<img src=pix/x61s_1.avif style="width: 300px; height: auto;">
 
 Do you see that red and black cable tucked away next to the RAM? Yep, that's the speaker plug, it's been donkeys-years since I hid it there. I didn't want it bumping around and I wasn't using the speaker at the time so it seemed the most convenient place.
 
-<img src=x61s_3.avif style="width: 300px; height: auto;">
+<img src=pix/x61s_3.avif style="width: 300px; height: auto;">
 
 Here's what it's supposed to look like on another board I owned.
-<img src=x61s_4.avif style="width: 300px; height: auto;">
+<img src=pix/x61s_4.avif style="width: 300px; height: auto;">
 
 And that black wire? It's meant to hook up to a bluetooth card.
 
