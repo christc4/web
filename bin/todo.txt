@@ -1,3 +1,5 @@
+Delete logic for index pages, all directories will go to directory/index
+
 remove logic for sitemap and robots
 deleted lines for echo content type, chatgpt dirs filter
 cleanurl forbidden

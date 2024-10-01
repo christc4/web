@@ -19,23 +19,18 @@ This is a shell script [The Ultimate Way of Browsing Channels](https://github.co
 > _"No browsers, accounts, distractions, crappy algorithm and recommendations, advertisements, sponsors, intros, outros, fillers or empty spaces. We eliminate them all"_
 
 <video align="center" width="320" height="340" controls>
-<source src=pix/"pix/.vid/dmenu.webm" type="video/webm">
+<source src=pix/dmenu.webm>
 </video>
 
 You won't have to cross your fingers your kids don't encounter this!
 
-<img src=pix/"pix/50s_twerk.gif" style="width:350px; height: auto;">
+<img src=pix/50s_twerk.gif>
 
-
-<video align="center" width="320" height="340" controls>
-<source src=pix/"pix/.vid/ani_cli.webm" type="video/webm">
-</video>
-
-<img src=pix/"pix/ytfzf.gif" style="width:350px; height: auto;">
+<img src=pix/ytfzf.gif>
 
 ## Centralised or Decentralised
 
-<img src=pix/"pix/centralized_decentralized.avif" style="width:300px; height: auto;">
+<img src=pix/centralized_decentralized.avif
 
 Common people are more impressed if you design a platform as algorithmically and systematically as can be. They will believe more in it. The more it mimicks the society they live, the more invested they will be in it. If you can replicate the congregration of people in a town square - agglomerate it into smooth scrollable interface, you've created magic. 
 
@@ -51,7 +46,7 @@ But what happen's when you get kicked out of said town told to pack up your soap
 
 > For reference this is a soapbox, John Major former UK prime minister pictured atop one
 
-<img src=pix/"pix/john_major_soapbox.avif" style="width:410px; height: auto;">
+<img src=pix/john_major_soapbox.avif>
 
 The newly exiled may float in and out of other towns finding signs akin to the "No Irish, No Blacks, No Coloured' but pertaining to his particular strain of thought. Maybe he will band together with other exiles, and this exodus will start a new platform and we are back to the town square.
 
