@@ -2,7 +2,7 @@
 cd ..
 fn awk_buffer { awk '{ buf = buf $0 "\n"; if (length(buf) > 1400) { printf "%s", buf; buf = "" } } END { printf "%s", buf }' }
 fn cork {
-    sitedir=sites/avsbq.org; master_template=`{get_lib_file default_master.tpl}; req_path=`{echo -n $REQUEST_URI}; req_url=$req_path; local_path=$sitedir$req_path; local_file=''; ifs='/' { args=`{echo -n $req_path} }; if (test -d $local_path) local_path=$local_path^'index'; cd $sitedir; req_paths_list='/'; conf_wd='/'
+    sitedir=sites/avsbq; master_template=`{get_lib_file default_master.tpl}; req_path=`{echo -n $REQUEST_URI}; req_url=$req_path; local_path=$sitedir$req_path; local_file=''; ifs='/' { args=`{echo -n $req_path} }; if (test -d $local_path) local_path=$local_path^'index'; cd $sitedir; req_paths_list='/'; conf_wd='/'
     for (i in $args) {
         conf_wd=$conf_wd^$i
         req_paths_list=($req_paths_list $conf_wd)
