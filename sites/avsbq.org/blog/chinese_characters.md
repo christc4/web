@@ -2,6 +2,10 @@
 
 Last update, 2024/07/22
 
+TODO, add uncle hanzi stuff
+
+CHINESE CHARACTERS WERE ONCE EXTREMELY LOGICAL... LONG AGO
+
 Look at these symbols
 
 <img src=.pix/share.svg><img src=.pix/contactless.svg><img src=.pix/recycle.svg>

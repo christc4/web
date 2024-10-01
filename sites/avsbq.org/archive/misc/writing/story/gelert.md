@@ -1,4 +1,4 @@
-<img src="/.pix/gelert.webp" style="width: 300px; height: auto;">
+<img src="gelert.avif">
 
 <small>From Wild Wales by George Borrow</small>
 
