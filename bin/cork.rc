@@ -115,7 +115,7 @@ fn template {
     run_handlers $handlers_body_head
     run_handler $handler_body_main
 }
-dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,;'
+dirfilter='s,/+\./+,/,g; s,^\./,,;'
 dirclean='s/\.(md)$//;'
 path=(. /bin ./bin)
 ll_add handlers_bar_left sbar
