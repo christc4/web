@@ -60,6 +60,7 @@ fn md_handler {
 
 fn sbar {
     echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
+
     ls -F $sitedir/./$req_paths_list | {
         sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
     } | sort -u |
@@ -115,7 +116,7 @@ fn template {
     run_handlers $handlers_body_head
     run_handler $handler_body_main
 }
-dirfilter='s,/+\./+,/,g; s,^\./,,;'
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,;'
 dirclean='s/\.(md)$//;'
 path=(. /bin ./bin)
 ll_add handlers_bar_left sbar
