@@ -1,5 +1,5 @@
 <meta charset=utf-8>
-<style>body{background: url(a.avif) no-repeat bottom right;}</style>
+<style>body{background: url(a.avif) no-repeat center;}</style>
 
 # Website of Christos
 

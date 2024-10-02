@@ -1,4 +1,4 @@
-<style>body { background: url(pix/cov.avif) no-repeat bottom center !important; }</style>
+<style>body { background: url(pix/cov.avif) no-repeat center !important; }</style>
 
 # Blog
 
