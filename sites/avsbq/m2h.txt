@@ -3,6 +3,7 @@
 function eschtml(t) {
     gsub("&", "\\&amp;", t);
     gsub("<", "\\&lt;", t);
+    gsub("%", "&#37;", t);
     return t;
 }
 function oprint(t){
@@ -130,9 +131,26 @@ BEGIN {
     text = "";
     par = "p";
 }
+# References
+!code && /^ *\[[^\]]*\]:[ 	]+/ {
+    sub(/^ *\[/, "");
+    match($0, /\]/);
+    id = substr($0, 1, RSTART - 1);
+    sub(id "\\]:[ 	]+", "");
+    title = "";
+    if(match($0, /\".*\"$/))
+	title = "\" title=\"" substr($0, RSTART + 1, RLENGTH - 2);
+    sub(/[ 	]+\".*\"$/, "");
+    url = eschtml($0);
+    ref[id] = url title;
+    subref(id);
+    next;
+}
 # html
 !html && /^<(address|blockquote|center|dir|div|dl|fieldset|form|h[1-6r]|\
 isindex|menu|noframes|noscript|ol|p|pre|table|ul|!--)/ {
+    if(code)
+	oprint("</pre></code>");
     for(; !text && block[nl] == "blockquote"; nl--)
 	oprint("</blockquote>");
     match($0, /^<(address|blockquote|center|dir|div|dl|fieldset|form|h[1-6r]|\
@@ -215,6 +233,7 @@ blank && ! /^$/ {
     par = "p";
     blank = 0;
 }
+    
 # Close old blocks and open new ones
 nnl != nl || nblock[nl] != block[nl] {
     if(code){
@@ -239,6 +258,10 @@ nnl > nl {
 	if(match(block[nl + 1], /[ou]l/))
 	    oprint("<li>");
     }
+}
+hr {
+    oprint("<hr>");
+    next;
 }
 # Code blocks
 code && /^$/ { 

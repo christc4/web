@@ -1,4 +1,4 @@
-# How I broke my x61s
+# THIS IS A HEADER ONE
 
 I broke a x61s motherboard today. Let's frame everything I did wrong in a constructive manner so you can learn from my idiocy. I'll start by recreating the crime scene.
 

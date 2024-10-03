@@ -2,8 +2,6 @@
 
 *Last update: 2024/09/20*
 
-<hr>
-
 Offloading parenting is the transferral of father/motherly duties onto others. The closest word in modern exchange is  'outsourcing'
 
 > _where you move internal operations to a third party_
