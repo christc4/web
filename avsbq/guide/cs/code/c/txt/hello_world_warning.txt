@@ -1,0 +1,5 @@
+h.c:3:1: warning: type specifier missing, defaults to 'int'; ISO C99 and later do not support implicit int [-Wimplicit-int]
+main()
+^
+int
+1 warning generated.
