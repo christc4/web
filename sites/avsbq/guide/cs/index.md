@@ -1,6 +1,7 @@
 # CS C(omputer) S(tuff)
 
-<img src="ind.avif" style="width: 500px; height: auto;"> 
+<img src=xah.avif>
+
 Diagram by [Xah Lee](http://xahlee.info)
 
 ## Terms

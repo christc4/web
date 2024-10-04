@@ -1,4 +1,4 @@
-# THIS IS A HEADER ONE
+# Broke my ThinkPad x61s
 
 I broke a x61s motherboard today. Let's frame everything I did wrong in a constructive manner so you can learn from my idiocy. I'll start by recreating the crime scene.
 
@@ -20,6 +20,7 @@ Do you see that red and black cable tucked away next to the RAM? Yep, that's the
 <img src=pix/x61s_3.avif style="width: 300px; height: auto;">
 
 Here's what it's supposed to look like on another board I owned.
+
 <img src=pix/x61s_4.avif style="width: 300px; height: auto;">
 
 And that black wire? It's meant to hook up to a bluetooth card.

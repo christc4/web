@@ -1,7 +1,7 @@
 #!/bin/rc
 cd ..
 fn cork {
-    sitedir=sites/avsbq
+    sitedir=sites/pariffin
     req_path=`{echo -n $REQUEST_URI}
     local_path=$sitedir$req_path
     ifs='/' {args=`{echo -n $req_path}}
@@ -26,7 +26,7 @@ fn ll_add {
     $1=( $$1 $_l )
 }
 fn sbar {
-    echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}ul{list-style:none}nav ul{border-bottom:1px dashed;}img{width:150}pre{padding-left:4em}</style><nav><ul>'
+    echo -n '<style> body { font-family: 'Roboto Condensed', Arial; font-stretch: condensed; background-color: #141416; color: white } h1 { margin: 16px 0; padding: 9px; background-color: #870328; font-size: 25px; color: white; border-radius: 2px; text-align: centre; } h2, h3, h4, h5, h6 { padding: 8px; background-color: #921131; font-size: 19px; color: white; text-align: centre; position: relative; clip-path: polygon(0 0, 50% 0, calc(50% - 2.5em) 100%, 0 100%); } p { color: #C0C3D0; } a { text-decoration: none; color: #Ff6549; } a:hover { text-decoration: underline; color: white; } </style><nav><ul>'
     ls -F $sitedir/./$req_paths_list | {
         sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
     } | sort -u |

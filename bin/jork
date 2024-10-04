@@ -1,0 +1,60 @@
+#!/bin/rc
+cd ..
+fn cork {
+    sitedir=sites/cht
+    req_path=`{echo -n $REQUEST_URI}
+    local_path=$sitedir$req_path
+    ifs='/' {args=`{echo -n $req_path}}
+    if (test -d $local_path) { local_path=$local_path^'index' }
+    cd $sitedir
+    req_paths_list='/'
+    conf_wd='/'
+    for (i in $args) {
+        conf_wd=$conf_wd^$i
+        req_paths_list=($req_paths_list $conf_wd)
+        conf_wd=$conf_wd'/'
+        cd $i
+    }
+    cd $cork_root
+    setup_handlers
+    echo
+    template
+}
+fn ll_add {
+    _l=$1^_^$#$1
+    $_l=$*(2-)
+    $1=( $$1 $_l )
+}
+fn sbar {
+    echo -n '<style>html, a {text-decoration:none;font-family:Helvetica,Arial,sans-serif}body {background-color: #ebdbb2;}body,header nav,nav ul{display:flex}body{flex-wrap:wrap;margin-right:10%;margin-left:10%;text-align:justify}header{flex-basis:100%;flex-shrink:0}article{flex-basis:60%;padding-left:1em}header nav{justify-content:space-between;align-items:center}nav a{color:inherit}body>nav{flex-basis:content;padding-right:1vw;min-width:16em}nav ul{flex-direction:column;list-style-type:none;padding-left:0}nav li ul a{padding-left:.6em;width:150px;white-space:nowrap;overflow:hidden;display:block;text-overflow:ellipsis}h1,h2,h3,h4{text-align:center;font-weight:400;line-height:1.5;margin-bottom:.5em}h1{font-size:200%}h2{font-size:185%}h3{font-size:160%}h4{font-size:130%}small{font-size:30%}p{margin-bottom:0}p.right{text-align:right}img{width:150px;height:auto;transition:transform .3s,width .3s}.br img{background-image:linear-gradient(to right,#7e481c,#4a3728,#7e481c,#4a3728);padding:.2em}code,pre{box-shadow:1px 0 5px 0 red;padding:2px;margin:0;display:inline-block;white-space:pre-wrap}details[open] summary{background-color:#d0d0d0}</style><header><nav><div style="flex-grow:1;text-align:center;"><a href="https://avsbq.org"><span style="font-size:130%;"><b>Jumma Peoples Network UK</b></span></a></div><div><br><input type="text" id="searchBar" placeholder="Search..."> <div id="searchResults"></div><script src="/s.js"></script></div></nav><nav><ul>'
+    ls -F $sitedir/./$req_paths_list | {
+        sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
+    } | sort -u |
+awk -F/ '
+    function p(x,y,s) {for(i=0;i<x-y;i++) printf s}
+    BEGIN { lNF = 2 }
+        {sub("/$", "", $0);
+        p(NF, lNF, "<li><ul>");
+        p(lNF, NF, "</ul>");
+        lNF = NF;
+        fp = $NF;
+        gsub(/[\-_]/, " ", fp);
+        pa = $0 "/";
+        if (index(ENVIRON["req_path"], pa) == 1)
+            printf "<li><a href=\%s\><b>%s</b></a>", $0, fp;
+        else
+            printf "<li><a href=\%s\>%s</a>", $0, fp; }
+    END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'}
+fn run_handlers {for (h in $*) {run_handler $$h}}
+fn run_handler {$*(1) $*(2-)}
+fn setup_handlers {body=(m2h.awk $local_path.md)}
+fn template {
+    for (h in $bar) {run_handler $$h}
+    run_handler $body
+}
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,;'
+dirclean='s/\.(md)$//;'
+path=(. /bin ./bin)
+ll_add bar sbar
+cork_root=`{pwd}
+cork

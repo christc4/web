@@ -207,3 +207,5 @@ Omg! I love fall! Fall is when everything slowly dies...
 Sell me this pen, it's AI powered
 
 Listening to you is like buying hair growth tonic from a bald  man
+
+You have anger issues, no you make me angry. and thats the issue
