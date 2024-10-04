@@ -1,6 +1,4 @@
 <meta charset=utf-8>
-<style>body{background: url(a.avif) no-repeat center;}</style>
-
 # Website of Christos
 
 Last update: 2024/09/28
@@ -38,6 +36,3 @@ If you jive with any of that, i'd love to get in touch,
 _1000 digression's and I'm not done yet_
 
 <!-- autistic people leave classrooms, stimuli, stress, gazelle drinking with aligators -->
-
-- test
-	- testing

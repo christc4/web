@@ -1,7 +1,6 @@
 #!/bin/rc
-cd ..
 fn cork {
-    sitedir=sites/avsbq
+    sitedir=sites/mazumder
     req_path=`{echo -n $REQUEST_URI}
     local_path=$sitedir$req_path
     ifs='/' {args=`{echo -n $req_path}}
